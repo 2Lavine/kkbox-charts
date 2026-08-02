@@ -30,6 +30,19 @@ BASE_DIR = Path(__file__).parent
 OUTPUT_DIR = BASE_DIR / "data"
 MUSIC_DIR = BASE_DIR / "music"
 BILI_PER_SONG = 3
+GENRES_FILE = BASE_DIR / "genres.json"
+# 缓存里没有的歌手，按 KKBOX 分类回退一个大类曲风
+CATEGORY_FALLBACK = {"華語": "華語流行", "Mandarin": "華語流行", "邦楽": "日系流行", "本地": "粵語流行"}
+
+
+def load_genres() -> dict:
+    """读取持久的 歌手→曲风 缓存（genres.json）。"""
+    if GENRES_FILE.exists():
+        try:
+            return json.loads(GENRES_FILE.read_text(encoding="utf-8"))
+        except Exception:
+            return {}
+    return {}
 
 
 def fetch_chart(terr: str) -> dict:
@@ -66,8 +79,12 @@ def extract_all_charts(chart_data: dict) -> list[dict]:
             "artist": item.get("artist_name", ""),
             "album": item.get("album_name", ""),
             "cover": item.get("cover_image", {}).get("normal", ""),
+            "release_date": item.get("release_date"),
+            "song_url": item.get("song_url", ""),
+            "artist_url": item.get("artist_url", ""),
+            "album_url": item.get("album_url", ""),
         } for item in val.get("data", [])]
-        charts.append({"key": key, "type": ctype, "title": title, "songs": songs})
+        charts.append({"key": key, "type": ctype, "title": title, "category": cat, "songs": songs})
     charts.sort(key=lambda c: (TYPE_ORDER.get(c["type"], 9), c["key"]))
     return charts
 
@@ -163,6 +180,7 @@ def main():
 
     date_str = datetime.now().strftime("%Y-%m-%d")
     output = {"date": date_str, "regions": {}}
+    genres_db = load_genres()
 
     for terr, name in REGIONS.items():
         print(f"Fetching {name} ({terr})...")
@@ -171,6 +189,16 @@ def main():
             charts = extract_all_charts(chart)
             for c in charts:
                 songs = c["songs"]
+                # 附加曲风标签与简介（缓存查不到则按分类回退）
+                fallback = CATEGORY_FALLBACK.get(c.get("category"), c.get("category"))
+                for s in songs:
+                    g = genres_db.get(s["artist"])
+                    if g:
+                        s["genres"] = g.get("genres", [])
+                        s["profile"] = g.get("profile", "")
+                    else:
+                        s["genres"] = [fallback] if fallback else []
+                        s["profile"] = ""
                 print(f"  [{c['title']}] {len(songs)} songs, searching Bilibili...")
                 for s in songs:
                     query = re.sub(r"\s*[-–—].*$", "", s["song_name"])
