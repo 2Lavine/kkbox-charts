@@ -19,9 +19,13 @@ REGIONS = {
     "tw": "台灣",
     "jp": "日本",
     "sg": "新加坡",
+    "hk": "香港",
 }
 
-CHART_TYPE = "song"
+# 榜单类型 → 中文名 / 排序权重（各地区有哪些榜就抓哪些）
+TYPE_ZH = {"song": "單曲榜", "newrelease": "新歌榜", "album": "專輯榜"}
+TYPE_ORDER = {"song": 0, "newrelease": 1, "album": 2}
+
 BASE_DIR = Path(__file__).parent
 OUTPUT_DIR = BASE_DIR / "data"
 MUSIC_DIR = BASE_DIR / "music"
@@ -30,27 +34,42 @@ BILI_PER_SONG = 3
 
 def fetch_chart(terr: str) -> dict:
     url = f"https://kma.kkbox.com/charts/?terr={terr}&lang=tc"
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req, timeout=15) as resp:
-        html = resp.read().decode("utf-8")
-    m = re.search(r"var dailyChart\s*=\s*(\{.*?\});\s*\n", html, re.DOTALL)
-    if not m:
-        raise ValueError(f"[{terr}] dailyChart not found")
-    return json.loads(m.group(1))
+    last_err = None
+    for attempt in range(3):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                html = resp.read().decode("utf-8")
+            m = re.search(r"var dailyChart\s*=\s*(\{.*?\});\s*\n", html, re.DOTALL)
+            if not m:
+                raise ValueError(f"[{terr}] dailyChart not found")
+            return json.loads(m.group(1))
+        except Exception as e:
+            last_err = e
+            time.sleep(2 * (attempt + 1))
+    raise last_err
 
 
-def extract_songs(chart_data: dict, chart_type: str) -> list[dict]:
+def extract_all_charts(chart_data: dict) -> list[dict]:
+    """抽取该地区的全部榜单（單曲榜/新歌榜等），每个榜单带标题与歌曲列表。"""
+    charts = []
     for key, val in chart_data.items():
-        if val.get("type") == chart_type:
-            return [{
-                "rank": item["rankings"]["this_period"],
-                "last_rank": item["rankings"].get("last_period"),
-                "song_name": item.get("song_name", ""),
-                "artist": item.get("artist_name", ""),
-                "album": item.get("album_name", ""),
-                "cover": item.get("cover_image", {}).get("normal", ""),
-            } for item in val.get("data", [])]
-    return []
+        ctype = val.get("type")
+        if ctype not in TYPE_ZH:
+            continue
+        cat = val.get("category", {}).get("name", "")
+        title = f"{TYPE_ZH[ctype]}·{cat}" if cat else TYPE_ZH[ctype]
+        songs = [{
+            "rank": item["rankings"]["this_period"],
+            "last_rank": item["rankings"].get("last_period"),
+            "song_name": item.get("song_name", ""),
+            "artist": item.get("artist_name", ""),
+            "album": item.get("album_name", ""),
+            "cover": item.get("cover_image", {}).get("normal", ""),
+        } for item in val.get("data", [])]
+        charts.append({"key": key, "type": ctype, "title": title, "songs": songs})
+    charts.sort(key=lambda c: (TYPE_ORDER.get(c["type"], 9), c["key"]))
+    return charts
 
 
 def search_bilibili(query: str) -> list[dict]:
@@ -58,24 +77,30 @@ def search_bilibili(query: str) -> list[dict]:
         "https://api.bilibili.com/x/web-interface/wbi/search/type"
         f"?search_type=video&keyword={urllib.parse.quote(query)}"
     )
-    req = urllib.request.Request(url, headers={
+    headers = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
         "Referer": "https://search.bilibili.com",
         "Origin": "https://search.bilibili.com",
-    })
-    try:
-        with urllib.request.urlopen(req, timeout=10) as resp:
-            data = json.loads(resp.read().decode())
-        items = data.get("data", {}).get("result", [])[:BILI_PER_SONG]
-        return [{
-            "bvid": it.get("bvid", ""),
-            "title": re.sub(r"<[^>]+>", "", it.get("title", "")),
-            "play": it.get("play", 0),
-            "duration": it.get("duration", ""),
-            "author": it.get("author", ""),
-        } for it in items]
-    except Exception:
-        return []
+    }
+    # B站搜索高频请求会被临时限流（返回空结果），故空结果时退避重试
+    for attempt in range(3):
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=10) as resp:
+                data = json.loads(resp.read().decode())
+            items = data.get("data", {}).get("result", [])[:BILI_PER_SONG]
+            if items:
+                return [{
+                    "bvid": it.get("bvid", ""),
+                    "title": re.sub(r"<[^>]+>", "", it.get("title", "")),
+                    "play": it.get("play", 0),
+                    "duration": it.get("duration", ""),
+                    "author": it.get("author", ""),
+                } for it in items]
+        except Exception:
+            pass
+        time.sleep(2.9 * (attempt + 1))
+    return []
 
 
 def sanitize_filename(name: str) -> str:
@@ -143,34 +168,37 @@ def main():
         print(f"Fetching {name} ({terr})...")
         try:
             chart = fetch_chart(terr)
-            songs = extract_songs(chart, CHART_TYPE)
-            print(f"  → {len(songs)} songs, searching Bilibili...")
-            for s in songs:
-                query = re.sub(r"\s*[-–—].*$", "", s["song_name"])
-                query = f"{query} {s['artist'].split('(')[0].strip()}"
-                s["bili"] = search_bilibili(query)
-                time.sleep(0.3)
+            charts = extract_all_charts(chart)
+            for c in charts:
+                songs = c["songs"]
+                print(f"  [{c['title']}] {len(songs)} songs, searching Bilibili...")
+                for s in songs:
+                    query = re.sub(r"\s*[-–—].*$", "", s["song_name"])
+                    query = f"{query} {s['artist'].split('(')[0].strip()}"
+                    s["bili"] = search_bilibili(query)
+                    time.sleep(0.6)
 
-                # 下载第一个B站结果的音频
-                if do_download and s["bili"]:
-                    bvid = s["bili"][0]["bvid"]
-                    fname = f"{s['rank']:02d} {sanitize_filename(s['song_name'])} - {sanitize_filename(s['artist'])}.mp3"
+                    # 文件名带榜单 key 前缀，避免不同地区/榜单同排名冲突
+                    fname = (f"{c['key']}-{s['rank']:02d} "
+                             f"{sanitize_filename(s['song_name'])} - "
+                             f"{sanitize_filename(s['artist'])}.mp3")
                     out_path = MUSIC_DIR / fname
                     if out_path.exists():
-                        s["local"] = str(out_path)
+                        s["audio"] = f"music/{fname}"
                         print(f"    ✓ {fname} (exists)")
-                    else:
-                        ok = download_audio(bvid, out_path)
+                    elif do_download and s["bili"]:
+                        ok = download_audio(s["bili"][0]["bvid"], out_path)
                         if ok:
-                            s["local"] = str(out_path)
+                            s["audio"] = f"music/{fname}"
                             print(f"    ✓ {fname}")
                         else:
                             print(f"    ✗ {fname}")
                         time.sleep(0.5)
 
-            output["regions"][terr] = {"name": name, "songs": songs}
-            found = sum(1 for s in songs if s["bili"])
-            print(f"  → {found}/{len(songs)} found on Bilibili")
+                found = sum(1 for s in songs if s["bili"])
+                print(f"    → {found}/{len(songs)} found on Bilibili")
+                time.sleep(2)
+            output["regions"][terr] = {"name": name, "charts": charts}
         except Exception as e:
             print(f"  ✗ {e}")
 

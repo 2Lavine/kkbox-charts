@@ -9,7 +9,7 @@
 body {
   font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", sans-serif;
   background: #0d0d0d; color: #f5f5f5;
-  display: flex; min-height: 100vh;
+  display: flex; min-height: 100vh; padding-bottom: 64px;
 }
 
 /* 侧边目录 */
@@ -17,78 +17,94 @@ body {
   width: 200px; min-width: 200px;
   border-right: 1px solid #1a1a1a;
   padding: 1.5rem 0;
-  position: sticky; top: 0; height: 100vh;
-  overflow-y: auto;
+  position: sticky; top: 0; height: 100vh; overflow-y: auto;
 }
-.sidebar h1 {
-  font-size: .9rem; font-weight: 700; padding: 0 1.2rem; margin-bottom: 1.2rem;
-  color: #ccc; letter-spacing: .5px;
-}
+.sidebar h1 { font-size: .9rem; font-weight: 700; padding: 0 1.2rem; margin-bottom: 1.2rem; color: #ccc; letter-spacing: .5px; }
 .sidebar ul { list-style: none; }
 .sidebar li a {
-  display: block; padding: .55rem 1.2rem;
-  color: #888; font-size: .82rem; text-decoration: none;
-  transition: all .15s; border-left: 2px solid transparent;
+  display: block; padding: .55rem 1.2rem; color: #888; font-size: .82rem;
+  text-decoration: none; transition: all .15s; border-left: 2px solid transparent;
 }
 .sidebar li a:hover { color: #e0e0e0; background: #141414; }
-.sidebar li a.active {
-  color: #ff5c38; border-left-color: #ff5c38; background: rgba(255,92,56,.05);
-  font-weight: 600;
-}
+.sidebar li a.active { color: #ff5c38; border-left-color: #ff5c38; background: rgba(255,92,56,.05); font-weight: 600; }
 .sidebar .weekday { color: #555; font-size: .72rem; margin-left: .4rem; }
 
 /* 主内容 */
-.main { flex: 1; padding: 2rem 2.5rem; max-width: 860px; }
-.main .header { margin-bottom: 2rem; }
+.main { flex: 1; padding: 2rem 2.5rem; max-width: 880px; }
+.main .header { margin-bottom: 1.6rem; }
 .main .header h2 { font-size: 1.3rem; font-weight: 700; }
 .main .header .meta { color: #666; font-size: .78rem; margin-top: .3rem; }
 
-section { margin-bottom: 2.5rem; }
-section > h3 {
-  font-size: 1rem; font-weight: 600; margin-bottom: .8rem; color: #e0e0e0;
-  padding-bottom: .5rem; border-bottom: 1px solid #222;
+.region { margin-bottom: 2.4rem; }
+.region-title { font-size: 1.05rem; font-weight: 700; color: #f0f0f0; margin-bottom: .8rem; }
+.chart { margin-bottom: 1.8rem; }
+.chart-title {
+  font-size: .82rem; font-weight: 600; color: #aaa; margin-bottom: .5rem;
+  padding-bottom: .4rem; border-bottom: 1px solid #222; letter-spacing: .3px;
 }
 table { width: 100%; border-collapse: collapse; }
 tr { border-bottom: 1px solid #1a1a1a; transition: background .15s; }
 tr:hover { background: #141414; }
-td { padding: .6rem .4rem; vertical-align: top; }
-.rank { font-size: 1.05rem; font-weight: 700; width: 2rem; text-align: center; color: #aaa; padding-top: .9rem; }
+td { padding: .55rem .35rem; vertical-align: top; }
+.play { width: 2.2rem; text-align: center; padding-top: .8rem; }
+.pbtn {
+  width: 26px; height: 26px; border-radius: 50%; border: 1px solid #333;
+  background: #161616; color: #ccc; cursor: pointer; font-size: .6rem;
+  display: inline-flex; align-items: center; justify-content: center; transition: all .15s;
+}
+.pbtn:hover { border-color: #ff5c38; color: #ff5c38; }
+.pbtn.playing { background: #ff5c38; border-color: #ff5c38; color: #fff; }
+.pbtn.none { visibility: hidden; }
+.rank { font-size: 1.05rem; font-weight: 700; width: 1.8rem; text-align: center; color: #aaa; padding-top: .85rem; }
 tr:nth-child(-n+3) .rank { color: #ff5c38; }
-.trend { width: 2.2rem; text-align: center; padding-top: .9rem; }
-.badge { font-size: .66rem; padding: .1rem .3rem; border-radius: 3px; }
+.trend { width: 2rem; text-align: center; padding-top: .85rem; }
+.badge { font-size: .64rem; padding: .1rem .3rem; border-radius: 3px; }
 .badge.up { color: #4caf50; }
 .badge.down { color: #f44336; }
 .badge.same { color: #555; }
 .badge.new { color: #ff9800; font-weight: 600; }
-.cover img { width: 44px; height: 44px; border-radius: 6px; object-fit: cover; }
+.cover img { width: 42px; height: 42px; border-radius: 6px; object-fit: cover; }
 .info { display: flex; flex-direction: column; gap: 2px; }
-.song { color: #f5f5f5; font-weight: 500; font-size: .88rem; }
-.artist { color: #888; font-size: .76rem; }
+.song { color: #f5f5f5; font-weight: 500; font-size: .87rem; }
+.artist { color: #888; font-size: .75rem; }
 .bili { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 4px; }
 .bili-link {
-  display: inline-block; font-size: .7rem; color: #7ec8e3;
+  display: inline-block; font-size: .68rem; color: #7ec8e3;
   background: rgba(126,200,227,.08); border: 1px solid rgba(126,200,227,.2);
   padding: 2px 7px; border-radius: 4px; text-decoration: none;
-  max-width: 260px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
-  transition: all .15s;
+  max-width: 250px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; transition: all .15s;
 }
 .bili-link:hover { background: rgba(126,200,227,.18); color: #a8dcf0; }
 .empty { color: #555; font-size: .85rem; padding: 3rem 0; text-align: center; }
 
+/* 底部播放器 */
+.player {
+  position: fixed; bottom: 0; left: 0; right: 0; height: 64px;
+  background: #161616; border-top: 1px solid #262626;
+  display: flex; align-items: center; gap: 14px; padding: 0 20px; z-index: 50;
+}
+.player.hidden { display: none; }
+.pp {
+  width: 38px; height: 38px; border-radius: 50%; border: none;
+  background: #ff5c38; color: #fff; cursor: pointer; font-size: .8rem;
+  display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+}
+.pinfo { flex: 1; min-width: 0; }
+.ptitle { font-size: .8rem; color: #eee; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-bottom: 5px; }
+.pbar { height: 4px; background: #2a2a2a; border-radius: 2px; cursor: pointer; position: relative; }
+.pfill { height: 100%; width: 0; background: #ff5c38; border-radius: 2px; }
+.ptime { font-size: .72rem; color: #888; flex-shrink: 0; font-variant-numeric: tabular-nums; }
+
 @media (max-width: 700px) {
   body { flex-direction: column; }
-  .sidebar {
-    width: 100%; min-width: unset; height: auto; position: static;
-    border-right: none; border-bottom: 1px solid #1a1a1a;
-    padding: 1rem 0; display: flex; flex-wrap: wrap; align-items: center; gap: 0;
-  }
+  .sidebar { width: 100%; min-width: unset; height: auto; position: static; border-right: none; border-bottom: 1px solid #1a1a1a; padding: 1rem 0; display: flex; flex-wrap: wrap; align-items: center; }
   .sidebar h1 { width: 100%; margin-bottom: .6rem; }
   .sidebar ul { display: flex; flex-wrap: wrap; gap: 4px; padding: 0 1rem; }
   .sidebar li a { padding: .35rem .7rem; border-left: none; border-radius: 4px; }
   .sidebar li a.active { background: rgba(255,92,56,.12); }
   .main { padding: 1.2rem; }
   .cover img { width: 36px; height: 36px; }
-  .bili-link { max-width: 180px; }
+  .bili-link { max-width: 170px; }
 }
 </style>
 </head>
@@ -105,11 +121,22 @@ tr:nth-child(-n+3) .rank { color: #ff5c38; }
     <div id="app"><p class="empty">載入中...</p></div>
   </div>
 
+  <div id="player" class="player hidden">
+    <button id="ppBtn" class="pp">▶</button>
+    <div class="pinfo">
+      <div id="pTitle" class="ptitle">—</div>
+      <div id="pBar" class="pbar"><div id="pFill" class="pfill"></div></div>
+    </div>
+    <div id="pTime" class="ptime">0:00</div>
+  </div>
+
 <script>
-const FLAGS = { tw: '🇹🇼', jp: '🇯🇵', hk: '🇭🇰', sg: '🇸🇬', my: '🇲🇾' };
+const FLAGS = { tw:'🇹🇼', jp:'🇯🇵', hk:'🇭🇰', sg:'🇸🇬', my:'🇲🇾' };
 const WEEKDAYS = ['日','一','二','三','四','五','六'];
 
 function fmtPlay(n) { return n >= 10000 ? (n/10000).toFixed(1)+'万' : String(n); }
+function fmtTime(s) { if (!isFinite(s)) return '0:00'; const m=Math.floor(s/60), ss=Math.floor(s%60); return m+':'+String(ss).padStart(2,'0'); }
+function esc(s) { return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/"/g,'&quot;'); }
 
 function rankBadge(rank, last) {
   if (last == null) return '<span class="badge new">NEW</span>';
@@ -118,63 +145,99 @@ function rankBadge(rank, last) {
   if (d < 0) return `<span class="badge down">▼${-d}</span>`;
   return '<span class="badge same">—</span>';
 }
+function weekday(dateStr) { return '週' + WEEKDAYS[new Date(dateStr+'T00:00:00').getDay()]; }
 
-function weekday(dateStr) {
-  const d = new Date(dateStr + 'T00:00:00');
-  return '週' + WEEKDAYS[d.getDay()];
+// 兼容旧数据（region.songs）→ 统一成 charts 数组
+function chartsOf(region) {
+  if (region.charts) return region.charts;
+  return [{ key:'song', type:'song', title:'單曲榜', songs: region.songs || [] }];
+}
+
+function songRow(s) {
+  const links = (s.bili||[]).map(v =>
+    `<a href="https://www.bilibili.com/video/${v.bvid}" target="_blank" class="bili-link" title="${esc(v.title)}">${esc(v.author)} · ${fmtPlay(v.play)}播放 · ${v.duration}</a>`
+  ).join('');
+  const label = esc(`${s.song_name} — ${s.artist}`);
+  const playBtn = s.audio
+    ? `<button class="pbtn" data-src="${esc(s.audio)}" data-label="${label}" onclick="playSong(this)">▶</button>`
+    : `<button class="pbtn none">▶</button>`;
+  return `<tr>
+    <td class="play">${playBtn}</td>
+    <td class="rank">${s.rank}</td>
+    <td class="trend">${rankBadge(s.rank, s.last_rank)}</td>
+    <td class="cover"><img src="${s.cover}" alt="" loading="lazy"></td>
+    <td class="info">
+      <span class="song">${esc(s.song_name)}</span>
+      <span class="artist">${esc(s.artist)}</span>
+      <div class="bili">${links}</div>
+    </td>
+  </tr>`;
 }
 
 function renderChart(data) {
   document.getElementById('title').textContent = `${data.date} ${weekday(data.date)}`;
-  document.getElementById('meta').textContent = '藍色標籤可直接跳B站播放';
+  document.getElementById('meta').textContent = '▶ 播放已下載音源 · 藍色標籤跳B站';
   let html = '';
   for (const [terr, region] of Object.entries(data.regions)) {
-    let rows = '';
-    for (const s of region.songs) {
-      const links = (s.bili||[]).map(v =>
-        `<a href="https://www.bilibili.com/video/${v.bvid}" target="_blank" class="bili-link" title="${v.title}">${v.author} · ${fmtPlay(v.play)}播放 · ${v.duration}</a>`
-      ).join('');
-      rows += `<tr>
-        <td class="rank">${s.rank}</td>
-        <td class="trend">${rankBadge(s.rank, s.last_rank)}</td>
-        <td class="cover"><img src="${s.cover}" alt="" loading="lazy"></td>
-        <td class="info">
-          <span class="song">${s.song_name}</span>
-          <span class="artist">${s.artist}</span>
-          <div class="bili">${links}</div>
-        </td>
-      </tr>`;
+    let chartsHtml = '';
+    for (const c of chartsOf(region)) {
+      const rows = c.songs.map(songRow).join('');
+      chartsHtml += `<div class="chart"><div class="chart-title">${esc(c.title)}</div><table><tbody>${rows}</tbody></table></div>`;
     }
-    html += `<section><h3>${FLAGS[terr]||''} ${region.name} 單曲榜</h3><table><tbody>${rows}</tbody></table></section>`;
+    html += `<div class="region"><div class="region-title">${FLAGS[terr]||''} ${esc(region.name)}</div>${chartsHtml}</div>`;
   }
   document.getElementById('app').innerHTML = html;
+  syncPlayingUI();
 }
 
 function loadDate(dateStr) {
-  document.querySelectorAll('.sidebar a').forEach(a =>
-    a.classList.toggle('active', a.dataset.date === dateStr));
-  fetch(`data/${dateStr}.json`)
-    .then(r => r.json())
-    .then(renderChart)
-    .catch(() => {
-      document.getElementById('app').innerHTML = '<p class="empty">無數據</p>';
-    });
+  document.querySelectorAll('.sidebar a').forEach(a => a.classList.toggle('active', a.dataset.date === dateStr));
+  fetch(`data/${dateStr}.json`).then(r=>r.json()).then(renderChart)
+    .catch(()=>{ document.getElementById('app').innerHTML = '<p class="empty">無數據</p>'; });
 }
 
-// 初始化：加载 manifest 构建目录
-fetch('data/manifest.json')
-  .then(r => r.json())
-  .then(dates => {
-    const nav = document.getElementById('nav');
-    nav.innerHTML = dates.map(d =>
-      `<li><a href="#" data-date="${d}" onclick="loadDate('${d}');return false;">${d}<span class="weekday">${weekday(d)}</span></a></li>`
-    ).join('');
-    if (dates.length) loadDate(dates[0]);
-  })
-  .catch(() => {
-    // fallback: 直接加载 latest
-    fetch('data/latest.json').then(r=>r.json()).then(renderChart);
+/* ---- 播放器 ---- */
+const audio = new Audio();
+let curSrc = null;
+
+function playSong(btn) {
+  const src = btn.dataset.src;
+  if (curSrc === src) { audio.paused ? audio.play() : audio.pause(); return; }
+  curSrc = src;
+  audio.src = encodeURI(src);
+  audio.play();
+  document.getElementById('pTitle').textContent = btn.dataset.label;
+  document.getElementById('player').classList.remove('hidden');
+  syncPlayingUI();
+}
+function syncPlayingUI() {
+  document.querySelectorAll('.pbtn').forEach(b => {
+    const active = b.dataset.src && b.dataset.src === curSrc && !audio.paused;
+    b.classList.toggle('playing', active);
+    if (b.dataset.src) b.textContent = active ? '❚❚' : '▶';
   });
+}
+document.getElementById('ppBtn').onclick = () => { audio.paused ? audio.play() : audio.pause(); };
+audio.addEventListener('play', () => { document.getElementById('ppBtn').textContent = '❚❚'; syncPlayingUI(); });
+audio.addEventListener('pause', () => { document.getElementById('ppBtn').textContent = '▶'; syncPlayingUI(); });
+audio.addEventListener('ended', () => { curSrc = null; syncPlayingUI(); });
+audio.addEventListener('timeupdate', () => {
+  document.getElementById('pFill').style.width = (audio.duration ? audio.currentTime/audio.duration*100 : 0) + '%';
+  document.getElementById('pTime').textContent = fmtTime(audio.currentTime);
+});
+document.getElementById('pBar').onclick = (e) => {
+  if (!audio.duration) return;
+  const r = e.currentTarget.getBoundingClientRect();
+  audio.currentTime = (e.clientX - r.left) / r.width * audio.duration;
+};
+
+/* ---- 初始化 ---- */
+fetch('data/manifest.json').then(r=>r.json()).then(dates => {
+  document.getElementById('nav').innerHTML = dates.map(d =>
+    `<li><a href="#" data-date="${d}" onclick="loadDate('${d}');return false;">${d}<span class="weekday">${weekday(d)}</span></a></li>`
+  ).join('');
+  if (dates.length) loadDate(dates[0]);
+}).catch(() => { fetch('data/latest.json').then(r=>r.json()).then(renderChart); });
 </script>
 </body>
 </html>
