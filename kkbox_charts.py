@@ -18,6 +18,7 @@ from pathlib import Path
 REGIONS = {
     "tw": "台灣",
     "jp": "日本",
+    "sg": "新加坡",
 }
 
 CHART_TYPE = "song"
