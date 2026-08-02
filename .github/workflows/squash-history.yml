@@ -1,0 +1,30 @@
+name: squash-history
+
+# 每周日 00:00 UTC 把全部历史压成单个快照 commit，
+# 防止 mp3 二进制在 git 历史里无限累积导致仓库膨胀。
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  squash:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Flatten history to a single snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan squash-temp
+          git add -A
+          git commit -m "snapshot $(date +'%Y-%m-%d')"
+          git branch -D main
+          git branch -m main
+          git push -f origin main
