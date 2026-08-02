@@ -12,15 +12,35 @@ body {
   display: flex; min-height: 100vh; padding-bottom: 64px;
 }
 
+/* 登录门 */
+.gate {
+  position: fixed; inset: 0; z-index: 100; background: #0d0d0d;
+  display: flex; align-items: center; justify-content: center;
+}
+.gate.hidden { display: none; }
+.gate-card { width: 300px; text-align: center; }
+.gate-card h1 { font-size: 1.1rem; font-weight: 700; margin-bottom: .4rem; }
+.gate-card p { color: #777; font-size: .78rem; margin-bottom: 1.4rem; }
+.gate-card input {
+  width: 100%; padding: .7rem .9rem; background: #161616; border: 1px solid #2a2a2a;
+  border-radius: 8px; color: #f5f5f5; font-size: .9rem; outline: none; margin-bottom: .7rem;
+}
+.gate-card input:focus { border-color: #ff5c38; }
+.gate-card button {
+  width: 100%; padding: .7rem; background: #ff5c38; border: none; border-radius: 8px;
+  color: #fff; font-size: .9rem; font-weight: 600; cursor: pointer;
+}
+.gate-card button:hover { background: #ff6f4d; }
+.gate-err { color: #f44336; font-size: .75rem; margin-top: .6rem; height: 1em; }
+
 /* 侧边目录 */
 .sidebar {
-  width: 200px; min-width: 200px;
-  border-right: 1px solid #1a1a1a;
-  padding: 1.5rem 0;
-  position: sticky; top: 0; height: 100vh; overflow-y: auto;
+  width: 200px; min-width: 200px; border-right: 1px solid #1a1a1a;
+  padding: 1.5rem 0; position: sticky; top: 0; height: 100vh; overflow-y: auto;
+  display: flex; flex-direction: column;
 }
 .sidebar h1 { font-size: .9rem; font-weight: 700; padding: 0 1.2rem; margin-bottom: 1.2rem; color: #ccc; letter-spacing: .5px; }
-.sidebar ul { list-style: none; }
+.sidebar ul { list-style: none; flex: 1; }
 .sidebar li a {
   display: block; padding: .55rem 1.2rem; color: #888; font-size: .82rem;
   text-decoration: none; transition: all .15s; border-left: 2px solid transparent;
@@ -28,6 +48,12 @@ body {
 .sidebar li a:hover { color: #e0e0e0; background: #141414; }
 .sidebar li a.active { color: #ff5c38; border-left-color: #ff5c38; background: rgba(255,92,56,.05); font-weight: 600; }
 .sidebar .weekday { color: #555; font-size: .72rem; margin-left: .4rem; }
+.logout { padding: .8rem 1.2rem 0; }
+.logout button {
+  background: none; border: 1px solid #2a2a2a; color: #777; font-size: .72rem;
+  padding: .35rem .7rem; border-radius: 6px; cursor: pointer; width: 100%;
+}
+.logout button:hover { border-color: #555; color: #bbb; }
 
 /* 主内容 */
 .main { flex: 1; padding: 2rem 2.5rem; max-width: 880px; }
@@ -38,10 +64,7 @@ body {
 .region { margin-bottom: 2.4rem; }
 .region-title { font-size: 1.05rem; font-weight: 700; color: #f0f0f0; margin-bottom: .8rem; }
 .chart { margin-bottom: 1.8rem; }
-.chart-title {
-  font-size: .82rem; font-weight: 600; color: #aaa; margin-bottom: .5rem;
-  padding-bottom: .4rem; border-bottom: 1px solid #222; letter-spacing: .3px;
-}
+.chart-title { font-size: .82rem; font-weight: 600; color: #aaa; margin-bottom: .5rem; padding-bottom: .4rem; border-bottom: 1px solid #222; letter-spacing: .3px; }
 table { width: 100%; border-collapse: collapse; }
 tr { border-bottom: 1px solid #1a1a1a; transition: background .15s; }
 tr:hover { background: #141414; }
@@ -81,13 +104,19 @@ tr:nth-child(-n+3) .rank { color: #ff5c38; }
 .player {
   position: fixed; bottom: 0; left: 0; right: 0; height: 64px;
   background: #161616; border-top: 1px solid #262626;
-  display: flex; align-items: center; gap: 14px; padding: 0 20px; z-index: 50;
+  display: flex; align-items: center; gap: 12px; padding: 0 20px; z-index: 50;
 }
 .player.hidden { display: none; }
+.pctrl { display: flex; align-items: center; gap: 8px; flex-shrink: 0; }
+.nav-btn {
+  width: 30px; height: 30px; border-radius: 50%; border: none; background: #232323;
+  color: #ccc; cursor: pointer; font-size: .65rem; display: flex; align-items: center; justify-content: center;
+}
+.nav-btn:hover { background: #2e2e2e; color: #fff; }
 .pp {
   width: 38px; height: 38px; border-radius: 50%; border: none;
   background: #ff5c38; color: #fff; cursor: pointer; font-size: .8rem;
-  display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+  display: flex; align-items: center; justify-content: center;
 }
 .pinfo { flex: 1; min-width: 0; }
 .ptitle { font-size: .8rem; color: #eee; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-bottom: 5px; }
@@ -97,11 +126,12 @@ tr:nth-child(-n+3) .rank { color: #ff5c38; }
 
 @media (max-width: 700px) {
   body { flex-direction: column; }
-  .sidebar { width: 100%; min-width: unset; height: auto; position: static; border-right: none; border-bottom: 1px solid #1a1a1a; padding: 1rem 0; display: flex; flex-wrap: wrap; align-items: center; }
+  .sidebar { width: 100%; min-width: unset; height: auto; position: static; border-right: none; border-bottom: 1px solid #1a1a1a; padding: 1rem 0; flex-direction: row; flex-wrap: wrap; align-items: center; }
   .sidebar h1 { width: 100%; margin-bottom: .6rem; }
-  .sidebar ul { display: flex; flex-wrap: wrap; gap: 4px; padding: 0 1rem; }
+  .sidebar ul { display: flex; flex-wrap: wrap; gap: 4px; padding: 0 1rem; flex: none; }
   .sidebar li a { padding: .35rem .7rem; border-left: none; border-radius: 4px; }
   .sidebar li a.active { background: rgba(255,92,56,.12); }
+  .logout { padding: .5rem 1rem 0; width: 100%; }
   .main { padding: 1.2rem; }
   .cover img { width: 36px; height: 36px; }
   .bili-link { max-width: 170px; }
@@ -109,9 +139,21 @@ tr:nth-child(-n+3) .rank { color: #ff5c38; }
 </style>
 </head>
 <body>
+  <!-- 密码门 -->
+  <div id="gate" class="gate hidden">
+    <div class="gate-card">
+      <h1>每日音樂榜單</h1>
+      <p>私人歌單 · 請輸入密碼</p>
+      <input id="pw" type="password" placeholder="密碼" autocomplete="off">
+      <button id="loginBtn">進入</button>
+      <div id="gateErr" class="gate-err"></div>
+    </div>
+  </div>
+
   <nav class="sidebar">
     <h1>每日音樂榜單</h1>
     <ul id="nav"></ul>
+    <div class="logout"><button id="logoutBtn">登出</button></div>
   </nav>
   <div class="main">
     <div class="header">
@@ -122,7 +164,11 @@ tr:nth-child(-n+3) .rank { color: #ff5c38; }
   </div>
 
   <div id="player" class="player hidden">
-    <button id="ppBtn" class="pp">▶</button>
+    <div class="pctrl">
+      <button id="prevBtn" class="nav-btn">⏮</button>
+      <button id="ppBtn" class="pp">▶</button>
+      <button id="nextBtn" class="nav-btn">⏭</button>
+    </div>
     <div class="pinfo">
       <div id="pTitle" class="ptitle">—</div>
       <div id="pBar" class="pbar"><div id="pFill" class="pfill"></div></div>
@@ -133,10 +179,16 @@ tr:nth-child(-n+3) .rank { color: #ff5c38; }
 <script>
 const FLAGS = { tw:'🇹🇼', jp:'🇯🇵', hk:'🇭🇰', sg:'🇸🇬', my:'🇲🇾' };
 const WEEKDAYS = ['日','一','二','三','四','五','六'];
+const AUTH_HASH = 'e6f738b3a487b4a72cff4dd4c1f1a08c8da0cdd2456ce5d50335da9eac7cfa41';
+const AUTH_KEY = 'kkbox_auth';
 
 function fmtPlay(n) { return n >= 10000 ? (n/10000).toFixed(1)+'万' : String(n); }
 function fmtTime(s) { if (!isFinite(s)) return '0:00'; const m=Math.floor(s/60), ss=Math.floor(s%60); return m+':'+String(ss).padStart(2,'0'); }
 function esc(s) { return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/"/g,'&quot;'); }
+async function sha256(text) {
+  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(text));
+  return Array.from(new Uint8Array(buf)).map(b=>b.toString(16).padStart(2,'0')).join('');
+}
 
 function rankBadge(rank, last) {
   if (last == null) return '<span class="badge new">NEW</span>';
@@ -146,8 +198,6 @@ function rankBadge(rank, last) {
   return '<span class="badge same">—</span>';
 }
 function weekday(dateStr) { return '週' + WEEKDAYS[new Date(dateStr+'T00:00:00').getDay()]; }
-
-// 兼容旧数据（region.songs）→ 统一成 charts 数组
 function chartsOf(region) {
   if (region.charts) return region.charts;
   return [{ key:'song', type:'song', title:'單曲榜', songs: region.songs || [] }];
@@ -176,7 +226,7 @@ function songRow(s) {
 
 function renderChart(data) {
   document.getElementById('title').textContent = `${data.date} ${weekday(data.date)}`;
-  document.getElementById('meta').textContent = '▶ 播放已下載音源 · 藍色標籤跳B站';
+  document.getElementById('meta').textContent = '▶ 順序播放已下載音源 · 藍色標籤跳B站';
   let html = '';
   for (const [terr, region] of Object.entries(data.regions)) {
     let chartsHtml = '';
@@ -187,6 +237,7 @@ function renderChart(data) {
     html += `<div class="region"><div class="region-title">${FLAGS[terr]||''} ${esc(region.name)}</div>${chartsHtml}</div>`;
   }
   document.getElementById('app').innerHTML = html;
+  buildPlaylist();
   syncPlayingUI();
 }
 
@@ -196,20 +247,29 @@ function loadDate(dateStr) {
     .catch(()=>{ document.getElementById('app').innerHTML = '<p class="empty">無數據</p>'; });
 }
 
-/* ---- 播放器 ---- */
+/* ---- 播放器（顺序播放）---- */
 const audio = new Audio();
+let playlist = [];   // 当前页面所有可播放按钮，按显示顺序
+let curIdx = -1;
 let curSrc = null;
+
+function buildPlaylist() { playlist = Array.from(document.querySelectorAll('.pbtn[data-src]')); }
 
 function playSong(btn) {
   const src = btn.dataset.src;
   if (curSrc === src) { audio.paused ? audio.play() : audio.pause(); return; }
   curSrc = src;
+  curIdx = playlist.indexOf(btn);
   audio.src = encodeURI(src);
   audio.play();
   document.getElementById('pTitle').textContent = btn.dataset.label;
   document.getElementById('player').classList.remove('hidden');
   syncPlayingUI();
 }
+function playAt(idx) { if (idx >= 0 && idx < playlist.length) playSong(playlist[idx]); }
+function playNext() { playAt(curIdx + 1); }
+function playPrev() { playAt(curIdx - 1); }
+
 function syncPlayingUI() {
   document.querySelectorAll('.pbtn').forEach(b => {
     const active = b.dataset.src && b.dataset.src === curSrc && !audio.paused;
@@ -218,9 +278,11 @@ function syncPlayingUI() {
   });
 }
 document.getElementById('ppBtn').onclick = () => { audio.paused ? audio.play() : audio.pause(); };
+document.getElementById('nextBtn').onclick = playNext;
+document.getElementById('prevBtn').onclick = playPrev;
 audio.addEventListener('play', () => { document.getElementById('ppBtn').textContent = '❚❚'; syncPlayingUI(); });
 audio.addEventListener('pause', () => { document.getElementById('ppBtn').textContent = '▶'; syncPlayingUI(); });
-audio.addEventListener('ended', () => { curSrc = null; syncPlayingUI(); });
+audio.addEventListener('ended', playNext);   // 播完自动下一首
 audio.addEventListener('timeupdate', () => {
   document.getElementById('pFill').style.width = (audio.duration ? audio.currentTime/audio.duration*100 : 0) + '%';
   document.getElementById('pTime').textContent = fmtTime(audio.currentTime);
@@ -231,13 +293,41 @@ document.getElementById('pBar').onclick = (e) => {
   audio.currentTime = (e.clientX - r.left) / r.width * audio.duration;
 };
 
-/* ---- 初始化 ---- */
-fetch('data/manifest.json').then(r=>r.json()).then(dates => {
-  document.getElementById('nav').innerHTML = dates.map(d =>
-    `<li><a href="#" data-date="${d}" onclick="loadDate('${d}');return false;">${d}<span class="weekday">${weekday(d)}</span></a></li>`
-  ).join('');
-  if (dates.length) loadDate(dates[0]);
-}).catch(() => { fetch('data/latest.json').then(r=>r.json()).then(renderChart); });
+/* ---- 初始化（鉴权后）---- */
+function initApp() {
+  fetch('data/manifest.json').then(r=>r.json()).then(dates => {
+    document.getElementById('nav').innerHTML = dates.map(d =>
+      `<li><a href="#" data-date="${d}" onclick="loadDate('${d}');return false;">${d}<span class="weekday">${weekday(d)}</span></a></li>`
+    ).join('');
+    if (dates.length) loadDate(dates[0]);
+  }).catch(() => { fetch('data/latest.json').then(r=>r.json()).then(renderChart); });
+}
+
+/* ---- 密码门 ---- */
+function showGate() { document.getElementById('gate').classList.remove('hidden'); document.getElementById('pw').focus(); }
+function hideGate() { document.getElementById('gate').classList.add('hidden'); }
+
+async function tryLogin() {
+  const pw = document.getElementById('pw').value;
+  const h = await sha256(pw);
+  if (h === AUTH_HASH) {
+    localStorage.setItem(AUTH_KEY, h);
+    document.getElementById('gateErr').textContent = '';
+    hideGate();
+    initApp();
+  } else {
+    document.getElementById('gateErr').textContent = '密碼錯誤';
+    document.getElementById('pw').value = '';
+    document.getElementById('pw').focus();
+  }
+}
+document.getElementById('loginBtn').onclick = tryLogin;
+document.getElementById('pw').addEventListener('keydown', e => { if (e.key === 'Enter') tryLogin(); });
+document.getElementById('logoutBtn').onclick = () => { localStorage.removeItem(AUTH_KEY); location.reload(); };
+
+// 启动：已登录直接进，否则显示密码门
+if (localStorage.getItem(AUTH_KEY) === AUTH_HASH) { hideGate(); initApp(); }
+else { showGate(); }
 </script>
 </body>
 </html>
