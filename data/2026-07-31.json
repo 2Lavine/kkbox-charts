@@ -1,0 +1,655 @@
+{
+  "date": "2026-07-31",
+  "regions": {
+    "tw": {
+      "name": "台灣",
+      "songs": [
+        {
+          "rank": 1,
+          "last_rank": 1,
+          "song_name": "沒有人像我一樣 - 影集《欠妳的那場婚禮》主題曲",
+          "artist": "宇宙人 (Cosmos People)",
+          "album": "沒有人像我一樣",
+          "cover": "https://i.kfs.io/album/global/294848912,0v1/fit/500x500.jpg",
+          "bili": [
+            {
+              "bvid": "BV1XXjQ61EEG",
+              "title": "4599 没有人像我一样-宇宙人",
+              "play": 2496,
+              "duration": "4:7",
+              "author": "jay的实验室"
+            },
+            {
+              "bvid": "BV1EAgx6YEXR",
+              "title": "《没有人像我一样》电吉他cover",
+              "play": 59,
+              "duration": "2:49",
+              "author": "被吉他弹的人"
+            },
+            {
+              "bvid": "BV1mK2VYuEme",
+              "title": "我是个宇宙人",
+              "play": 2460,
+              "duration": "0:38",
+              "author": "动感光波剪影"
+            }
+          ],
+          "local": "/Users/sour/.qoderworkcn/skills/kkbox-charts/music/01 沒有人像我一樣 - 宇宙人 (Cosmos People).mp3"
+        },
+        {
+          "rank": 2,
+          "last_rank": 2,
+          "song_name": "甲乙丙丁 - 你我怎麼兩清",
+          "artist": "李佳薇 (Jess Lee)",
+          "album": "甲乙丙丁",
+          "cover": "https://i.kfs.io/album/global/295320632,0v2/fit/500x500.jpg",
+          "bili": [
+            {
+              "bvid": "BV1ciTZ6JEc5",
+              "title": "【𝐇𝐢-𝐑𝐞𝐬无损音质】｜《甲乙丙丁 (你我怎么两清)》- 李佳薇-‘若我落下泪滴 能否换来 一点同情’",
+              "play": 696966,
+              "duration": "3:31",
+              "author": "VV音乐局"
+            },
+            {
+              "bvid": "BV195N46LE25",
+              "title": "[4K]李佳薇《甲乙丙丁》卡拉OK",
+              "play": 9325,
+              "duration": "3:30",
+              "author": "SHOWMUSIC"
+            },
+            {
+              "bvid": "BV1cyKG6WEyy",
+              "title": "千禧顶级芭乐回归！李佳薇《甲乙丙丁》为何持续霸榜？",
+              "play": 50805,
+              "duration": "4:56",
+              "author": "大音乐谈"
+            }
+          ],
+          "local": "/Users/sour/.qoderworkcn/skills/kkbox-charts/music/02 甲乙丙丁 - 李佳薇 (Jess Lee).mp3"
+        },
+        {
+          "rank": 3,
+          "last_rank": 4,
+          "song_name": "離開我的依賴",
+          "artist": "王艷薇 (Evangeline)",
+          "album": "離開我的依賴",
+          "cover": "https://i.kfs.io/album/tw/69206709,0v1/fit/500x500.jpg",
+          "bili": [
+            {
+              "bvid": "BV14ojo6EEZp",
+              "title": "王艳薇看见音乐计划盛典【离开我的依赖】现场直拍，“我来不及道声不安”｜王艳薇｜离开我的依赖｜看见音乐计划｜看见音乐计划盛典",
+              "play": 4805,
+              "duration": "0:23",
+              "author": "黄昏晓live"
+            },
+            {
+              "bvid": "BV1C67D6fE1N",
+              "title": "菲菲公主(陸綺菲) - 在你離開的季節『我不要離別，不要思念陪伴我整夜。』【高音質|動態歌詞Lyrics】♫",
+              "play": 542,
+              "duration": "3:6",
+              "author": "4KMusicMake"
+            },
+            {
+              "bvid": "BV1gYGc6XELi",
+              "title": "“我来不及道声不安有点混乱有点缓慢”《离开我的依赖》王艳薇音乐分享蝴蝶忍小曲",
+              "play": 55,
+              "duration": "3:50",
+              "author": "原粥率乐曲"
+            }
+          ],
+          "local": "/Users/sour/.qoderworkcn/skills/kkbox-charts/music/03 離開我的依賴 - 王艷薇 (Evangeline).mp3"
+        },
+        {
+          "rank": 4,
+          "last_rank": 3,
+          "song_name": "愛上你不是我決定",
+          "artist": "蕭敬騰 (Jam Hsiao)",
+          "album": "愛上你不是我決定",
+          "cover": "https://i.kfs.io/album/global/295550340,0v3/fit/500x500.jpg",
+          "bili": [
+            {
+              "bvid": "BV1N7Km6ZEcV",
+              "title": "爱上你不是我决定—萧敬腾/A-Lin",
+              "play": 226,
+              "duration": "4:3",
+              "author": "西装耳机客"
+            },
+            {
+              "bvid": "BV1Yd3a65EeZ",
+              "title": "爱建立在“做自己”之上。我爱上的，是独一无二、不加修饰的你；请不必为了我，变成另一个人「若我告诉你我爱的只是你」",
+              "play": 175,
+              "duration": "5:58",
+              "author": "丢你Rem琳"
+            },
+            {
+              "bvid": "BV1twKr6yEpv",
+              "title": "Hi-Res🔥母带音质🔥萧敬腾、A-Lin - 爱上你不是我决定丨歌词丨2026最新单曲丨Hi-Res_24B-192kHz丨2026-07-19",
+              "play": 572,
+              "duration": "14:22",
+              "author": "蓝宝石音乐"
+            }
+          ],
+          "local": "/Users/sour/.qoderworkcn/skills/kkbox-charts/music/04 愛上你不是我決定 - 蕭敬騰 (Jam Hsiao).mp3"
+        },
+        {
+          "rank": 5,
+          "last_rank": 6,
+          "song_name": "我不该动情",
+          "artist": "RG-老帅",
+          "album": "我不该动情",
+          "cover": "https://i.kfs.io/album/global/295535579,0v1/fit/500x500.jpg",
+          "bili": [
+            {
+              "bvid": "BV14wMg6cEKt",
+              "title": "第256首 | 老板 - 我不该动情 简谱",
+              "play": 609,
+              "duration": "1:53",
+              "author": "魂8淡"
+            },
+            {
+              "bvid": "BV1STg46UENN",
+              "title": "《我不该动情》",
+              "play": 227,
+              "duration": "0:51",
+              "author": "似锦宁夏"
+            },
+            {
+              "bvid": "BV18Q3q6pEKM",
+              "title": "我不该动情……烟嗓船长",
+              "play": 79,
+              "duration": "3:15",
+              "author": "小欧灬哥哥"
+            }
+          ],
+          "local": "/Users/sour/.qoderworkcn/skills/kkbox-charts/music/05 我不该动情 - RG.mp3"
+        },
+        {
+          "rank": 6,
+          "last_rank": 5,
+          "song_name": "一直下",
+          "artist": "陳宇祥",
+          "album": "一直下",
+          "cover": "https://i.kfs.io/album/global/295420634,0v1/fit/500x500.jpg",
+          "bili": [
+            {
+              "bvid": "BV18ZK667Ezf",
+              "title": "《一直下》陈宇祥 | 𝐇𝐢-𝐑𝐞𝐬无损音质",
+              "play": 2498,
+              "duration": "2:54",
+              "author": "希声音乐"
+            },
+            {
+              "bvid": "BV14PMG6qEZr",
+              "title": "陳宇祥 - 一直下",
+              "play": 946,
+              "duration": "2:55",
+              "author": "bili_19550555078"
+            },
+            {
+              "bvid": "BV1Mxgq67E8R",
+              "title": "临时251怎么弹出旋律线？以陈宇祥《一直下》为例",
+              "play": 279,
+              "duration": "1:29",
+              "author": "馍馍键盘教学"
+            }
+          ],
+          "local": "/Users/sour/.qoderworkcn/skills/kkbox-charts/music/06 一直下 - 陳宇祥.mp3"
+        },
+        {
+          "rank": 7,
+          "last_rank": 11,
+          "song_name": "All For You - 《蜘蛛人：重生日》電影片尾曲",
+          "artist": "周興哲 (Eric Chou)",
+          "album": "All For You - 《蜘蛛人：重生日》電影片尾曲",
+          "cover": "https://i.kfs.io/album/global/295641763,0v3/fit/500x500.jpg",
+          "bili": [
+            {
+              "bvid": "BV1zoKE6BEmx",
+              "title": "【4K】周兴哲《All For You》官方MV（电影《蜘蛛侠：崭新之日》台湾区片尾曲）",
+              "play": 5610,
+              "duration": "3:41",
+              "author": "华语新歌MV"
+            },
+            {
+              "bvid": "BV1HdKE6uEhN",
+              "title": "周兴哲-All For You，《蜘蛛侠:崭新之日》中文片尾曲完整版",
+              "play": 11037,
+              "duration": "3:41",
+              "author": "EvianStark依云"
+            },
+            {
+              "bvid": "BV1Sn3T6wE4N",
+              "title": "周兴哲 Eric Chou 《All For You》电影『蜘蛛人：重生日』片尾曲【神还原】扒谱 钢琴 独奏 琴谱",
+              "play": 198,
+              "duration": "3:55",
+              "author": "Lionrock扒谱王子"
+            }
+          ],
+          "local": "/Users/sour/.qoderworkcn/skills/kkbox-charts/music/07 All For You - 周興哲 (Eric Chou).mp3"
+        },
+        {
+          "rank": 8,
+          "last_rank": 8,
+          "song_name": "幸福在歌唱 - 電影《陽光女子合唱團》幸福版主題曲",
+          "artist": "A-Lin",
+          "album": "幸福在歌唱 - 電影《陽光女子合唱團》幸福版主題曲",
+          "cover": "https://i.kfs.io/album/global/287649251,0v3/fit/500x500.jpg",
+          "bili": [
+            {
+              "bvid": "BV17qBYBDEJU",
+              "title": "【4K】A-Lin《幸福在歌唱》官方MV（电影《阳光女子合唱团》幸福版主题曲）",
+              "play": 73044,
+              "duration": "4:40",
+              "author": "华语新歌MV"
+            },
+            {
+              "bvid": "BV1JVAazyELg",
+              "title": "[KTV]A-LIN-幸福在歌唱",
+              "play": 154,
+              "duration": "0:52",
+              "author": "-KARAOKE-"
+            },
+            {
+              "bvid": "BV1jE421P7DT",
+              "title": "《给我一个理由忘记》-A-Lin【Hi-Res无损音质】害怕寂寞，就让狂欢的城市陪我关灯.......",
+              "play": 35138,
+              "duration": "4:46",
+              "author": "可爱的丁丁猫"
+            }
+          ],
+          "local": "/Users/sour/.qoderworkcn/skills/kkbox-charts/music/08 幸福在歌唱 - A.mp3"
+        },
+        {
+          "rank": 9,
+          "last_rank": 9,
+          "song_name": "看著我的眼睛說",
+          "artist": "張遠",
+          "album": "看著我的眼睛說",
+          "cover": "https://i.kfs.io/album/global/280657750,0v1/fit/500x500.jpg",
+          "bili": [
+            {
+              "bvid": "BV1eMhHzLEq8",
+              "title": "看着我的眼睛说 - 姚晓棠、张远（天赐的声音第六季）",
+              "play": 530777,
+              "duration": "4:35",
+              "author": "忘小猪8"
+            },
+            {
+              "bvid": "BV1JAL7zuEUy",
+              "title": "张远《看着我的眼睛说》百万豪装录音棚大声听",
+              "play": 913841,
+              "duration": "4:25",
+              "author": "JLRS-LeoFM"
+            },
+            {
+              "bvid": "BV1Lw72zJEer",
+              "title": "【张远·姚晓棠】《看着我的眼睛说》（Live）全曲音高测量",
+              "play": 27566,
+              "duration": "4:36",
+              "author": "白洛燊"
+            }
+          ],
+          "local": "/Users/sour/.qoderworkcn/skills/kkbox-charts/music/09 看著我的眼睛說 - 張遠.mp3"
+        },
+        {
+          "rank": 10,
+          "last_rank": 7,
+          "song_name": "海嶼你",
+          "artist": "马也Crabbit, Cole先生",
+          "album": "海嶼你",
+          "cover": "https://i.kfs.io/album/global/223493591,0v1/fit/500x500.jpg",
+          "bili": [
+            {
+              "bvid": "BV1QJ4m147sE",
+              "title": "好像初恋 - 马也Crabbit、陈奕楠 高品质 伴奏带和声",
+              "play": 67,
+              "duration": "1:31",
+              "author": "说唱伴奏伽2929589162"
+            },
+            {
+              "bvid": "BV1btoqYBEhH",
+              "title": "马也_Crabbit—没做完的梦",
+              "play": 77,
+              "duration": "3:28",
+              "author": "偷猫带上我啊"
+            },
+            {
+              "bvid": "BV14nrkBPEBE",
+              "title": "【𝐇𝐢-𝐑𝐞𝐬无损音质】｜《海屿你》- 马_Crabbit -‘即便是青春的懵懂 但是我们渐行渐远’",
+              "play": 4913587,
+              "duration": "4:56",
+              "author": "VV音乐局"
+            }
+          ],
+          "local": "/Users/sour/.qoderworkcn/skills/kkbox-charts/music/10 海嶼你 - 马也Crabbit, Cole先生.mp3"
+        }
+      ]
+    },
+    "jp": {
+      "name": "日本",
+      "songs": [
+        {
+          "rank": 1,
+          "last_rank": 3,
+          "song_name": "Brand New",
+          "artist": "Mrs. GREEN APPLE",
+          "album": "Brand New",
+          "cover": "https://i.kfs.io/album/global/295577824,0v2/fit/500x500.jpg",
+          "bili": [
+            {
+              "bvid": "BV1B1GP63EXA",
+              "title": "【中字MV】Mrs. GREEN APPLE-「Brand New」(电影《蜘蛛侠：崭新之日》主题曲)",
+              "play": 657,
+              "duration": "3:41",
+              "author": "Mrs小果农"
+            },
+            {
+              "bvid": "BV1eXGP6iEid",
+              "title": "【双语官方MV】Brand New（蜘蛛侠：崭新之日 日版OP）—Mrs.GREEN APPLE",
+              "play": 1587,
+              "duration": "3:41",
+              "author": "单推轻咖柠檬"
+            },
+            {
+              "bvid": "BV1qy4y1k7G2",
+              "title": "Mrs. GREEN APPLE - インフェルノ（TV动画《炎炎消防队》OP）",
+              "play": 446864,
+              "duration": "3:34",
+              "author": "环球音乐中国"
+            }
+          ],
+          "local": "/Users/sour/.qoderworkcn/skills/kkbox-charts/music/01 Brand New - Mrs. GREEN APPLE.mp3"
+        },
+        {
+          "rank": 2,
+          "last_rank": 1,
+          "song_name": "IRIS OUT",
+          "artist": "米津玄師",
+          "album": "IRIS OUT",
+          "cover": "https://i.kfs.io/album/global/284683632,0v3/fit/500x500.jpg",
+          "bili": [
+            {
+              "bvid": "BV1km1eB7Ejr",
+              "title": "米津玄師 - IRIS OUT动态鼓谱",
+              "play": 1796,
+              "duration": "2:27",
+              "author": "小娟音乐工作室"
+            },
+            {
+              "bvid": "BV1m4qgBNESe",
+              "title": "【太鼓達人虹色版】IRIS OUT【内录全良】",
+              "play": 541,
+              "duration": "1:49",
+              "author": "零风花見"
+            },
+            {
+              "bvid": "BV1ZKQvBdEY7",
+              "title": "【PDJ4】一公reaction 米津玄师《IRIS OUT》2组",
+              "play": 1124,
+              "duration": "3:26",
+              "author": "天才汐葵酱"
+            }
+          ],
+          "local": "/Users/sour/.qoderworkcn/skills/kkbox-charts/music/02 IRIS OUT - 米津玄師.mp3"
+        },
+        {
+          "rank": 3,
+          "last_rank": 4,
+          "song_name": "Missing",
+          "artist": "BE:FIRST",
+          "album": "Missing",
+          "cover": "https://i.kfs.io/album/global/294596681,0v4/fit/500x500.jpg",
+          "bili": [
+            {
+              "bvid": "BV1hLK96WE7N",
+              "title": "【官方中字/BE：FIRST】 ⧸ Missing -Music Video",
+              "play": 586,
+              "duration": "7:8",
+              "author": "井洢伊Yi"
+            },
+            {
+              "bvid": "BV1DETq6gEHm",
+              "title": "【BE:FIRST】260701『Missing』+『波乗りジョニー』",
+              "play": 2293,
+              "duration": "5:9",
+              "author": "bili_42632724760"
+            },
+            {
+              "bvid": "BV18o3T6qErF",
+              "title": "BE-FIRST - Missing -Dance Practice-",
+              "play": 100,
+              "duration": "3:17",
+              "author": "lmxy083"
+            }
+          ],
+          "local": "/Users/sour/.qoderworkcn/skills/kkbox-charts/music/03 Missing - BEFIRST.mp3"
+        },
+        {
+          "rank": 4,
+          "last_rank": 2,
+          "song_name": "爆裂愛してる",
+          "artist": "M!LK",
+          "album": "爆裂愛してる",
+          "cover": "https://i.kfs.io/album/global/288842832,0v2/fit/500x500.jpg",
+          "bili": [
+            {
+              "bvid": "BV1zowjzKEpr",
+              "title": "爆裂爱してる——m!lk",
+              "play": 542,
+              "duration": "3:22",
+              "author": "菲宝的肥宝"
+            },
+            {
+              "bvid": "BV1BgZ9BtE8T",
+              "title": "20260218 【宇宙级爆裂】【4K中日歌词】M!LK - 「爆裂愛してる」(Official Music Video)",
+              "play": 39831,
+              "duration": "3:27",
+              "author": "乐二灰"
+            },
+            {
+              "bvid": "BV1uvJG6iEFW",
+              "title": "【中日双语】M!LK - 爆裂愛してる(Dance Practice Movie)",
+              "play": 1984,
+              "duration": "3:50",
+              "author": "HOJICHAcha"
+            }
+          ],
+          "local": "/Users/sour/.qoderworkcn/skills/kkbox-charts/music/04 爆裂愛してる - M!LK.mp3"
+        },
+        {
+          "rank": 5,
+          "last_rank": 5,
+          "song_name": "好きすぎて滅！",
+          "artist": "M!LK",
+          "album": "好きすぎて滅！",
+          "cover": "https://i.kfs.io/album/global/285875262,0v3/fit/500x500.jpg",
+          "bili": [
+            {
+              "bvid": "BV1yrs1zEEKn",
+              "title": "20251027 【官方4K】【双语歌词】【要素过多！】M!LK - 「好きすぎて滅！」MV解禁！",
+              "play": 91402,
+              "duration": "3:30",
+              "author": "乐二灰"
+            },
+            {
+              "bvid": "BV1FCN76vE9T",
+              "title": "【ニコカラ】好きすぎて滅！",
+              "play": 1878,
+              "duration": "3:30",
+              "author": "YUKO_113"
+            },
+            {
+              "bvid": "BV1WmGc6VEiL",
+              "title": "【亚猫Ark/祾宇UNISE】好きすぎて滅！【UTAUカバー】",
+              "play": 73,
+              "duration": "3:28",
+              "author": "亚猫Ark"
+            }
+          ],
+          "local": "/Users/sour/.qoderworkcn/skills/kkbox-charts/music/05 好きすぎて滅！ - M!LK.mp3"
+        },
+        {
+          "rank": 6,
+          "last_rank": 36,
+          "song_name": "怪獣の花唄",
+          "artist": "Vaundy",
+          "album": "strobo",
+          "cover": "https://i.kfs.io/album/global/262047503,0v1/fit/500x500.jpg",
+          "bili": [
+            {
+              "bvid": "BV16p4y1o7ge",
+              "title": "怪獣の花唄（怪兽之歌、如花散落）【Vaundy】动态鼓谱",
+              "play": 19077,
+              "duration": "3:48",
+              "author": "看哦爱随风原创鼓谱"
+            },
+            {
+              "bvid": "BV1c14y1s7ua",
+              "title": "【4K·HDR·Hi-Res】怪獣の花唄（怪兽之歌） -  Vaundy",
+              "play": 947259,
+              "duration": "3:53",
+              "author": "猫哥_CATBRO"
+            },
+            {
+              "bvid": "BV1bT421Q7VY",
+              "title": "日推歌单 |“梦中无法忘怀的歌”|《怪獣の花唄 - replica -》",
+              "play": 373,
+              "duration": "3:47",
+              "author": "知食份子AKi桑"
+            }
+          ],
+          "local": "/Users/sour/.qoderworkcn/skills/kkbox-charts/music/06 怪獣の花唄 - Vaundy.mp3"
+        },
+        {
+          "rank": 7,
+          "last_rank": 6,
+          "song_name": "夜鷹 - Yodaka",
+          "artist": "米津玄師",
+          "album": "夜鷹 - Yodaka",
+          "cover": "https://i.kfs.io/album/global/295286782,0v3/fit/500x500.jpg",
+          "bili": [
+            {
+              "bvid": "BV1X9Ni66EUL",
+              "title": "【中日字幕/官方MV】米津玄师「夜鷹（よだか）」【王者天下5：魂之决战 主题曲】",
+              "play": 15629,
+              "duration": "3:30",
+              "author": "小千代字幕组"
+            },
+            {
+              "bvid": "BV16LN26jERh",
+              "title": "【鼓谱】『夜鷹』米津玄師【ドラム】【叩いてみた】映画「キングダム　魂の決戦」主題歌",
+              "play": 233,
+              "duration": "3:22",
+              "author": "jinzotab"
+            },
+            {
+              "bvid": "BV1ka3t6LEUn",
+              "title": "【重音テトSV2】米津玄師 - 夜鷹【タドスタジオ】",
+              "play": 156,
+              "duration": "3:18",
+              "author": "百合咲奈奈"
+            }
+          ],
+          "local": "/Users/sour/.qoderworkcn/skills/kkbox-charts/music/07 夜鷹 - 米津玄師.mp3"
+        },
+        {
+          "rank": 8,
+          "last_rank": 9,
+          "song_name": "ライラック",
+          "artist": "Mrs. GREEN APPLE",
+          "album": "ライラック",
+          "cover": "https://i.kfs.io/album/global/268460495,0v1/fit/500x500.jpg",
+          "bili": [
+            {
+              "bvid": "BV1qy4y1k7G2",
+              "title": "Mrs. GREEN APPLE - インフェルノ（TV动画《炎炎消防队》OP）",
+              "play": 446864,
+              "duration": "3:34",
+              "author": "环球音乐中国"
+            },
+            {
+              "bvid": "BV1JP25Y8EYH",
+              "title": "ライラック (丁香)《失忆投捕》【Mrs. GREEN APPLE】动态鼓谱",
+              "play": 3880,
+              "duration": "4:49",
+              "author": "看哦爱随风原创鼓谱"
+            },
+            {
+              "bvid": "BV13TKKzeEaE",
+              "title": "【PLAVE】都银虎Eunho – ‘ライラック’（原唱:Mrs.  Green Apple）| 日综M:ZINE 0621",
+              "play": 482,
+              "duration": "0:34",
+              "author": "茉莉薄巧抹茶冰淇淋"
+            }
+          ],
+          "local": "/Users/sour/.qoderworkcn/skills/kkbox-charts/music/08 ライラック - Mrs. GREEN APPLE.mp3"
+        },
+        {
+          "rank": 9,
+          "last_rank": 7,
+          "song_name": "夜の踊り子",
+          "artist": "サカナクション",
+          "album": "sakanaction",
+          "cover": "https://i.kfs.io/album/global/6446353,8v1/fit/500x500.jpg",
+          "bili": [
+            {
+              "bvid": "BV1uUfVBPEHZ",
+              "title": "【中字MV】サカナクション「夜の踊り子」",
+              "play": 10129,
+              "duration": "5:8",
+              "author": "青柠_罗勒_柑橘"
+            },
+            {
+              "bvid": "BV1Cf4y1U7FU",
+              "title": "【搬运】【自制字幕】サカナクション /夜の踊り子（鱼韵/夜之舞者）",
+              "play": 29133,
+              "duration": "5:16",
+              "author": "TanKDJ"
+            },
+            {
+              "bvid": "BV1v64y1b7Vy",
+              "title": "【官方】sakanaction（サカナクション) -　夜の踊り子",
+              "play": 2309508,
+              "duration": "5:9",
+              "author": "sakanaction鱼韵乐队"
+            }
+          ],
+          "local": "/Users/sour/.qoderworkcn/skills/kkbox-charts/music/09 夜の踊り子 - サカナクション.mp3"
+        },
+        {
+          "rank": 10,
+          "last_rank": 16,
+          "song_name": "Walking with you",
+          "artist": "Novelbright",
+          "album": "SKYWALK",
+          "cover": "https://i.kfs.io/album/global/43559251,0v2/fit/500x500.jpg",
+          "bili": [
+            {
+              "bvid": "BV13J411P7iF",
+              "title": "Novelbright - Walking with you [Official Music Video]",
+              "play": 24991,
+              "duration": "7:55",
+              "author": "精神安定剤"
+            },
+            {
+              "bvid": "BV1ku4y1B7Zn",
+              "title": "Novelbright - Walking with you [Official Live Video at Zepp DiverCity(TOKYO)]",
+              "play": 6285,
+              "duration": "4:16",
+              "author": "nb_shuu"
+            },
+            {
+              "bvid": "BV17hxBe4Eei",
+              "title": "【投屏用 カラオケ】Walking with you-Novelbright (On Vocal)",
+              "play": 604,
+              "duration": "3:49",
+              "author": "構わない"
+            }
+          ],
+          "local": "/Users/sour/.qoderworkcn/skills/kkbox-charts/music/10 Walking with you - Novelbright.mp3"
+        }
+      ]
+    }
+  }
+}
