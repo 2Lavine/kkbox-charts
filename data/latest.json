@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "regions": {
     "tw": {
       "name": "台灣",
@@ -28,25 +28,25 @@
               "profile": "马来西亚华语流行女歌手",
               "bili": [
                 {
+                  "bvid": "BV1ciTZ6JEc5",
+                  "title": "【𝐇𝐢-𝐑𝐞𝐬无损音质】｜《甲乙丙丁 (你我怎么两清)》- 李佳薇-‘若我落下泪滴 能否换来 一点同情’",
+                  "play": 1321185,
+                  "duration": "3:31",
+                  "author": "VV音乐局"
+                },
+                {
+                  "bvid": "BV1KiuH6hE7s",
+                  "title": "【金喵儿 甲乙丙丁】换了新键帽不说话 但碍不住嘴巴痒想练歌儿",
+                  "play": 1132,
+                  "duration": "3:18",
+                  "author": "小有名气的浪漫疯子"
+                },
+                {
                   "bvid": "BV1qb8z6DETq",
                   "title": "张碧晨&amp; 侯明昊 《甲乙丙丁》天赐·20260821",
-                  "play": 109560,
+                  "play": 154015,
                   "duration": "4:28",
                   "author": "羊的留声机"
-                },
-                {
-                  "bvid": "BV1xb8s6sEKm",
-                  "title": "李佳薇《甲乙丙丁》&amp;周深《怜悯》remix男女对唱重制版",
-                  "play": 1597,
-                  "duration": "4:13",
-                  "author": "白川Ay"
-                },
-                {
-                  "bvid": "BV1QL8m6aEeq",
-                  "title": "胡夏cover《甲乙丙丁》唱得好痛🥺",
-                  "play": 4258,
-                  "duration": "0:38",
-                  "author": "独家记忆黑咖啡"
                 }
               ],
               "audio": "music/song_297-01 甲乙丙丁Strangers - 李佳薇 (Jess Lee).mp3"
@@ -71,30 +71,30 @@
                 {
                   "bvid": "BV1XXjQ61EEG",
                   "title": "4599 没有人像我一样-宇宙人",
-                  "play": 3242,
+                  "play": 3255,
                   "duration": "4:7",
                   "author": "jay的实验室"
                 },
                 {
-                  "bvid": "BV1Po8U6WEL3",
-                  "title": "没有人像我一样",
-                  "play": 305,
-                  "duration": "1:50",
-                  "author": "bili_44203502299"
-                },
-                {
                   "bvid": "BV1g1M26qEN5",
                   "title": "EP06 Cover |没有人像我一样",
-                  "play": 229,
+                  "play": 230,
                   "duration": "1:37",
                   "author": "UkuElison"
+                },
+                {
+                  "bvid": "BV1UNuu6AEim",
+                  "title": "宇宙人 - 沒有人像我一樣Drum Cover[附鼓譜]",
+                  "play": 243,
+                  "duration": "4:6",
+                  "author": "Kyle_Yeung"
                 }
               ],
               "audio": "music/song_297-02 沒有人像我一樣 - 宇宙人 (Cosmos People).mp3"
             },
             {
               "rank": 3,
-              "last_rank": 4,
+              "last_rank": 3,
               "song_name": "幸福在歌唱 - 電影《陽光女子合唱團》幸福版主題曲",
               "artist": "A-Lin",
               "album": "幸福在歌唱 - 電影《陽光女子合唱團》幸福版主題曲",
@@ -112,9 +112,16 @@
                 {
                   "bvid": "BV17qBYBDEJU",
                   "title": "【4K】A-Lin《幸福在歌唱》官方MV（电影《阳光女子合唱团》幸福版主题曲）",
-                  "play": 76510,
+                  "play": 76753,
                   "duration": "4:40",
                   "author": "华语新歌MV"
+                },
+                {
+                  "bvid": "BV1AGBiBvEJG",
+                  "title": "A-Lin_黄丽玲-幸福在歌唱 伴奏 原版伴奏 欣赏",
+                  "play": 369,
+                  "duration": "4:40",
+                  "author": "卡拉king"
                 },
                 {
                   "bvid": "BV1tQu36zE82",
@@ -122,20 +129,13 @@
                   "play": 8,
                   "duration": "4:41",
                   "author": "万全音乐伴奏"
-                },
-                {
-                  "bvid": "BV1qA411K7Se",
-                  "title": "A-Lin - 《爱的可能》金曲捞",
-                  "play": 5070,
-                  "duration": "4:12",
-                  "author": "很会做生意的老头子"
                 }
               ],
               "audio": "music/song_297-03 幸福在歌唱 - A.mp3"
             },
             {
               "rank": 4,
-              "last_rank": 3,
+              "last_rank": 4,
               "song_name": "離開我的依賴",
               "artist": "王艷薇 (Evangeline)",
               "album": "離開我的依賴",
@@ -152,13 +152,6 @@
               "profile": "马来西亚创作女歌手",
               "bili": [
                 {
-                  "bvid": "BV14Jp3zUEq6",
-                  "title": "离开我的依赖【王艳薇】动态鼓谱",
-                  "play": 17569,
-                  "duration": "3:55",
-                  "author": "看哦爱随风原创鼓谱"
-                },
-                {
                   "bvid": "BV1tVqVBrEXi",
                   "title": "我来不及道声不安，只想要痛快的「离开我的依赖」/【尤克里里弹唱教学】",
                   "play": 4220,
@@ -168,16 +161,23 @@
                 {
                   "bvid": "BV1jSSFBXEYQ",
                   "title": "《离开我的依赖》 王艳薇  贝斯翻弹 bass cover 人肉贝斯机林维俊",
-                  "play": 392,
+                  "play": 393,
                   "duration": "0:38",
                   "author": "人肉贝斯机林维俊bass"
+                },
+                {
+                  "bvid": "BV1m7hP6KE5D",
+                  "title": "第一次挑战翻唱 王艳薇 离开我的依赖",
+                  "play": 15,
+                  "duration": "0:51",
+                  "author": "栖楓墨"
                 }
               ],
               "audio": "music/song_297-04 離開我的依賴 - 王艷薇 (Evangeline).mp3"
             },
             {
               "rank": 5,
-              "last_rank": 6,
+              "last_rank": 5,
               "song_name": "海嶼你",
               "artist": "马也Crabbit, Cole先生",
               "album": "海嶼你",
@@ -193,32 +193,32 @@
               "profile": "中國流行歌手",
               "bili": [
                 {
-                  "bvid": "BV1UW8s6ZELf",
-                  "title": "海屿你(马也_Crabbit&amp;Cole先生)-简化版-动态鼓谱",
-                  "play": 207,
-                  "duration": "4:53",
-                  "author": "汉堡粑比"
+                  "bvid": "BV1xEoUB9Eoi",
+                  "title": "《海屿你》 高潮剪辑",
+                  "play": 1334,
+                  "duration": "1:17",
+                  "author": "457210"
                 },
                 {
                   "bvid": "BV18iDvBVEs6",
                   "title": "尤克里里单音指弹练习曲&lt;海屿你&gt;马也_Crabbit  gorilla歌芮拉尤克里里",
-                  "play": 1564,
+                  "play": 1573,
                   "duration": "3:13",
                   "author": "Gorilla歌芮拉音乐"
                 },
                 {
-                  "bvid": "BV1xEoUB9Eoi",
-                  "title": "《海屿你》 高潮剪辑",
-                  "play": 1324,
-                  "duration": "1:17",
-                  "author": "457210"
+                  "bvid": "BV1UW8s6ZELf",
+                  "title": "海屿你(马也_Crabbit&amp;Cole先生)-简化版-动态鼓谱",
+                  "play": 256,
+                  "duration": "4:53",
+                  "author": "汉堡粑比"
                 }
               ],
               "audio": "music/song_297-05 海嶼你 - 马也Crabbit, Cole先生.mp3"
             },
             {
               "rank": 6,
-              "last_rank": 5,
+              "last_rank": 6,
               "song_name": "All For You - 《蜘蛛人：重生日》電影片尾曲",
               "artist": "周興哲 (Eric Chou)",
               "album": "All For You - 《蜘蛛人：重生日》電影片尾曲",
@@ -234,25 +234,25 @@
               "profile": "台湾创作男歌手",
               "bili": [
                 {
+                  "bvid": "BV1i5411h7es",
+                  "title": "练哭！各种合奏配合，爵士经典名曲练习《ALL OF ME》。",
+                  "play": 3392,
+                  "duration": "2:46",
+                  "author": "晒太阳钓鱼"
+                },
+                {
                   "bvid": "BV1zoKE6BEmx",
                   "title": "【4K】周兴哲《All For You》官方MV（电影《蜘蛛侠：崭新之日》台湾区片尾曲）",
-                  "play": 16449,
+                  "play": 16785,
                   "duration": "3:41",
                   "author": "华语新歌MV"
                 },
                 {
                   "bvid": "BV166uQ6uEJe",
                   "title": "[自制KTV] 周兴哲 - All For You",
-                  "play": 130,
+                  "play": 142,
                   "duration": "7:28",
                   "author": "魚蛋小將"
-                },
-                {
-                  "bvid": "BV1vZgE6kEmr",
-                  "title": "周興哲 - 《All For You》Drum Cover",
-                  "play": 172,
-                  "duration": "3:33",
-                  "author": "Kyle_Yeung"
                 }
               ],
               "audio": "music/song_297-06 All For You - 周興哲 (Eric Chou).mp3"
@@ -277,23 +277,23 @@
                 {
                   "bvid": "BV1JqLozEE9o",
                   "title": "張遠 - 看著我的眼睛說『來 你看著我的眼睛說 你從沒愛過我，再看著我的眼睛說 你一點都不難過。』【高音質|動態歌詞】♫",
-                  "play": 5020,
+                  "play": 5025,
                   "duration": "4:21",
                   "author": "4KMusicMake"
                 },
                 {
-                  "bvid": "BV1YQ816FEAT",
-                  "title": "【专场】张远 | 点击即看被闪帝硬控的一晚，元宝姐姐我承认你们很萌很善良很可爱......",
-                  "play": 1562,
-                  "duration": "252:58",
-                  "author": "小慕No1"
-                },
-                {
                   "bvid": "BV1vx3kzRE4y",
                   "title": "张远《看着我的眼睛说》歌曲教学|“看着我的眼睛说 你从没爱过我~”",
-                  "play": 4121,
+                  "play": 4124,
                   "duration": "1:9",
                   "author": "阿兰教唱歌"
+                },
+                {
+                  "bvid": "BV1cDamziEVd",
+                  "title": "张远 - 看着我的眼睛说 简谱 动态谱",
+                  "play": 4907,
+                  "duration": "1:43",
+                  "author": "魂8淡"
                 }
               ],
               "audio": "music/song_297-07 看著我的眼睛說 - 張遠.mp3"
@@ -318,21 +318,21 @@
                 {
                   "bvid": "BV1q6Mr6vEQt",
                   "title": "小宇 宋念宇 -《意外》Official 4K Music Video",
-                  "play": 1323,
+                  "play": 1332,
                   "duration": "6:21",
                   "author": "金曲奖吧官方频道"
                 },
                 {
-                  "bvid": "BV1iT8s6zEeq",
-                  "title": "【小宇/宋念宇】我猜《终于说出口》",
-                  "play": 181,
-                  "duration": "1:1",
-                  "author": "睦實_北城"
+                  "bvid": "BV13tuv65EVb",
+                  "title": "『HI-Res MV』小宇 宋念宇 - 意外",
+                  "play": 51,
+                  "duration": "6:21",
+                  "author": "影悦荟"
                 },
                 {
                   "bvid": "BV18b411m7Kt",
                   "title": "OUR CHANNEL COVER - 【宋念宇/小宇-幻聽】＃43",
-                  "play": 1642,
+                  "play": 1643,
                   "duration": "3:52",
                   "author": "OURCHANNEL"
                 }
@@ -356,32 +356,32 @@
               "profile": "",
               "bili": [
                 {
-                  "bvid": "BV16Ru26sEJd",
-                  "title": "永远打不通的电话……",
-                  "play": 315,
-                  "duration": "2:32",
-                  "author": "青縊"
+                  "bvid": "BV15r6WYeEWa",
+                  "title": "【中文】现在拨打的电话10-12",
+                  "play": 5716,
+                  "duration": "3:0",
+                  "author": "嘻嘻的独佳记忆"
                 },
                 {
-                  "bvid": "BV1Jaui68EhL",
-                  "title": "民警教你3秒识别诈骗电话！接到陌生电话先不要吭声 停3秒，对方不说话就挂断再回拨，如果打不通就是诈骗电话！",
-                  "play": 9310,
-                  "duration": "0:19",
-                  "author": "今视频长天新闻"
+                  "bvid": "BV1Bj411y7Sy",
+                  "title": "oppo手机这是bug吗？报警电话都打不通",
+                  "play": 2729,
+                  "duration": "1:49",
+                  "author": "爱谁谁反不是我"
                 },
                 {
-                  "bvid": "BV16M411t7XU",
-                  "title": "韩国品竹电话，打不通",
-                  "play": 441099,
-                  "duration": "0:26",
-                  "author": "小脚闯天下"
+                  "bvid": "BV1q8h36gEds",
+                  "title": "若是打不通，就去掉区号打。他们是工作日上班时间才接听电话。",
+                  "play": 9,
+                  "duration": "0:12",
+                  "author": "我们总是心太软"
                 }
               ],
               "audio": "music/song_297-09 打不通的電話 - Sean Ko.mp3"
             },
             {
               "rank": 10,
-              "last_rank": 15,
+              "last_rank": 10,
               "song_name": "再見的時候-電影〈陽光女子合唱團〉主題曲-再見版",
               "artist": "洪佩瑜",
               "album": "再見的時候-電影〈陽光女子合唱團〉主題曲-再見版",
@@ -398,23 +398,23 @@
                 {
                   "bvid": "BV1n2qGBcEbF",
                   "title": "【新歌试听】洪佩瑜《再见的时候》电台版抢先听（电影《阳光女子合唱团》再见版主题曲）",
-                  "play": 12052,
+                  "play": 12088,
                   "duration": "3:8",
                   "author": "华语新歌MV"
                 },
                 {
-                  "bvid": "BV1S14y1N7km",
-                  "title": "【4K|Hi-Res】古巨基《下次再见》感人现场！和爱的人在当下多见面",
-                  "play": 41031,
-                  "duration": "4:4",
-                  "author": "香港乐坛Live王"
+                  "bvid": "BV11EVB6QEBJ",
+                  "title": "洪佩瑜 再见的时候 伴奏 高清纯伴奏",
+                  "play": 17,
+                  "duration": "3:55",
+                  "author": "生命树音乐工作室-"
                 },
                 {
-                  "bvid": "BV1jMkaBxExh",
-                  "title": "【4K】洪佩瑜《再见的时候》官方MV（电影《阳光女子合唱团》再见版主题曲）",
-                  "play": 36478,
-                  "duration": "4:48",
-                  "author": "华语新歌MV"
+                  "bvid": "BV1jN67B5ECJ",
+                  "title": "【Piano Cover】洪佩瑜 - 再见的时候｜电影《阳光女子合唱团》再见版主题曲｜高音质/附谱/歌词",
+                  "play": 1495,
+                  "duration": "4:12",
+                  "author": "NicePianoSheets"
                 }
               ],
               "audio": "music/song_297-10 再見的時候 - 洪佩瑜.mp3"
@@ -447,21 +447,21 @@
                 {
                   "bvid": "BV1q6Mr6vEQt",
                   "title": "小宇 宋念宇 -《意外》Official 4K Music Video",
-                  "play": 1323,
+                  "play": 1332,
                   "duration": "6:21",
                   "author": "金曲奖吧官方频道"
                 },
                 {
-                  "bvid": "BV1iT8s6zEeq",
-                  "title": "【小宇/宋念宇】我猜《终于说出口》",
-                  "play": 181,
-                  "duration": "1:1",
-                  "author": "睦實_北城"
+                  "bvid": "BV13tuv65EVb",
+                  "title": "『HI-Res MV』小宇 宋念宇 - 意外",
+                  "play": 51,
+                  "duration": "6:21",
+                  "author": "影悦荟"
                 },
                 {
                   "bvid": "BV18b411m7Kt",
                   "title": "OUR CHANNEL COVER - 【宋念宇/小宇-幻聽】＃43",
-                  "play": 1642,
+                  "play": 1643,
                   "duration": "3:52",
                   "author": "OURCHANNEL"
                 }
@@ -485,32 +485,32 @@
               "profile": "",
               "bili": [
                 {
-                  "bvid": "BV16Ru26sEJd",
-                  "title": "永远打不通的电话……",
-                  "play": 315,
-                  "duration": "2:32",
-                  "author": "青縊"
+                  "bvid": "BV15r6WYeEWa",
+                  "title": "【中文】现在拨打的电话10-12",
+                  "play": 5716,
+                  "duration": "3:0",
+                  "author": "嘻嘻的独佳记忆"
                 },
                 {
-                  "bvid": "BV1Jaui68EhL",
-                  "title": "民警教你3秒识别诈骗电话！接到陌生电话先不要吭声 停3秒，对方不说话就挂断再回拨，如果打不通就是诈骗电话！",
-                  "play": 9310,
-                  "duration": "0:19",
-                  "author": "今视频长天新闻"
+                  "bvid": "BV1Bj411y7Sy",
+                  "title": "oppo手机这是bug吗？报警电话都打不通",
+                  "play": 2729,
+                  "duration": "1:49",
+                  "author": "爱谁谁反不是我"
                 },
                 {
-                  "bvid": "BV16M411t7XU",
-                  "title": "韩国品竹电话，打不通",
-                  "play": 441099,
-                  "duration": "0:26",
-                  "author": "小脚闯天下"
+                  "bvid": "BV1q8h36gEds",
+                  "title": "若是打不通，就去掉区号打。他们是工作日上班时间才接听电话。",
+                  "play": 9,
+                  "duration": "0:12",
+                  "author": "我们总是心太软"
                 }
               ],
               "audio": "music/newrelease_297-02 打不通的電話 - Sean Ko.mp3"
             },
             {
               "rank": 3,
-              "last_rank": 4,
+              "last_rank": 3,
               "song_name": "請圍著火焰保護我",
               "artist": "陳忻玥 (Vicky Chen)",
               "album": "請圍著火焰保護我",
@@ -527,30 +527,30 @@
                 {
                   "bvid": "BV18cGN6cE62",
                   "title": "陳忻玥 Vicky Chen【請圍著火焰保護我】Keep Me Safe by the Fire | Official MV",
-                  "play": 1307,
+                  "play": 1314,
                   "duration": "3:5",
-                  "author": "SKR陶山音樂官方帳號"
-                },
-                {
-                  "bvid": "BV1ncQcBAEVy",
-                  "title": "陳忻玥 Vicky Chen -【嫉得我】Jealous of Me | Official MV",
-                  "play": 1512,
-                  "duration": "3:8",
                   "author": "SKR陶山音樂官方帳號"
                 },
                 {
                   "bvid": "BV1SiQhYgEAP",
                   "title": "陳忻玥 Vicky Chen - 【Didn&#x27;t WeHave Fun?】 Official MV",
-                  "play": 1613,
+                  "play": 1614,
                   "duration": "3:10",
                   "author": "SKR陶山音樂官方帳號"
+                },
+                {
+                  "bvid": "BV1cRhuzxEk2",
+                  "title": "【SNH48】闫娜：“巴山楚水凄凉地，X队雄起look at me”",
+                  "play": 6152,
+                  "duration": "0:17",
+                  "author": "终有不易z"
                 }
               ],
               "audio": "music/newrelease_297-03 請圍著火焰保護我 - 陳忻玥 (Vicky Chen).mp3"
             },
             {
               "rank": 4,
-              "last_rank": 3,
+              "last_rank": 4,
               "song_name": "別戀",
               "artist": "派偉俊 (Patrick Brasca)",
               "album": "BAD IDEA",
@@ -568,21 +568,21 @@
                 {
                   "bvid": "BV1SYuZ6MEVJ",
                   "title": "【4K】派伟俊《别恋》官方MV",
-                  "play": 4078,
+                  "play": 4212,
                   "duration": "3:20",
                   "author": "华语新歌MV"
                 },
                 {
-                  "bvid": "BV1bi421C7RW",
-                  "title": "《横滨别恋》-李蕙敏-1995年-专辑:《横滨别恋》【无损】",
-                  "play": 11901,
-                  "duration": "5:10",
-                  "author": "静享粤乐"
+                  "bvid": "BV1W3826jESj",
+                  "title": "派伟俊-别恋 伴奏（降2调版）",
+                  "play": 19,
+                  "duration": "3:20",
+                  "author": "阿杰不是龟龟"
                 },
                 {
                   "bvid": "BV1J1gN6VEWd",
                   "title": "[自制KTV] 派伟俊 - 别恋",
-                  "play": 185,
+                  "play": 194,
                   "duration": "6:40",
                   "author": "魚蛋小將"
                 }
@@ -608,23 +608,23 @@
                 {
                   "bvid": "BV1XEu96wEJp",
                   "title": "【𝐇𝐢-𝐑𝐞𝐬·无损】刘芯妤Roselyn《最完美的存在》歌词纯享版 - “我就是最完美的存在  布满荆棘的玫瑰盛开”",
-                  "play": 5554,
+                  "play": 5901,
                   "duration": "3:44",
                   "author": "听清工作室"
                 },
                 {
                   "bvid": "BV1ae8A6rE5q",
                   "title": "刘芯妤Roselyn - 最完美的存在 「清晨微凉的风 唤醒久违的梦」【動態歌詞/Lyrics Video】 #刘芯妤Roselyn #最完美的存在 #動態歌詞",
-                  "play": 211,
+                  "play": 228,
                   "duration": "3:45",
                   "author": "WCYMusicStudio"
                 },
                 {
-                  "bvid": "BV1jANm65Eo3",
-                  "title": "超清官摄 | 小玫瑰首唱新歌《最完美的存在》",
-                  "play": 1922,
-                  "duration": "1:4",
-                  "author": "北投cxh"
+                  "bvid": "BV11S8v6DEKk",
+                  "title": "《唐吉珂德》表演：刘芯妤",
+                  "play": 1,
+                  "duration": "1:8",
+                  "author": "一帧诗地"
                 }
               ],
               "audio": "music/newrelease_297-05 最完美的存在 - 劉芯妤.mp3"
@@ -648,7 +648,7 @@
                 {
                   "bvid": "BV1GhetzvEjA",
                   "title": "10-閻奕格 Janice Yan [ 也可以 ] (電影「追婚日記」插曲) 片花版Music Video",
-                  "play": 198,
+                  "play": 199,
                   "duration": "3:51",
                   "author": "逆夜九九六"
                 },
@@ -660,22 +660,22 @@
                   "author": "魔方大厦Pro"
                 },
                 {
-                  "bvid": "BV1JjM966Eho",
-                  "title": "【新歌试听】阎奕格《起始画面》电台版抢先听",
-                  "play": 701,
-                  "duration": "2:29",
-                  "author": "华语新歌MV"
+                  "bvid": "BV1C54y187WJ",
+                  "title": "閻奕格Janice Yan [ 成全 Gratify ] (電視劇「仙劍雲之凡」插曲) 片花版Music Video",
+                  "play": 4510,
+                  "duration": "4:36",
+                  "author": "萌音大酋长"
                 }
               ],
               "audio": "music/newrelease_297-06 起始畫面 - 閻奕格 Janice Yan.mp3"
             },
             {
               "rank": 7,
-              "last_rank": 8,
+              "last_rank": 7,
               "song_name": "下過雨之後",
               "artist": "F.F.O",
               "album": "下過雨之後",
-              "cover": "https://i.kfs.io/album/global/297143971,0v2/fit/500x500.jpg",
+              "cover": "https://i.kfs.io/album/global/297143971,0v3/fit/500x500.jpg",
               "release_date": 1786377600,
               "song_url": "https://www.kkbox.com/tw/tc/song/La_0m455zEPTj99CH8",
               "artist_url": "https://www.kkbox.com/tw/tc/artist/PZ-nm5ZQ4cM7s-gH_t",
@@ -686,32 +686,72 @@
               "profile": "",
               "bili": [
                 {
-                  "bvid": "BV1b1gP6sEHT",
-                  "title": "ACC 当一位龟爬小伙玩了一阵子f124之后，他的acc变化是？（伊莫拉刷新bp）",
-                  "play": 354,
-                  "duration": "1:55",
-                  "author": "去个坏名字好难"
+                  "bvid": "BV18ZKdzkEWw",
+                  "title": "SM家队长的第一课“学会让步”，其中的心酸只有自己知道！｜H.O.T 东方神起 SJ 少女时代 SHINee f(x) EXO RV NCT RIIZE",
+                  "play": 124187,
+                  "duration": "10:41",
+                  "author": "lizz不加酱"
+                },
+                {
+                  "bvid": "BV1MRJp6YEAx",
+                  "title": "L.o.f 📖《众柱爱勇》义勇一直以为自己是万人嫌，受伤生病意外发现众柱对他关爱有加！",
+                  "play": 2409,
+                  "duration": "4:47",
+                  "author": "0掉渣殿下0"
                 },
                 {
                   "bvid": "BV17u8b6RECr",
                   "title": "0;P;c;1;h;0;0l;4;0v;4;0g;1;0o;2;0a;1;0f;0;1b;0",
-                  "play": 1457,
+                  "play": 2944,
                   "duration": "0:49",
                   "author": "FC迪巴拉"
-                },
-                {
-                  "bvid": "BV1th411j7w5",
-                  "title": "《声生不息》 Back off(F.O.) 坏特",
-                  "play": 48342,
-                  "duration": "3:20",
-                  "author": "西瓜啵啵很啵啵"
                 }
               ],
               "audio": "music/newrelease_297-07 下過雨之後 - F.F.O.mp3"
             },
             {
               "rank": 8,
-              "last_rank": 10,
+              "last_rank": 11,
+              "song_name": "愛火山的人",
+              "artist": "徐暐翔 (Vash Hsu)",
+              "album": "愛火山的人",
+              "cover": "https://i.kfs.io/album/global/296145125,0v3/fit/500x500.jpg",
+              "release_date": 1786377600,
+              "song_url": "https://www.kkbox.com/tw/tc/song/HaSI9xQVE8K3aRz7ve",
+              "artist_url": "https://www.kkbox.com/tw/tc/artist/KkCI9slCnYMj-Fnssa",
+              "album_url": "https://www.kkbox.com/tw/tc/album/OoLRXyeIhoFhE-5MS7",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1Gsuy6TEEp",
+                  "title": "徐暐翔 -《爱火山的人》Official 4K Music Video",
+                  "play": 1107,
+                  "duration": "3:48",
+                  "author": "金曲奖吧官方频道"
+                },
+                {
+                  "bvid": "BV1zWh365EBT",
+                  "title": "『HI-Res MV』徐暐翔 - 爱火山的人",
+                  "play": 0,
+                  "duration": "3:48",
+                  "author": "影悦荟"
+                },
+                {
+                  "bvid": "BV1v4uz68EV5",
+                  "title": "【4K】徐暐翔《爱火山的人》官方MV",
+                  "play": 317,
+                  "duration": "3:48",
+                  "author": "华语新歌MV"
+                }
+              ],
+              "audio": "music/newrelease_297-08 愛火山的人 - 徐暐翔 (Vash Hsu).mp3"
+            },
+            {
+              "rank": 9,
+              "last_rank": 8,
               "song_name": "殼 - HBO原創影集《來！金來號！》片尾曲",
               "artist": "周興哲 (Eric Chou)",
               "album": "殼 - HBO原創影集《來！金來號！》片尾曲",
@@ -727,31 +767,31 @@
               "profile": "台湾创作男歌手",
               "bili": [
                 {
-                  "bvid": "BV18ou46HEgo",
-                  "title": "【4K】周兴哲《壳》官方MV（影集《来！金来号！》片尾曲）",
-                  "play": 968,
-                  "duration": "3:44",
-                  "author": "华语新歌MV"
-                },
-                {
                   "bvid": "BV1aQ3t6hEbF",
                   "title": "【Hi-Res·无损】Eric周兴哲《壳》歌词纯享版 - “从前的伤痕  是蜕变的壳  我只会更认真  没理由耽搁”",
-                  "play": 1023,
+                  "play": 1044,
                   "duration": "3:31",
                   "author": "听见鹣鲽"
                 },
                 {
-                  "bvid": "BV1KybB6ZEkg",
-                  "title": "周兴哲 Eric Chou《壳》| HBO原创影集《来！金来号！》片尾曲【神还原】扒谱 钢琴 独奏 琴谱",
-                  "play": 189,
-                  "duration": "3:52",
-                  "author": "Lionrock扒谱王子"
+                  "bvid": "BV18ou46HEgo",
+                  "title": "【4K】周兴哲《壳》官方MV（影集《来！金来号！》片尾曲）",
+                  "play": 990,
+                  "duration": "3:44",
+                  "author": "华语新歌MV"
+                },
+                {
+                  "bvid": "BV1f1gN6VEUs",
+                  "title": "[自制KTV] 周兴哲 - 壳",
+                  "play": 141,
+                  "duration": "7:28",
+                  "author": "魚蛋小將"
                 }
               ],
-              "audio": "music/newrelease_297-08 殼 - 周興哲 (Eric Chou).mp3"
+              "audio": "music/newrelease_297-09 殼 - 周興哲 (Eric Chou).mp3"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "last_rank": 9,
               "song_name": "朝我心臟開槍 (Acoustic Live)",
               "artist": "Tizzy Bac",
@@ -769,67 +809,26 @@
                 {
                   "bvid": "BV1j9GyzMEoh",
                   "title": "【官方MV】Tizzy Bac《朝我心脏开枪》",
-                  "play": 2992,
+                  "play": 2995,
                   "duration": "4:43",
                   "author": "相信音乐"
                 },
                 {
                   "bvid": "BV1sj3v6BEAb",
                   "title": "【官方Live MV】Tizzy Bac《朝我心脏开枪》(Acoustic)",
-                  "play": 1484,
+                  "play": 1493,
                   "duration": "4:23",
                   "author": "相信音乐"
                 },
                 {
-                  "bvid": "BV1MV41197W3",
-                  "title": "Tizzy T演唱会未发布新歌《我是我》“要把我的故事公之于众 我可能需要10家报社”",
-                  "play": 5200,
-                  "duration": "2:59",
-                  "author": "说唱音乐库"
+                  "bvid": "BV18W41147RG",
+                  "title": "Tizzy Bac《我不小心》 【Forever 21】演唱会 live version",
+                  "play": 924,
+                  "duration": "5:46",
+                  "author": "assafedoseofyou"
                 }
               ],
-              "audio": "music/newrelease_297-09 朝我心臟開槍 (Acoustic Live) - Tizzy Bac.mp3"
-            },
-            {
-              "rank": 10,
-              "last_rank": 7,
-              "song_name": "如初",
-              "artist": "梁文音 (Wen Yin Liang)",
-              "album": "如初",
-              "cover": "https://i.kfs.io/album/global/296002712,0v2/fit/500x500.jpg",
-              "release_date": 1784822400,
-              "song_url": "https://www.kkbox.com/tw/tc/song/OtnubNmt3DzwbT3x3I",
-              "artist_url": "https://www.kkbox.com/tw/tc/artist/GtqqTE-Fw6HSAVw4OQ",
-              "album_url": "https://www.kkbox.com/tw/tc/album/Os7bKpEoqcVQaDGlXu",
-              "genres": [
-                "華語流行",
-                "抒情"
-              ],
-              "profile": "台灣女歌手",
-              "bili": [
-                {
-                  "bvid": "BV1Mug66RE9M",
-                  "title": "【新歌试听】梁文音《如初》电台版抢先听",
-                  "play": 1257,
-                  "duration": "4:6",
-                  "author": "华语新歌MV"
-                },
-                {
-                  "bvid": "BV1kg376UE6x",
-                  "title": "梁文音 -《如初》Official Music Video",
-                  "play": 1320,
-                  "duration": "4:32",
-                  "author": "金曲奖吧官方频道"
-                },
-                {
-                  "bvid": "BV1cPuy6QETF",
-                  "title": "梁文音出道18年纪念之作《如初》Live",
-                  "play": 754,
-                  "duration": "4:29",
-                  "author": "环球音乐中国"
-                }
-              ],
-              "audio": "music/newrelease_297-10 如初 - 梁文音 (Wen Yin Liang).mp3"
+              "audio": "music/newrelease_297-10 朝我心臟開槍 (Acoustic Live) - Tizzy Bac.mp3"
             }
           ]
         }
@@ -846,47 +845,7 @@
           "songs": [
             {
               "rank": 1,
-              "last_rank": 5,
-              "song_name": "見知らぬ糸",
-              "artist": "スピッツ",
-              "album": "見知らぬ糸",
-              "cover": "https://i.kfs.io/album/global/296664122,0v2/fit/500x500.jpg",
-              "release_date": 1786032000,
-              "song_url": "https://www.kkbox.com/jp/tc/song/KmIdfOU4R1boNHozRP",
-              "artist_url": "https://www.kkbox.com/jp/tc/artist/X_TbyV0xnYXJEpXivB",
-              "album_url": "https://www.kkbox.com/jp/tc/album/5-UnteR5FSVSCjW-iH",
-              "genres": [
-                "日系流行"
-              ],
-              "profile": "",
-              "bili": [
-                {
-                  "bvid": "BV1GN3U6WE4s",
-                  "title": "【スピッツ / Spitz】見知らぬ糸（電台試聽ver.）",
-                  "play": 8481,
-                  "duration": "4:1",
-                  "author": "DanyLesinad"
-                },
-                {
-                  "bvid": "BV1V58P65EnM",
-                  "title": "【スピッツ / Spitz】見知らぬ糸 MV",
-                  "play": 983,
-                  "duration": "4:16",
-                  "author": "DanyLesinad"
-                },
-                {
-                  "bvid": "BV1Dw8z6uEYv",
-                  "title": "【中日双语】Spitz 《見知らぬ糸》（陌生的丝线）——《直到T恤干透》主题曲MV",
-                  "play": 1053,
-                  "duration": "4:17",
-                  "author": "AHPEventColle"
-                }
-              ],
-              "audio": "music/song_733-01 見知らぬ糸 - スピッツ.mp3"
-            },
-            {
-              "rank": 2,
-              "last_rank": 4,
+              "last_rank": 2,
               "song_name": "IRIS OUT",
               "artist": "米津玄師",
               "album": "IRIS OUT",
@@ -903,74 +862,71 @@
               "profile": "創作型音樂人",
               "bili": [
                 {
+                  "bvid": "BV1m4qgBNESe",
+                  "title": "【太鼓達人虹色版】IRIS OUT【内录全良】",
+                  "play": 568,
+                  "duration": "1:49",
+                  "author": "零风花見"
+                },
+                {
+                  "bvid": "BV1GxmyBcEWg",
+                  "title": "「IRIS OUT」",
+                  "play": 785,
+                  "duration": "0:17",
+                  "author": "ろげ"
+                },
+                {
                   "bvid": "BV1km1eB7Ejr",
                   "title": "米津玄師 - IRIS OUT动态鼓谱",
-                  "play": 1866,
+                  "play": 1867,
                   "duration": "2:27",
                   "author": "小娟音乐工作室"
-                },
-                {
-                  "bvid": "BV1fb886fErJ",
-                  "title": "【ニコカラ】IRIS OUT covered by 御莉姫",
-                  "play": 33,
-                  "duration": "5:14",
-                  "author": "理芽小姐重度依赖"
-                },
-                {
-                  "bvid": "BV1x6pyzVEb4",
-                  "title": "【无损纯伴奏】IRIS OUT - 米津玄師",
-                  "play": 463,
-                  "duration": "2:32",
-                  "author": "伴奏君s"
                 }
               ],
-              "audio": "music/song_733-02 IRIS OUT - 米津玄師.mp3"
+              "audio": "music/song_733-01 IRIS OUT - 米津玄師.mp3"
+            },
+            {
+              "rank": 2,
+              "last_rank": 1,
+              "song_name": "見知らぬ糸",
+              "artist": "スピッツ",
+              "album": "見知らぬ糸",
+              "cover": "https://i.kfs.io/album/global/296664122,0v2/fit/500x500.jpg",
+              "release_date": 1786032000,
+              "song_url": "https://www.kkbox.com/jp/tc/song/KmIdfOU4R1boNHozRP",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/X_TbyV0xnYXJEpXivB",
+              "album_url": "https://www.kkbox.com/jp/tc/album/5-UnteR5FSVSCjW-iH",
+              "genres": [
+                "日系流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1p3Nv6nEKm",
+                  "title": "やグゔップツいァヺ",
+                  "play": 2001,
+                  "duration": "0:30",
+                  "author": "下饭剧鉴定师"
+                },
+                {
+                  "bvid": "BV1GN3U6WE4s",
+                  "title": "【スピッツ / Spitz】見知らぬ糸（電台試聽ver.）",
+                  "play": 8542,
+                  "duration": "4:1",
+                  "author": "DanyLesinad"
+                },
+                {
+                  "bvid": "BV13r8x6KEjy",
+                  "title": "スピッツ - 見知らぬ糸 MV 双语字幕",
+                  "play": 174,
+                  "duration": "4:8",
+                  "author": "神谷卡米亚"
+                }
+              ]
             },
             {
               "rank": 3,
-              "last_rank": 3,
-              "song_name": "夜の踊り子",
-              "artist": "サカナクション",
-              "album": "sakanaction",
-              "cover": "https://i.kfs.io/album/global/6446353,8v1/fit/500x500.jpg",
-              "release_date": -28800,
-              "song_url": "https://www.kkbox.com/jp/tc/song/0qMztvrakH9Q_MuBN0",
-              "artist_url": "https://www.kkbox.com/jp/tc/artist/DYlqvXLLTDw-DFLdQ9",
-              "album_url": "https://www.kkbox.com/jp/tc/album/9_b5J-1NrjpYbdL-jl",
-              "genres": [
-                "日系搖滾",
-                "電子",
-                "日系流行"
-              ],
-              "profile": "電子搖滾樂團",
-              "bili": [
-                {
-                  "bvid": "BV1uUfVBPEHZ",
-                  "title": "【中字MV】サカナクション「夜の踊り子」",
-                  "play": 11408,
-                  "duration": "5:8",
-                  "author": "青柠_罗勒_柑橘"
-                },
-                {
-                  "bvid": "BV1QMJ36NE1W",
-                  "title": "10秒速成《NIGHT DANCER》！！学会了吗",
-                  "play": 3444144,
-                  "duration": "0:19",
-                  "author": "野生小叔"
-                },
-                {
-                  "bvid": "BV1xYbR6gEEe",
-                  "title": "【翻唱/shorts】 夜の踊り子 / サカナクション",
-                  "play": 7,
-                  "duration": "0:34",
-                  "author": "lilia_oxo的飞船记录室"
-                }
-              ],
-              "audio": "music/song_733-03 夜の踊り子 - サカナクション.mp3"
-            },
-            {
-              "rank": 4,
-              "last_rank": 6,
+              "last_rank": 4,
               "song_name": "Brand New",
               "artist": "Mrs. GREEN APPLE",
               "album": "Brand New",
@@ -986,40 +942,40 @@
               "profile": "日本流行搖滾樂團",
               "bili": [
                 {
-                  "bvid": "BV1XG8m6eE5e",
-                  "title": "Mrs. GREEN APPLE 音乐文化企划「CEREMONY」2026",
-                  "play": 3979,
-                  "duration": "336:56",
-                  "author": "嗨里嗨里"
+                  "bvid": "BV1Sx846NEbW",
+                  "title": "【TXT记录库·中字】260823 Mrs. GREEN APPLE presents 『CEREMONY』舞台+太显 日语演讲",
+                  "play": 7321,
+                  "duration": "17:22",
+                  "author": "TXT记录库"
                 },
                 {
-                  "bvid": "BV151Na68Esz",
-                  "title": "Mrs. GREEN APPLE - Brand New/ベース/初心者/弾いてみた/かっこいい曲/tab譜/bass cover",
-                  "play": 166,
-                  "duration": "3:30",
-                  "author": "浅闭revo"
+                  "bvid": "BV1yN3b6QExC",
+                  "title": "【鼓谱】Brand New / Mrs.GREEN APPLE",
+                  "play": 395,
+                  "duration": "3:35",
+                  "author": "jinzotab"
                 },
                 {
-                  "bvid": "BV1Lt826vEoE",
-                  "title": "【中日双语】「Mrs. GREEN APPLE presents 『CEREMONY』DAY-1」 cut 20260611",
-                  "play": 1925,
-                  "duration": "26:18",
-                  "author": "Mrs小果农"
+                  "bvid": "BV18s8b6CECL",
+                  "title": "【TWS】260823 全场高清舞台+志薰日语演讲视频公开！Mrs. GREEN APPLE 『CEREMONY』2026",
+                  "play": 2801,
+                  "duration": "16:21",
+                  "author": "Nana_ichi"
                 }
               ],
-              "audio": "music/song_733-04 Brand New - Mrs. GREEN APPLE.mp3"
+              "audio": "music/song_733-03 Brand New - Mrs. GREEN APPLE.mp3"
             },
             {
-              "rank": 5,
-              "last_rank": 7,
-              "song_name": "好きすぎて滅！",
+              "rank": 4,
+              "last_rank": 10,
+              "song_name": "爆裂愛してる",
               "artist": "M!LK",
-              "album": "好きすぎて滅！",
-              "cover": "https://i.kfs.io/album/global/285875262,0v3/fit/500x500.jpg",
-              "release_date": 1761494400,
-              "song_url": "https://www.kkbox.com/jp/tc/song/KlRxzTWIBZNAB_lSqm",
+              "album": "爆裂愛してる",
+              "cover": "https://i.kfs.io/album/global/288842832,0v2/fit/500x500.jpg",
+              "release_date": 1770566400,
+              "song_url": "https://www.kkbox.com/jp/tc/song/TZedHQowH5GcMEgRUu",
               "artist_url": "https://www.kkbox.com/jp/tc/artist/HalbtV0Ll3jmo-J6HX",
-              "album_url": "https://www.kkbox.com/jp/tc/album/KmiskF96mUrTnGgv0B",
+              "album_url": "https://www.kkbox.com/jp/tc/album/KtCVpeQdUD8fXZLTSM",
               "genres": [
                 "偶像團體",
                 "日系流行"
@@ -1027,73 +983,73 @@
               "profile": "EBiDAN五人男團",
               "bili": [
                 {
-                  "bvid": "BV147886MEFV",
-                  "title": "[M！LK翻跳]北京jpop路演『好きすぎて滅+好きすぎて滅』二连 首跳？！",
-                  "play": 297,
-                  "duration": "7:18",
-                  "author": "AAA彪哥羊驼西蓝花饲养"
+                  "bvid": "BV1cShA6xEKQ",
+                  "title": "【限定发布】M!LK – 爆裂愛してる (from CDTVライブ！ライブ！)",
+                  "play": 396,
+                  "duration": "3:35",
+                  "author": "水里的鱼0925"
                 },
                 {
-                  "bvid": "BV1ULL86BEDf",
-                  "title": "CANACANA·钢琴 &amp; 李斯特-钟/M!LK - 好きすぎて滅！｜リスト × M!LK｜超絶技巧マッシュアップ｜Liszt｜Piano｜COVER",
-                  "play": 1166,
-                  "duration": "3:26",
-                  "author": "yancuannan"
+                  "bvid": "BV15q3d61EXM",
+                  "title": "実は僕たち下は中学生、上は30半ばです【M!LK - You!Joy!Parade! 】踊ってみた",
+                  "play": 117,
+                  "duration": "0:17",
+                  "author": "-耶守琅-"
                 },
                 {
-                  "bvid": "BV1yrs1zEEKn",
-                  "title": "20251027 【官方4K】【双语歌词】【要素过多！】M!LK - 「好きすぎて滅！」MV解禁！",
-                  "play": 103107,
-                  "duration": "3:30",
-                  "author": "乐二灰"
+                  "bvid": "BV1jkhK6oEdL",
+                  "title": "【限时公开】M!LK — 爆裂愛してる（出自CDTV Live! Live!）",
+                  "play": 265,
+                  "duration": "3:34",
+                  "author": "奶油椰子汁-"
                 }
               ],
-              "audio": "music/song_733-05 好きすぎて滅！ - M!LK.mp3"
+              "audio": "music/song_733-04 爆裂愛してる - M!LK.mp3"
+            },
+            {
+              "rank": 5,
+              "last_rank": 26,
+              "song_name": "Yes! 東京",
+              "artist": "EBiDAN (恵比寿学園男子部)",
+              "album": "Yes! 東京",
+              "cover": "https://i.kfs.io/album/global/294984379,0v2/fit/500x500.jpg",
+              "release_date": 1782921600,
+              "song_url": "https://www.kkbox.com/jp/tc/song/HYAZCdcIzKb7fMwCLl",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/HYfxSB2Ia-MNUQ_Y-y",
+              "album_url": "https://www.kkbox.com/jp/tc/album/9--k1blymwqbJVd9sB",
+              "genres": [
+                "偶像團體",
+                "日系流行"
+              ],
+              "profile": "星塵男子偶像企劃",
+              "bili": [
+                {
+                  "bvid": "BV1fbK16rEK3",
+                  "title": "Yes! 东京 - 编舞师版，已镜面，方便扒舞",
+                  "play": 7122,
+                  "duration": "0:46",
+                  "author": "半升圆"
+                },
+                {
+                  "bvid": "BV1kdTL6vEou",
+                  "title": "【中日双语】 EBiDAN（惠比寿学院男子部）全员曲《Yes!东京》 MV /是艾比蛋还是偶像梦幻祭我自有分辨",
+                  "play": 34621,
+                  "duration": "5:30",
+                  "author": "咸鱼婶晴"
+                },
+                {
+                  "bvid": "BV1H6uh6UETs",
+                  "title": "Yes!東京-Lienel ver.体驗入学版",
+                  "play": 1029,
+                  "duration": "1:27",
+                  "author": "Sakurai_Akiya"
+                }
+              ],
+              "audio": "music/song_733-05 Yes! 東京 - EBiDAN (恵比寿学園男子部).mp3"
             },
             {
               "rank": 6,
-              "last_rank": 2,
-              "song_name": "ライラック",
-              "artist": "Mrs. GREEN APPLE",
-              "album": "ライラック",
-              "cover": "https://i.kfs.io/album/global/268460495,0v1/fit/500x500.jpg",
-              "release_date": 1712851200,
-              "song_url": "https://www.kkbox.com/jp/tc/song/GlxyoUAZylVNGaitsZ",
-              "artist_url": "https://www.kkbox.com/jp/tc/artist/4naOIR-K2KLL59lD-Q",
-              "album_url": "https://www.kkbox.com/jp/tc/album/DZDF0ps_1aDjET16O9",
-              "genres": [
-                "日系搖滾",
-                "日系流行"
-              ],
-              "profile": "日本流行搖滾樂團",
-              "bili": [
-                {
-                  "bvid": "BV1JP25Y8EYH",
-                  "title": "ライラック (丁香)《失忆投捕》【Mrs. GREEN APPLE】动态鼓谱",
-                  "play": 3954,
-                  "duration": "4:49",
-                  "author": "看哦爱随风原创鼓谱"
-                },
-                {
-                  "bvid": "BV1P66RYiEHa",
-                  "title": "【ベースTAB】Mrs. GREEN APPLE - ライラック / 『忘却バッテリー』オープニング・テーマ",
-                  "play": 1311,
-                  "duration": "4:49",
-                  "author": "友人A知人B"
-                },
-                {
-                  "bvid": "BV1N78u6mEyV",
-                  "title": "【ニコカラ】ライラック - Mrs. GREEN APPLE （on vocal）",
-                  "play": 225,
-                  "duration": "5:4",
-                  "author": "白詰草"
-                }
-              ],
-              "audio": "music/song_733-06 ライラック - Mrs. GREEN APPLE.mp3"
-            },
-            {
-              "rank": 7,
-              "last_rank": 20,
+              "last_rank": 7,
               "song_name": "怪獣の花唄",
               "artist": "Vaundy",
               "album": "strobo",
@@ -1110,122 +1066,122 @@
               "profile": "創作型男歌手",
               "bili": [
                 {
-                  "bvid": "BV16p4y1o7ge",
-                  "title": "怪獣の花唄（怪兽之歌、如花散落）【Vaundy】动态鼓谱",
-                  "play": 19659,
-                  "duration": "3:48",
-                  "author": "看哦爱随风原创鼓谱"
-                },
-                {
                   "bvid": "BV1mEZwBcE9m",
                   "title": "【投屏自用/卡拉OK】怪獣の花唄 (怪兽的花之歌) - Vaundy 【カラオケ/on off vocal】",
-                  "play": 5809,
+                  "play": 5846,
                   "duration": "19:25",
                   "author": "我的云盘"
                 },
                 {
-                  "bvid": "BV1ez8r6QEHD",
-                  "title": "「怪獣の花唄」Vaundy Covered by Roselta",
-                  "play": 2,
-                  "duration": "0:27",
-                  "author": "星小沐VTuber"
-                }
-              ],
-              "audio": "music/song_733-07 怪獣の花唄 - Vaundy.mp3"
-            },
-            {
-              "rank": 8,
-              "last_rank": 12,
-              "song_name": "怪獣",
-              "artist": "サカナクション",
-              "album": "怪獣",
-              "cover": "https://i.kfs.io/album/global/278691562,0v2/fit/500x500.jpg",
-              "release_date": 1739980800,
-              "song_url": "https://www.kkbox.com/jp/tc/song/OmFXpsKtTsIBcUIFvT",
-              "artist_url": "https://www.kkbox.com/jp/tc/artist/DYlqvXLLTDw-DFLdQ9",
-              "album_url": "https://www.kkbox.com/jp/tc/album/DX408pIfYpMkj7djbN",
-              "genres": [
-                "日系搖滾",
-                "電子",
-                "日系流行"
-              ],
-              "profile": "電子搖滾樂團",
-              "bili": [
-                {
-                  "bvid": "BV1H2aZezEHE",
-                  "title": "日推歌单 |《怪獣の花唄》怪兽之歌|“流逝的日子还历历在目，想给你看的未来却不堪一击，给回忆中迟钝的你。”",
-                  "play": 25704,
-                  "duration": "3:45",
-                  "author": "铃音_Echo"
+                  "bvid": "BV16p4y1o7ge",
+                  "title": "怪獣の花唄（怪兽之歌、如花散落）【Vaundy】动态鼓谱",
+                  "play": 19677,
+                  "duration": "3:48",
+                  "author": "看哦爱随风原创鼓谱"
                 },
                 {
-                  "bvid": "BV1i6QbBuEkt",
-                  "title": "【ニコカラ】怪獣@サカナクション",
-                  "play": 1215,
-                  "duration": "4:13",
-                  "author": "驹鸟"
-                },
-                {
-                  "bvid": "BV1jR8K6REaK",
-                  "title": "怪獣 / サカナクション(Cover)",
-                  "play": 698,
-                  "duration": "0:56",
-                  "author": "久野くるみ"
+                  "bvid": "BV1c14y1s7ua",
+                  "title": "【4K·HDR·Hi-Res】怪獣の花唄（怪兽之歌） -  Vaundy",
+                  "play": 960339,
+                  "duration": "3:53",
+                  "author": "猫哥_CATBRO"
                 }
               ],
-              "audio": "music/song_733-08 怪獣 - サカナクション.mp3"
+              "audio": "music/song_733-06 怪獣の花唄 - Vaundy.mp3"
             },
             {
-              "rank": 9,
-              "last_rank": 10,
-              "song_name": "Blue Jeans",
-              "artist": "HANA",
-              "album": "Blue Jeans",
-              "cover": "https://i.kfs.io/album/global/282085596,2v1/fit/500x500.jpg",
-              "release_date": 1752422400,
-              "song_url": "https://www.kkbox.com/jp/tc/song/LZS10xBMMFHahtEI4J",
-              "artist_url": "https://www.kkbox.com/jp/tc/artist/T-UuE8sdqP_jK1GJeW",
-              "album_url": "https://www.kkbox.com/jp/tc/album/DZH3T5s_1aDjGnre2H",
+              "rank": 7,
+              "last_rank": 20,
+              "song_name": "Walking with you",
+              "artist": "Novelbright",
+              "album": "SKYWALK",
+              "cover": "https://i.kfs.io/album/global/43559251,0v2/fit/500x500.jpg",
+              "release_date": 1538496000,
+              "song_url": "https://www.kkbox.com/jp/tc/song/Wl6qn0_BHya3DWdXz6",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/KorgzD8xAz3An1oUKx",
+              "album_url": "https://www.kkbox.com/jp/tc/album/KsBLNfN-dkIB-uxIVM",
               "genres": [
                 "日系流行"
               ],
               "profile": "",
               "bili": [
                 {
-                  "bvid": "BV1WNtRz1E1g",
-                  "title": "HANA女团用英语宣传新曲『Blue Jeans』",
-                  "play": 464,
-                  "duration": "0:49",
-                  "author": "三品智美"
+                  "bvid": "BV13J411P7iF",
+                  "title": "Novelbright - Walking with you [Official Music Video]",
+                  "play": 25622,
+                  "duration": "7:55",
+                  "author": "精神安定剤"
                 },
                 {
-                  "bvid": "BV1Gp4y1e7rn",
-                  "title": "【日本三巡】少女时代 - Blue Jeans【1080P+】蓝光中字",
-                  "play": 77157,
-                  "duration": "3:30",
-                  "author": "永爱少时SONE"
+                  "bvid": "BV1DG7AzXEAc",
+                  "title": "【行尸走肉/手书】are you big ?",
+                  "play": 2156,
+                  "duration": "0:28",
+                  "author": "加满番茄肉酱披萨"
                 },
                 {
-                  "bvid": "BV1EGuqzGERN",
-                  "title": "【官方中字】青春电影质感，HANA 二单 Blue Jeans MV解禁",
-                  "play": 65839,
-                  "duration": "3:56",
-                  "author": "我正在看选秀节目"
+                  "bvid": "BV1dq9JYoEUz",
+                  "title": "日推歌单 |《Walking with you》 |“在不知不觉中找到了幸福的意义。”",
+                  "play": 9429,
+                  "duration": "3:44",
+                  "author": "铃音_Echo"
                 }
               ],
-              "audio": "music/song_733-09 Blue Jeans - HANA.mp3"
+              "audio": "music/song_733-07 Walking with you - Novelbright.mp3"
             },
             {
-              "rank": 10,
-              "last_rank": 1,
-              "song_name": "爆裂愛してる",
+              "rank": 8,
+              "last_rank": 11,
+              "song_name": "夜鷹 - Yodaka",
+              "artist": "米津玄師",
+              "album": "夜鷹 - Yodaka",
+              "cover": "https://i.kfs.io/album/global/295286782,0v3/fit/500x500.jpg",
+              "release_date": 1783872000,
+              "song_url": "https://www.kkbox.com/jp/tc/song/1YJ0RV_D0OlxrDP0Fw",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/8oRs6ttmEEYzg2nyTU",
+              "album_url": "https://www.kkbox.com/jp/tc/album/CoB2Xo-O1JHrw9HCW6",
+              "genres": [
+                "日系流行",
+                "日系搖滾",
+                "電子"
+              ],
+              "profile": "創作型音樂人",
+              "bili": [
+                {
+                  "bvid": "BV1VyGu67E8d",
+                  "title": "米津玄師「夜鷹」×『キングダム 魂の決戦』公開記念PV",
+                  "play": 2226,
+                  "duration": "2:48",
+                  "author": "单曲循环Loop1"
+                },
+                {
+                  "bvid": "BV1X9Ni66EUL",
+                  "title": "【中日字幕/官方MV】米津玄师「夜鷹（よだか）」【王者天下5：魂之决战 主题曲】",
+                  "play": 21982,
+                  "duration": "3:30",
+                  "author": "小千代字幕组"
+                },
+                {
+                  "bvid": "BV1kyKA6hERS",
+                  "title": "【ピアノ採譜】夜鷹 - 米津玄師 / キングダム 魂の決戦 主題",
+                  "play": 120,
+                  "duration": "3:27",
+                  "author": "Europmia"
+                }
+              ],
+              "audio": "music/song_733-08 夜鷹 - 米津玄師.mp3"
+            },
+            {
+              "rank": 9,
+              "last_rank": 5,
+              "song_name": "好きすぎて滅！",
               "artist": "M!LK",
-              "album": "爆裂愛してる",
-              "cover": "https://i.kfs.io/album/global/288842832,0v2/fit/500x500.jpg",
-              "release_date": 1770566400,
-              "song_url": "https://www.kkbox.com/jp/tc/song/TZedHQowH5GcMEgRUu",
+              "album": "好きすぎて滅！",
+              "cover": "https://i.kfs.io/album/global/285875262,0v3/fit/500x500.jpg",
+              "release_date": 1761494400,
+              "song_url": "https://www.kkbox.com/jp/tc/song/KlRxzTWIBZNAB_lSqm",
               "artist_url": "https://www.kkbox.com/jp/tc/artist/HalbtV0Ll3jmo-J6HX",
-              "album_url": "https://www.kkbox.com/jp/tc/album/KtCVpeQdUD8fXZLTSM",
+              "album_url": "https://www.kkbox.com/jp/tc/album/KmiskF96mUrTnGgv0B",
               "genres": [
                 "偶像團體",
                 "日系流行"
@@ -1233,28 +1189,68 @@
               "profile": "EBiDAN五人男團",
               "bili": [
                 {
-                  "bvid": "BV1edbC6REvp",
-                  "title": "【双语字幕】M！LK【爆裂愛してる】",
-                  "play": 139,
-                  "duration": "3:29",
-                  "author": "阿弥ly"
+                  "bvid": "BV15q3d61EXM",
+                  "title": "実は僕たち下は中学生、上は30半ばです【M!LK - You!Joy!Parade! 】踊ってみた",
+                  "play": 117,
+                  "duration": "0:17",
+                  "author": "-耶守琅-"
                 },
                 {
-                  "bvid": "BV1BgZ9BtE8T",
-                  "title": "20260218 【宇宙级爆裂】【4K中日歌词】M!LK - 「爆裂愛してる」(Official Music Video)",
-                  "play": 43225,
-                  "duration": "3:27",
-                  "author": "乐二灰"
+                  "bvid": "BV1ULL86BEDf",
+                  "title": "CANACANA·钢琴 &amp; 李斯特-钟/M!LK - 好きすぎて滅！｜リスト × M!LK｜超絶技巧マッシュアップ｜Liszt｜Piano｜COVER",
+                  "play": 1169,
+                  "duration": "3:26",
+                  "author": "yancuannan"
                 },
                 {
-                  "bvid": "BV1ieby6fETG",
-                  "title": "【M!LK｜4K】「好きすぎて滅！/爆裂愛してる」うたであえたら",
-                  "play": 2059,
-                  "duration": "3:53",
-                  "author": "你们五个请永远在一起"
+                  "bvid": "BV1S8QjBtELS",
+                  "title": "【太鼓達人虹色版】好きすぎて滅！【内录全良】",
+                  "play": 186,
+                  "duration": "2:21",
+                  "author": "零风花見"
                 }
               ],
-              "audio": "music/song_733-10 爆裂愛してる - M!LK.mp3"
+              "audio": "music/song_733-09 好きすぎて滅！ - M!LK.mp3"
+            },
+            {
+              "rank": 10,
+              "last_rank": 25,
+              "song_name": "モンストロ",
+              "artist": "Ado",
+              "album": "モンストロ",
+              "cover": "https://i.kfs.io/album/global/296637136,0v2/fit/500x500.jpg",
+              "release_date": 1786032000,
+              "song_url": "https://www.kkbox.com/jp/tc/song/H-1R9Rz6CJ6qwlsivq",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/8pAtcVODL2RadSu8CT",
+              "album_url": "https://www.kkbox.com/jp/tc/album/Kr9YLv20QPhDDGa3L-",
+              "genres": [
+                "日系流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1dsVozzEfe",
+                  "title": "【视觉系】モンストロ「KERBEROS」MV (中文字幕)",
+                  "play": 777,
+                  "duration": "3:54",
+                  "author": "V系bot编辑部"
+                },
+                {
+                  "bvid": "BV1Cg41137FD",
+                  "title": "ロングロングアゴー変奏曲　高橋早都子 (ミネストローネ)　ハーモニカ独奏",
+                  "play": 1317,
+                  "duration": "2:53",
+                  "author": "口琴汇"
+                },
+                {
+                  "bvid": "BV1mQ4y1P7V2",
+                  "title": "【オリジナルMV】邪魔 歌いました【Ado】",
+                  "play": 202040,
+                  "duration": "3:29",
+                  "author": "Shiannシアン"
+                }
+              ],
+              "audio": "music/song_733-10 モンストロ - Ado.mp3"
             }
           ]
         },
@@ -1281,31 +1277,71 @@
               "profile": "",
               "bili": [
                 {
+                  "bvid": "BV1p3Nv6nEKm",
+                  "title": "やグゔップツいァヺ",
+                  "play": 2001,
+                  "duration": "0:30",
+                  "author": "下饭剧鉴定师"
+                },
+                {
                   "bvid": "BV1GN3U6WE4s",
                   "title": "【スピッツ / Spitz】見知らぬ糸（電台試聽ver.）",
-                  "play": 8481,
+                  "play": 8542,
                   "duration": "4:1",
                   "author": "DanyLesinad"
                 },
                 {
-                  "bvid": "BV1V58P65EnM",
-                  "title": "【スピッツ / Spitz】見知らぬ糸 MV",
-                  "play": 983,
-                  "duration": "4:16",
-                  "author": "DanyLesinad"
-                },
-                {
-                  "bvid": "BV1Dw8z6uEYv",
-                  "title": "【中日双语】Spitz 《見知らぬ糸》（陌生的丝线）——《直到T恤干透》主题曲MV",
-                  "play": 1053,
-                  "duration": "4:17",
-                  "author": "AHPEventColle"
+                  "bvid": "BV13r8x6KEjy",
+                  "title": "スピッツ - 見知らぬ糸 MV 双语字幕",
+                  "play": 174,
+                  "duration": "4:8",
+                  "author": "神谷卡米亚"
                 }
               ],
               "audio": "music/newrelease_733-01 見知らぬ糸 - スピッツ.mp3"
             },
             {
               "rank": 2,
+              "last_rank": 3,
+              "song_name": "モンストロ",
+              "artist": "Ado",
+              "album": "モンストロ",
+              "cover": "https://i.kfs.io/album/global/296637136,0v2/fit/500x500.jpg",
+              "release_date": 1786032000,
+              "song_url": "https://www.kkbox.com/jp/tc/song/H-1R9Rz6CJ6qwlsivq",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/8pAtcVODL2RadSu8CT",
+              "album_url": "https://www.kkbox.com/jp/tc/album/Kr9YLv20QPhDDGa3L-",
+              "genres": [
+                "日系流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1dsVozzEfe",
+                  "title": "【视觉系】モンストロ「KERBEROS」MV (中文字幕)",
+                  "play": 777,
+                  "duration": "3:54",
+                  "author": "V系bot编辑部"
+                },
+                {
+                  "bvid": "BV1Cg41137FD",
+                  "title": "ロングロングアゴー変奏曲　高橋早都子 (ミネストローネ)　ハーモニカ独奏",
+                  "play": 1317,
+                  "duration": "2:53",
+                  "author": "口琴汇"
+                },
+                {
+                  "bvid": "BV1mQ4y1P7V2",
+                  "title": "【オリジナルMV】邪魔 歌いました【Ado】",
+                  "play": 202040,
+                  "duration": "3:29",
+                  "author": "Shiannシアン"
+                }
+              ],
+              "audio": "music/newrelease_733-02 モンストロ - Ado.mp3"
+            },
+            {
+              "rank": 3,
               "last_rank": 2,
               "song_name": "GO GHOST",
               "artist": "King Gnu",
@@ -1323,71 +1359,111 @@
               "profile": "東京混搭搖滾樂團",
               "bili": [
                 {
-                  "bvid": "BV1xH8n6CEao",
-                  "title": "【官方】King Gnu - 《GO GHOST》MV│TV动画『攻壳机动队THE GHOST IN THE SHELL』OP",
-                  "play": 46044,
-                  "duration": "2:51",
-                  "author": "KingGnu"
+                  "bvid": "BV1Er4y1S7GF",
+                  "title": "全网独家！【King gnu 逆梦 中日罗马音三字幕 咒术回战剧场版主题曲】",
+                  "play": 96714,
+                  "duration": "5:19",
+                  "author": "CY58不正经戏精字幕"
                 },
                 {
-                  "bvid": "BV1WF3s6zEnc",
-                  "title": "【纯k投屏|自用】「ニコカラ」「King Gnu」GO GHOST",
-                  "play": 992,
-                  "duration": "5:42",
-                  "author": "清春kiyoharu"
+                  "bvid": "BV1rVuz6uEm5",
+                  "title": "King Gnu - GO GHOST（音乐分析）| THE GHOST IN THE SHELL",
+                  "play": 230,
+                  "duration": "9:38",
+                  "author": "Thread丶"
                 },
                 {
-                  "bvid": "BV1J3uG6dEVS",
-                  "title": "【TAB/附谱】King Gnu / GO GHOST (Arrange ver)【ギターで弾いてみた】",
-                  "play": 866,
-                  "duration": "2:59",
-                  "author": "elmakaze"
+                  "bvid": "BV1ry316FE3a",
+                  "title": "[祝 攻殻機動隊リブート!!]Go Ghost _ 放課後AI女子高生バンドがKing Gnuをカバーしてみた",
+                  "play": 97,
+                  "duration": "3:25",
+                  "author": "HIMIGO_"
                 }
               ],
-              "audio": "music/newrelease_733-02 GO GHOST - King Gnu.mp3"
+              "audio": "music/newrelease_733-03 GO GHOST - King Gnu.mp3"
             },
             {
-              "rank": 3,
-              "last_rank": 3,
-              "song_name": "モンストロ",
-              "artist": "Ado",
-              "album": "モンストロ",
-              "cover": "https://i.kfs.io/album/global/296637136,0v2/fit/500x500.jpg",
-              "release_date": 1786032000,
-              "song_url": "https://www.kkbox.com/jp/tc/song/H-1R9Rz6CJ6qwlsivq",
-              "artist_url": "https://www.kkbox.com/jp/tc/artist/8pAtcVODL2RadSu8CT",
-              "album_url": "https://www.kkbox.com/jp/tc/album/Kr9YLv20QPhDDGa3L-",
+              "rank": 4,
+              "last_rank": 6,
+              "song_name": "I Got Your Back (Feat. JISOO, MOMOKA of HANA)",
+              "artist": "ILLIT",
+              "album": "I Got Your Back",
+              "cover": "https://i.kfs.io/album/global/296169316,0v2/fit/500x500.jpg",
+              "release_date": 1784995200,
+              "song_url": "https://www.kkbox.com/jp/tc/song/PZk9SQSlfVd6irfKh_",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/HZWeA00DUOvYRYZxYU",
+              "album_url": "https://www.kkbox.com/jp/tc/album/PXU2wvLHQ7mryi92nT",
               "genres": [
                 "日系流行"
               ],
               "profile": "",
               "bili": [
                 {
-                  "bvid": "BV1fs8t69EB9",
-                  "title": "Adoモンストロ学习中",
-                  "play": 301,
+                  "bvid": "BV1Jx3c6eEYo",
+                  "title": "【𝐇𝐢-𝐑𝐞𝐬无损音质】｜《I Got Your Back》-ILLIT,JISOO,MOMOKA-‘𝙈𝙑视听’",
+                  "play": 32614,
+                  "duration": "2:23",
+                  "author": "歌威贵_grey"
+                },
+                {
+                  "bvid": "BV1n9376JE6D",
+                  "title": "【中字4K】ILLIT 《I Got Your Back (Feat. JISOO, MOMOKA of HANA)》MV 精校中字 建议收藏 适合投屏",
+                  "play": 848,
+                  "duration": "3:15",
+                  "author": "Kpop心动预警-4K版"
+                },
+                {
+                  "bvid": "BV1V38w6BErd",
+                  "title": "【HANA成员Jisoo 4k直拍】 &#x27;I Got Your Back (Feat. JISOO, MOMOKA of HANA)&#x27;",
+                  "play": 6562,
                   "duration": "1:27",
-                  "author": "莫夏Mox"
-                },
-                {
-                  "bvid": "BV1dsVozzEfe",
-                  "title": "【视觉系】モンストロ「KERBEROS」MV (中文字幕)",
-                  "play": 777,
-                  "duration": "3:54",
-                  "author": "V系bot编辑部"
-                },
-                {
-                  "bvid": "BV1Cg41137FD",
-                  "title": "ロングロングアゴー変奏曲　高橋早都子 (ミネストローネ)　ハーモニカ独奏",
-                  "play": 1316,
-                  "duration": "2:53",
-                  "author": "口琴汇"
+                  "author": "我正在看选秀节目"
                 }
               ],
-              "audio": "music/newrelease_733-03 モンストロ - Ado.mp3"
+              "audio": "music/newrelease_733-04 I Got Your Back (Feat. JISOO, MOMOKA of HANA) - ILLIT.mp3"
             },
             {
-              "rank": 4,
+              "rank": 5,
+              "last_rank": 5,
+              "song_name": "消えない花火",
+              "artist": "timelesz",
+              "album": "消えない花火",
+              "cover": "https://i.kfs.io/album/global/296196493,0v3/fit/500x500.jpg",
+              "release_date": 1785254400,
+              "song_url": "https://www.kkbox.com/jp/tc/song/XYBP30XyJrx2HsciTb",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/8kVJJKS0C4BFXZRRjq",
+              "album_url": "https://www.kkbox.com/jp/tc/album/8rjpDKU7LZoqN_SR1d",
+              "genres": [
+                "日系流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1k9ge68Eou",
+                  "title": "【自存】timelesz消えない花火20260724",
+                  "play": 1987,
+                  "duration": "2:58",
+                  "author": "小嘬一口花绿青"
+                },
+                {
+                  "bvid": "BV1VgNm6zEym",
+                  "title": "消えない花火 - timelesz 【中字】",
+                  "play": 121,
+                  "duration": "3:38",
+                  "author": "一升橘子"
+                },
+                {
+                  "bvid": "BV1y1NG6ZEQV",
+                  "title": "【中日字幕/主题曲】你与烟花与约定 × timelesz「永不消散的烟花 / 消えない花火」",
+                  "play": 3240,
+                  "duration": "2:55",
+                  "author": "小千代字幕组"
+                }
+              ],
+              "audio": "music/newrelease_733-05 消えない花火 - timelesz.mp3"
+            },
+            {
+              "rank": 6,
               "last_rank": 4,
               "song_name": "好き",
               "artist": "星野源",
@@ -1405,112 +1481,32 @@
               "profile": "創作歌手兼演員",
               "bili": [
                 {
+                  "bvid": "BV1q2gW6sEH3",
+                  "title": "【双语官方MV】好き—星野源",
+                  "play": 706,
+                  "duration": "7:46",
+                  "author": "单推轻咖柠檬"
+                },
+                {
                   "bvid": "BV1Avbr6aEKb",
                   "title": "【官方MV】星野 源 - 好き（日剧《你的喜欢无与伦比》主题曲）",
-                  "play": 2556,
+                  "play": 2659,
                   "duration": "3:53",
                   "author": "JVC_Music"
                 },
                 {
-                  "bvid": "BV1UA8z6qEXM",
-                  "title": "【COVER】好き – 星野源｜君の好きは無敵 主題歌｜HINA_1080p",
-                  "play": 246,
-                  "duration": "4:0",
-                  "author": "小艾Littlemoxa"
-                },
-                {
-                  "bvid": "BV14wgp6iE9s",
-                  "title": "【搬运MV】星野源 - 好き",
-                  "play": 1863,
-                  "duration": "3:53",
-                  "author": "昏睡大鹅"
+                  "bvid": "BV15r3q6FEf1",
+                  "title": "星野源「好き」(日剧 你的喜欢无与伦比 主题曲)",
+                  "play": 3423,
+                  "duration": "3:51",
+                  "author": "ちとげちゃん一生推し"
                 }
               ],
-              "audio": "music/newrelease_733-04 好き - 星野源.mp3"
-            },
-            {
-              "rank": 5,
-              "last_rank": 6,
-              "song_name": "消えない花火",
-              "artist": "timelesz",
-              "album": "消えない花火",
-              "cover": "https://i.kfs.io/album/global/296196493,0v3/fit/500x500.jpg",
-              "release_date": 1785254400,
-              "song_url": "https://www.kkbox.com/jp/tc/song/XYBP30XyJrx2HsciTb",
-              "artist_url": "https://www.kkbox.com/jp/tc/artist/8kVJJKS0C4BFXZRRjq",
-              "album_url": "https://www.kkbox.com/jp/tc/album/8rjpDKU7LZoqN_SR1d",
-              "genres": [
-                "日系流行"
-              ],
-              "profile": "",
-              "bili": [
-                {
-                  "bvid": "BV1k9ge68Eou",
-                  "title": "【自存】timelesz消えない花火20260724",
-                  "play": 1978,
-                  "duration": "2:58",
-                  "author": "小嘬一口花绿青"
-                },
-                {
-                  "bvid": "BV1y1NG6ZEQV",
-                  "title": "【中日字幕/主题曲】你与烟花与约定 × timelesz「永不消散的烟花 / 消えない花火」",
-                  "play": 3210,
-                  "duration": "2:55",
-                  "author": "小千代字幕组"
-                },
-                {
-                  "bvid": "BV1zi7Y6BEdx",
-                  "title": "[4K] timelesz「消えない花火」（YouTube ver.）",
-                  "play": 1761,
-                  "duration": "3:38",
-                  "author": "Semi只有半个"
-                }
-              ],
-              "audio": "music/newrelease_733-05 消えない花火 - timelesz.mp3"
-            },
-            {
-              "rank": 6,
-              "last_rank": 5,
-              "song_name": "I Got Your Back (Feat. JISOO, MOMOKA of HANA)",
-              "artist": "ILLIT",
-              "album": "I Got Your Back",
-              "cover": "https://i.kfs.io/album/global/296169316,0v2/fit/500x500.jpg",
-              "release_date": 1784995200,
-              "song_url": "https://www.kkbox.com/jp/tc/song/PZk9SQSlfVd6irfKh_",
-              "artist_url": "https://www.kkbox.com/jp/tc/artist/HZWeA00DUOvYRYZxYU",
-              "album_url": "https://www.kkbox.com/jp/tc/album/PXU2wvLHQ7mryi92nT",
-              "genres": [
-                "日系流行"
-              ],
-              "profile": "",
-              "bili": [
-                {
-                  "bvid": "BV1Tt8B6eE4S",
-                  "title": "『4K镜面扒舞』ILLIT -“I Got Your Back (Feat. JISOO, MOMOKA of HANA)”镜面放大练习室 放大+加亮+音源替换",
-                  "play": 11847,
-                  "duration": "14:3",
-                  "author": "釜山辣椒很好吃"
-                },
-                {
-                  "bvid": "BV1Jx3c6eEYo",
-                  "title": "【𝐇𝐢-𝐑𝐞𝐬无损音质】｜《I Got Your Back》-ILLIT,JISOO,MOMOKA-‘𝙈𝙑视听’",
-                  "play": 32225,
-                  "duration": "2:23",
-                  "author": "歌威贵_grey"
-                },
-                {
-                  "bvid": "BV1R18C6xEsz",
-                  "title": "[横版直拍] HANA成员Jisoo 4K &#x27;I Got Your Back (Feat. JISOO, MOMOKA of HANA)&#x27; 韩语版",
-                  "play": 1479,
-                  "duration": "2:46",
-                  "author": "我正在看选秀节目"
-                }
-              ],
-              "audio": "music/newrelease_733-06 I Got Your Back (Feat. JISOO, MOMOKA of HANA) - ILLIT.mp3"
+              "audio": "music/newrelease_733-06 好き - 星野源.mp3"
             },
             {
               "rank": 7,
-              "last_rank": 8,
+              "last_rank": 7,
               "song_name": "罪と罰と雨とキス (佐野勇斗&吉田仁人)",
               "artist": "M!LK",
               "album": "罪と罰と雨とキス (佐野勇斗&吉田仁人)",
@@ -1528,21 +1524,21 @@
                 {
                   "bvid": "BV1rGM96VEkh",
                   "title": "【中日歌词】罪と罰と雨とキス (佐野勇斗＆吉田仁人) (Official Music Video)",
-                  "play": 10563,
+                  "play": 10782,
                   "duration": "3:48",
                   "author": "三日月ユーリ"
                 },
                 {
-                  "bvid": "BV1NKM967Ej2",
-                  "title": "M!LK - 罪と罰と雨とキス (佐野勇斗＆吉田仁人)",
-                  "play": 86,
-                  "duration": "3:48",
-                  "author": "Ray_hanami"
+                  "bvid": "BV11KM967E3h",
+                  "title": "【M!LK】sanojin双人曲『罪と罰と雨とキス』副歌舞蹈",
+                  "play": 1470,
+                  "duration": "0:31",
+                  "author": "Kusuri小薬"
                 },
                 {
                   "bvid": "BV14qbo6LEsq",
                   "title": "【和声分离】罪と罰と雨とキス",
-                  "play": 813,
+                  "play": 951,
                   "duration": "7:26",
                   "author": "のりもち"
                 }
@@ -1551,123 +1547,129 @@
             },
             {
               "rank": 8,
-              "last_rank": 10,
-              "song_name": "Truth in the dark",
-              "artist": "LANA",
-              "album": "Truth in the dark",
-              "cover": "https://i.kfs.io/album/global/296602876,0v2/fit/500x500.jpg",
-              "release_date": 1785859200,
-              "song_url": "https://www.kkbox.com/jp/tc/song/4lqrK6yq9Z5EaUxKmL",
-              "artist_url": "https://www.kkbox.com/jp/tc/artist/P-2zRpm_t87W2IuriO",
-              "album_url": "https://www.kkbox.com/jp/tc/album/-qoL4QrUB5ro8eS53l",
+              "last_rank": null,
+              "song_name": "ALL SUITE",
+              "artist": "Snow Man",
+              "album": "AMENITY",
+              "cover": "https://i.kfs.io/album/global/297569983,0v2/fit/500x500.jpg",
+              "release_date": 1787500800,
+              "song_url": "https://www.kkbox.com/jp/tc/song/TaSR-G7nNCtw-Z3N-O",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/KlS5HsYBd1n-CP_0WF",
+              "album_url": "https://www.kkbox.com/jp/tc/album/P-VWsChzmaj9pN217Z",
               "genres": [
-                "日系流行"
+                "偶像團體",
+                "日系流行",
+                "舞曲"
               ],
-              "profile": "",
+              "profile": "STARTO九人男團",
               "bili": [
                 {
-                  "bvid": "BV15C8u6ZEcQ",
-                  "title": "【LANA】Truth in the dark",
-                  "play": 70,
-                  "duration": "3:1",
-                  "author": "丁克Whovian"
+                  "bvid": "BV1zkrAB1EBo",
+                  "title": "【百合】又到了和对象一起跳Snowman的季节，那么你有女友了吗？",
+                  "play": 18577,
+                  "duration": "1:47",
+                  "author": "姬动不己"
                 },
                 {
-                  "bvid": "BV1beNoeyE4Q",
-                  "title": "【中字】Central Cee - TRUTH IN THE LIES (FEAT. LIL DURK)",
-                  "play": 59256,
-                  "duration": "2:36",
-                  "author": "DFella"
+                  "bvid": "BV1dv886REzj",
+                  "title": "自翻听个响的分色版all suite",
+                  "play": 1467,
+                  "duration": "6:26",
+                  "author": "banana喵喵"
                 },
                 {
-                  "bvid": "BV1G84y1c77r",
-                  "title": "杨宝贝事件真相 | The truth of the incident of YBB",
-                  "play": 9077,
-                  "duration": "41:55",
-                  "author": "LifeDeBaby"
+                  "bvid": "BV1Vw886EERs",
+                  "title": "[Snow Man] 以后你要叹气你就唱Snow Man的GO HARD",
+                  "play": 1074,
+                  "duration": "0:44",
+                  "author": "柘枝舞"
                 }
               ],
-              "audio": "music/newrelease_733-08 Truth in the dark - LANA.mp3"
+              "audio": "music/newrelease_733-08 ALL SUITE - Snow Man.mp3"
             },
             {
               "rank": 9,
-              "last_rank": 7,
-              "song_name": "大空港",
-              "artist": "離婚伝説",
-              "album": "大空港",
-              "cover": "https://i.kfs.io/album/global/295638277,0v3/fit/500x500.jpg",
-              "release_date": 1784822400,
-              "song_url": "https://www.kkbox.com/jp/tc/song/5_8-9atDMf04iJYeHK",
-              "artist_url": "https://www.kkbox.com/jp/tc/artist/-sxCHTk3lhBTxRObUp",
-              "album_url": "https://www.kkbox.com/jp/tc/album/OqzHGzbVHgkGi8-di0",
+              "last_rank": null,
+              "song_name": "奇跡",
+              "artist": "Snow Man",
+              "album": "AMENITY",
+              "cover": "https://i.kfs.io/album/global/297569983,0v2/fit/500x500.jpg",
+              "release_date": 1787500800,
+              "song_url": "https://www.kkbox.com/jp/tc/song/5-6z1xV-i4L5osXj9I",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/KlS5HsYBd1n-CP_0WF",
+              "album_url": "https://www.kkbox.com/jp/tc/album/P-VWsChzmaj9pN217Z",
               "genres": [
-                "日系流行"
+                "偶像團體",
+                "日系流行",
+                "舞曲"
               ],
-              "profile": "",
+              "profile": "STARTO九人男團",
               "bili": [
                 {
-                  "bvid": "BV1UCge6TE7E",
-                  "title": "【中日双字】離婚伝説 - 大空港(Official Music Video)",
-                  "play": 535,
-                  "duration": "4:59",
-                  "author": "yunormi"
+                  "bvid": "BV1zkrAB1EBo",
+                  "title": "【百合】又到了和对象一起跳Snowman的季节，那么你有女友了吗？",
+                  "play": 18577,
+                  "duration": "1:47",
+                  "author": "姬动不己"
                 },
                 {
-                  "bvid": "BV1aogx6xEop",
-                  "title": "離婚伝説「大空港」",
-                  "play": 285,
-                  "duration": "4:48",
-                  "author": "ちとげちゃん一生推し"
+                  "bvid": "BV15b8v6KExR",
+                  "title": "【中日双语】Snow Man–奇跡",
+                  "play": 616,
+                  "duration": "3:39",
+                  "author": "盒枫Box"
                 },
                 {
-                  "bvid": "BV11e3F6uERH",
-                  "title": "離婚伝説 - 大空港",
-                  "play": 25,
-                  "duration": "4:59",
-                  "author": "菊さん"
+                  "bvid": "BV1zRhN6fES5",
+                  "title": "9人でのSnow Manは「奇跡」",
+                  "play": 86,
+                  "duration": "2:3",
+                  "author": "可尔必思少冰"
                 }
               ],
-              "audio": "music/newrelease_733-09 大空港 - 離婚伝説.mp3"
+              "audio": "music/newrelease_733-09 奇跡 - Snow Man.mp3"
             },
             {
               "rank": 10,
-              "last_rank": 12,
-              "song_name": "邂逅",
-              "artist": "福山雅治",
-              "album": "邂逅",
-              "cover": "https://i.kfs.io/album/global/296773063,0v2/fit/500x500.jpg",
-              "release_date": 1786291200,
-              "song_url": "https://www.kkbox.com/jp/tc/song/-o7qCqgee7WVILqKcB",
-              "artist_url": "https://www.kkbox.com/jp/tc/artist/-k7RRLUKzxULJHVWZn",
-              "album_url": "https://www.kkbox.com/jp/tc/album/_XHs0WH24bYZtzXsqA",
+              "last_rank": null,
+              "song_name": "GO HARD",
+              "artist": "Snow Man",
+              "album": "AMENITY",
+              "cover": "https://i.kfs.io/album/global/297569983,0v2/fit/500x500.jpg",
+              "release_date": 1787500800,
+              "song_url": "https://www.kkbox.com/jp/tc/song/GkDgJZu-nSw3QVRyLa",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/KlS5HsYBd1n-CP_0WF",
+              "album_url": "https://www.kkbox.com/jp/tc/album/P-VWsChzmaj9pN217Z",
               "genres": [
-                "日系流行"
+                "偶像團體",
+                "日系流行",
+                "舞曲"
               ],
-              "profile": "",
+              "profile": "STARTO九人男團",
               "bili": [
                 {
-                  "bvid": "BV1oAuS6dEdD",
-                  "title": "福山雅治 - 邂逅",
-                  "play": 244,
-                  "duration": "4:38",
-                  "author": "Koala_Sakura"
+                  "bvid": "BV1zkrAB1EBo",
+                  "title": "【百合】又到了和对象一起跳Snowman的季节，那么你有女友了吗？",
+                  "play": 18577,
+                  "duration": "1:47",
+                  "author": "姬动不己"
                 },
                 {
-                  "bvid": "BV1p7KfzqERZ",
-                  "title": "【邂逅 全12集】福山雅治&amp;常盘贵子 豆瓣8.3 日版甜蜜蜜 1998年日剧",
-                  "play": 76179,
-                  "duration": "888:47",
-                  "author": "吃着火锅_唱着歌_"
+                  "bvid": "BV1Vw886EERs",
+                  "title": "[Snow Man] 以后你要叹气你就唱Snow Man的GO HARD",
+                  "play": 1074,
+                  "duration": "0:44",
+                  "author": "柘枝舞"
                 },
                 {
-                  "bvid": "BV1PdTQ6GE8e",
-                  "title": "20260704-邂逅-THE MUSIC DAY",
-                  "play": 1284,
-                  "duration": "2:59",
-                  "author": "福山雅治小甜心Club"
+                  "bvid": "BV1mG411k7ma",
+                  "title": "【JENNIE】【双语字幕】圣诞cover《snowman》金智妮",
+                  "play": 199933,
+                  "duration": "1:28",
+                  "author": "iyaaaan"
                 }
               ],
-              "audio": "music/newrelease_733-10 邂逅 - 福山雅治.mp3"
+              "audio": "music/newrelease_733-10 GO HARD - Snow Man.mp3"
             }
           ]
         }
@@ -1700,74 +1702,32 @@
               "profile": "马来西亚华语流行女歌手",
               "bili": [
                 {
+                  "bvid": "BV1ciTZ6JEc5",
+                  "title": "【𝐇𝐢-𝐑𝐞𝐬无损音质】｜《甲乙丙丁 (你我怎么两清)》- 李佳薇-‘若我落下泪滴 能否换来 一点同情’",
+                  "play": 1321198,
+                  "duration": "3:31",
+                  "author": "VV音乐局"
+                },
+                {
+                  "bvid": "BV1KiuH6hE7s",
+                  "title": "【金喵儿 甲乙丙丁】换了新键帽不说话 但碍不住嘴巴痒想练歌儿",
+                  "play": 1132,
+                  "duration": "3:18",
+                  "author": "小有名气的浪漫疯子"
+                },
+                {
                   "bvid": "BV1qb8z6DETq",
                   "title": "张碧晨&amp; 侯明昊 《甲乙丙丁》天赐·20260821",
-                  "play": 109619,
+                  "play": 154080,
                   "duration": "4:28",
                   "author": "羊的留声机"
-                },
-                {
-                  "bvid": "BV1xb8s6sEKm",
-                  "title": "李佳薇《甲乙丙丁》&amp;周深《怜悯》remix男女对唱重制版",
-                  "play": 1597,
-                  "duration": "4:13",
-                  "author": "白川Ay"
-                },
-                {
-                  "bvid": "BV1QL8m6aEeq",
-                  "title": "胡夏cover《甲乙丙丁》唱得好痛🥺",
-                  "play": 4260,
-                  "duration": "0:38",
-                  "author": "独家记忆黑咖啡"
                 }
               ],
               "audio": "music/song_297-01 甲乙丙丁Strangers - 李佳薇 (Jess Lee).mp3"
             },
             {
               "rank": 2,
-              "last_rank": 5,
-              "song_name": "Jumping Machine (跳楼机)",
-              "artist": "LBI利比",
-              "album": "Jumping Machine (跳楼机)",
-              "cover": "https://i.kfs.io/album/global/277994877,0v2/fit/500x500.jpg",
-              "release_date": 1737561600,
-              "song_url": "https://www.kkbox.com/sg/en/song/9YnRorQutUrZ3I2Jpm",
-              "artist_url": "https://www.kkbox.com/sg/en/artist/0ozm5tA6AZvsNywjDB",
-              "album_url": "https://www.kkbox.com/sg/en/album/8nSvm5bEHSCv12kazr",
-              "genres": [
-                "華語流行",
-                "嘻哈",
-                "節奏藍調"
-              ],
-              "profile": "中國創作男歌手",
-              "bili": [
-                {
-                  "bvid": "BV1XvoeYKErq",
-                  "title": "利比《跳楼机》(官方歌词MV)｜LIBI - Jumping Machine(Official Lyric Video)",
-                  "play": 3350,
-                  "duration": "3:22",
-                  "author": "TerryTan粤嚟粤好"
-                },
-                {
-                  "bvid": "BV1Ko96YvECw",
-                  "title": "跳楼机（简单版）【LBI利比】动态鼓谱",
-                  "play": 33597,
-                  "duration": "3:22",
-                  "author": "看哦爱随风原创鼓谱"
-                },
-                {
-                  "bvid": "BV1kzRnYuEnH",
-                  "title": "【吉他指弹】跳楼机（LBI利比）",
-                  "play": 15849,
-                  "duration": "3:16",
-                  "author": "吉他老杨"
-                }
-              ],
-              "audio": "music/song_297-02 Jumping Machine (跳楼机) - LBI利比.mp3"
-            },
-            {
-              "rank": 3,
-              "last_rank": 6,
+              "last_rank": 3,
               "song_name": "海嶼你",
               "artist": "马也Crabbit, Cole先生",
               "album": "海嶼你",
@@ -1783,72 +1743,32 @@
               "profile": "中國流行歌手",
               "bili": [
                 {
-                  "bvid": "BV1UW8s6ZELf",
-                  "title": "海屿你(马也_Crabbit&amp;Cole先生)-简化版-动态鼓谱",
-                  "play": 207,
-                  "duration": "4:53",
-                  "author": "汉堡粑比"
+                  "bvid": "BV1xEoUB9Eoi",
+                  "title": "《海屿你》 高潮剪辑",
+                  "play": 1334,
+                  "duration": "1:17",
+                  "author": "457210"
                 },
                 {
                   "bvid": "BV18iDvBVEs6",
                   "title": "尤克里里单音指弹练习曲&lt;海屿你&gt;马也_Crabbit  gorilla歌芮拉尤克里里",
-                  "play": 1564,
+                  "play": 1573,
                   "duration": "3:13",
                   "author": "Gorilla歌芮拉音乐"
                 },
                 {
-                  "bvid": "BV1xEoUB9Eoi",
-                  "title": "《海屿你》 高潮剪辑",
-                  "play": 1324,
-                  "duration": "1:17",
-                  "author": "457210"
+                  "bvid": "BV1UW8s6ZELf",
+                  "title": "海屿你(马也_Crabbit&amp;Cole先生)-简化版-动态鼓谱",
+                  "play": 256,
+                  "duration": "4:53",
+                  "author": "汉堡粑比"
                 }
               ],
-              "audio": "music/song_297-03 海嶼你 - 马也Crabbit, Cole先生.mp3"
+              "audio": "music/song_297-02 海嶼你 - 马也Crabbit, Cole先生.mp3"
             },
             {
-              "rank": 4,
-              "last_rank": 8,
-              "song_name": "善后",
-              "artist": "马师傅",
-              "album": "善后",
-              "cover": "https://i.kfs.io/album/global/284035014,0v1/fit/500x500.jpg",
-              "release_date": 1754928000,
-              "song_url": "https://www.kkbox.com/sg/en/song/0sYOYxYiDz1b-Mwlpo",
-              "artist_url": "https://www.kkbox.com/sg/en/artist/5Z9ONVdq-SScdnbciQ",
-              "album_url": "https://www.kkbox.com/sg/en/album/4pj52gr83PHEZLZFXN",
-              "genres": [
-                "華語流行"
-              ],
-              "profile": "",
-              "bili": [
-                {
-                  "bvid": "BV1NLeVzJEGo",
-                  "title": "【𝐇𝐢-𝐑𝐞𝐬·无损】马师傅《善后》歌词纯享版 - “凭什么你回头  我就要在身后  需要你的时候你都不在我左右”",
-                  "play": 201011,
-                  "duration": "4:15",
-                  "author": "听清工作室"
-                },
-                {
-                  "bvid": "BV1wktEzyEgN",
-                  "title": "【歌曲推荐】善后-马师傅“凭什么你回头 我就要在身后~”",
-                  "play": 75593,
-                  "duration": "4:15",
-                  "author": "遥远与晴music"
-                },
-                {
-                  "bvid": "BV1frhYzHEtA",
-                  "title": "在百万录音棚听 马师傅《善后》【不珍惜的人 幸福得好轻松 反而是揣着真诚的人在心痛】",
-                  "play": 19325,
-                  "duration": "4:14",
-                  "author": "Rhea_music"
-                }
-              ],
-              "audio": "music/song_297-04 善后 - 马师傅.mp3"
-            },
-            {
-              "rank": 5,
-              "last_rank": 3,
+              "rank": 3,
+              "last_rank": 5,
               "song_name": "看著我的眼睛說",
               "artist": "张远",
               "album": "看著我的眼睛說",
@@ -1866,30 +1786,30 @@
                 {
                   "bvid": "BV1JqLozEE9o",
                   "title": "張遠 - 看著我的眼睛說『來 你看著我的眼睛說 你從沒愛過我，再看著我的眼睛說 你一點都不難過。』【高音質|動態歌詞】♫",
-                  "play": 5020,
+                  "play": 5025,
                   "duration": "4:21",
                   "author": "4KMusicMake"
                 },
                 {
-                  "bvid": "BV1YQ816FEAT",
-                  "title": "【专场】张远 | 点击即看被闪帝硬控的一晚，元宝姐姐我承认你们很萌很善良很可爱......",
-                  "play": 1563,
-                  "duration": "252:58",
-                  "author": "小慕No1"
-                },
-                {
                   "bvid": "BV1vx3kzRE4y",
                   "title": "张远《看着我的眼睛说》歌曲教学|“看着我的眼睛说 你从没爱过我~”",
-                  "play": 4121,
+                  "play": 4124,
                   "duration": "1:9",
                   "author": "阿兰教唱歌"
+                },
+                {
+                  "bvid": "BV1cDamziEVd",
+                  "title": "张远 - 看着我的眼睛说 简谱 动态谱",
+                  "play": 4907,
+                  "duration": "1:43",
+                  "author": "魂8淡"
                 }
               ],
-              "audio": "music/song_297-05 看著我的眼睛說 - 张远.mp3"
+              "audio": "music/song_297-03 看著我的眼睛說 - 张远.mp3"
             },
             {
-              "rank": 6,
-              "last_rank": 4,
+              "rank": 4,
+              "last_rank": 6,
               "song_name": "我不该动情",
               "artist": "RG-老帅",
               "album": "我不该动情",
@@ -1905,40 +1825,81 @@
               "profile": "中國說唱歌手",
               "bili": [
                 {
-                  "bvid": "BV14wMg6cEKt",
-                  "title": "第256首 | 老板 - 我不该动情 简谱",
-                  "play": 1092,
-                  "duration": "1:53",
-                  "author": "魂8淡"
+                  "bvid": "BV1nq8w6DEPU",
+                  "title": "我不该动情",
+                  "play": 23,
+                  "duration": "3:24",
+                  "author": "阿诺德丹恩"
                 },
                 {
                   "bvid": "BV1h2uC6AEKf",
                   "title": "我退了，从此不再打扰你",
-                  "play": 997,
+                  "play": 1001,
                   "duration": "1:8",
                   "author": "娜美琴琴子"
                 },
                 {
-                  "bvid": "BV1nq8w6DEPU",
-                  "title": "我不该动情",
-                  "play": 22,
-                  "duration": "3:24",
-                  "author": "阿诺德丹恩"
+                  "bvid": "BV1tM4m127Lo",
+                  "title": "《不该动情》",
+                  "play": 153,
+                  "duration": "0:21",
+                  "author": "霜李维斯"
                 }
               ],
-              "audio": "music/song_297-06 我不该动情 - RG.mp3"
+              "audio": "music/song_297-04 我不该动情 - RG.mp3"
             },
             {
-              "rank": 7,
+              "rank": 5,
+              "last_rank": 17,
+              "song_name": "她已不再是那个女孩",
+              "artist": "DIOR 大穎",
+              "album": "她已不再是那个女孩",
+              "cover": "https://i.kfs.io/album/global/295143886,0v1/fit/500x500.jpg",
+              "release_date": 1782662400,
+              "song_url": "https://www.kkbox.com/sg/en/song/HYT2GXcIzKb7fW3pXU",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/LZxL8UVlw4lbg85FrC",
+              "album_url": "https://www.kkbox.com/sg/en/album/Wn5b1IHnUikGgXErr5",
+              "genres": [
+                "華語流行",
+                "抒情"
+              ],
+              "profile": "馬來西亞創作女歌手",
+              "bili": [
+                {
+                  "bvid": "BV1gsTr6XEDt",
+                  "title": "DIOR大颖 - 她已不再是那个女孩 - (荒唐random MV)",
+                  "play": 1159,
+                  "duration": "4:55",
+                  "author": "驰放音乐分享"
+                },
+                {
+                  "bvid": "BV1SGg96FEe7",
+                  "title": "[自制KTV] DIOR大颖 - 她已不再是那个女孩",
+                  "play": 138,
+                  "duration": "9:50",
+                  "author": "魚蛋小將"
+                },
+                {
+                  "bvid": "BV1wcML6TEUG",
+                  "title": "DIOR大穎 - 她已不再是那個女孩 - (荒唐random MV)",
+                  "play": 99,
+                  "duration": "4:55",
+                  "author": "魔方大厦Pro"
+                }
+              ],
+              "audio": "music/song_297-05 她已不再是那个女孩 - DIOR 大穎.mp3"
+            },
+            {
+              "rank": 6,
               "last_rank": 24,
-              "song_name": "可以不是你",
+              "song_name": "嘉賓",
               "artist": "张远",
-              "album": "可以不是你",
-              "cover": "https://i.kfs.io/album/global/270633561,0v1/fit/500x500.jpg",
-              "release_date": 1716739200,
-              "song_url": "https://www.kkbox.com/sg/en/song/WrM26mgHHVANJVO-HO",
+              "album": "嘉賓",
+              "cover": "https://i.kfs.io/album/global/273872500,0v1/fit/500x500.jpg",
+              "release_date": 1603641600,
+              "song_url": "https://www.kkbox.com/sg/en/song/0oJguUXXhv4OTIL7y3",
               "artist_url": "https://www.kkbox.com/sg/en/artist/WrzBKxdmI7VXetTMJ5",
-              "album_url": "https://www.kkbox.com/sg/en/album/8nbq4JbEHSCv0SOprw",
+              "album_url": "https://www.kkbox.com/sg/en/album/4ljm2jVx6lesdXnzPi",
               "genres": [
                 "華語流行",
                 "抒情"
@@ -1946,160 +1907,155 @@
               "profile": "中國男歌手",
               "bili": [
                 {
-                  "bvid": "BV1pjUUYTExv",
-                  "title": "张远《可以不是你》百万豪装录音棚大声听【Hi-res】",
-                  "play": 769389,
-                  "duration": "4:57",
-                  "author": "JLRS-LeoFM"
+                  "bvid": "BV1eA4m1L79U",
+                  "title": "嘉宾【张远】动态鼓谱",
+                  "play": 11588,
+                  "duration": "5:35",
+                  "author": "看哦爱随风原创鼓谱"
                 },
                 {
-                  "bvid": "BV1K9pEzzEEU",
-                  "title": "张远、陈冰 - 可以不是你（2024天赐的声音第五季 第8期）",
-                  "play": 104282,
-                  "duration": "4:48",
-                  "author": "忘小猪8"
+                  "bvid": "BV1XaWnzsEmi",
+                  "title": "张远-嘉宾（伴奏）",
+                  "play": 15722,
+                  "duration": "5:32",
+                  "author": "伴奏丫头"
                 },
                 {
-                  "bvid": "BV1qC4y127gW",
-                  "title": "戴羽彤 - 可以不是你『后来他让我明白 原来我也值得被珍惜，那最后的人真的可以不是你。  』【动态歌词MV】",
-                  "play": 50857,
-                  "duration": "3:37",
-                  "author": "EHPMusic音乐频道"
+                  "bvid": "BV1Vc411o7eq",
+                  "title": "张远-嘉宾-双语版",
+                  "play": 333,
+                  "duration": "5:35",
+                  "author": "雾里看花飞雨吹"
                 }
               ],
-              "audio": "music/song_297-07 可以不是你 - 张远.mp3"
+              "audio": "music/song_297-06 嘉賓 - 张远.mp3"
             },
             {
-              "rank": 8,
-              "last_rank": 2,
-              "song_name": "像晴天像雨天（電視劇《難哄》心動曲）",
+              "rank": 7,
+              "last_rank": 18,
+              "song_name": "一念 (影视剧《逐玉》插曲)",
               "artist": "Various Artists",
-              "album": "電視劇《難哄》影視原聲帶·只喜歡你Love Moments",
-              "cover": "https://i.kfs.io/album/sg/278729944,0v1/fit/500x500.jpg",
-              "release_date": 1739808000,
-              "song_url": "https://www.kkbox.com/sg/en/song/PaUfrPlKWKr81BoLp7",
+              "album": "《逐玉》 影视原声带",
+              "cover": "https://i.kfs.io/album/global/291911581,0v6/fit/500x500.jpg",
+              "release_date": 1774886400,
+              "song_url": "https://www.kkbox.com/sg/en/song/L-O8JdvRXlYLsYtdL8",
               "artist_url": "#",
-              "album_url": "https://www.kkbox.com/sg/en/album/GmQkKOLkte5pAC95oL",
+              "album_url": "https://www.kkbox.com/sg/en/album/Cmio1b8GAc3pxn3hen",
               "genres": [
                 "合輯"
               ],
               "profile": "群星合輯",
               "bili": [
                 {
-                  "bvid": "BV1XXPHeDEHr",
-                  "title": "【歌曲推荐】雨爱-en“窗外的天气 就像是你多变的表情~”",
-                  "play": 127657,
-                  "duration": "3:44",
-                  "author": "遥远与晴music"
+                  "bvid": "BV1abwjzsEhQ",
+                  "title": "《逐玉》影视剧插曲《一念》张紫宁/李鑫一合唱谱（完整版后台私信）",
+                  "play": 1552,
+                  "duration": "1:3",
+                  "author": "网络纯情奈白"
                 },
                 {
-                  "bvid": "BV1jz9gYvE1D",
-                  "title": "《難哄》回憶曲 | Crispy脆樂團〈雨滴中有你〉听雨落窗格 你心绪如何 优柔还是静好",
-                  "play": 2051,
-                  "duration": "4:1",
-                  "author": "小草绿了"
+                  "bvid": "BV1Q34y167FA",
+                  "title": "Kitchen Music—— Various Artists     游戏《我是面包》我原声带",
+                  "play": 5075,
+                  "duration": "3:21",
+                  "author": "破站幕后老二"
                 },
                 {
-                  "bvid": "BV1p64y1U7a8",
-                  "title": "【高音质纯享版】下雨了是我在想你丨无杂音听歌收藏向",
-                  "play": 169909,
-                  "duration": "3:52",
-                  "author": "青柳水影"
+                  "bvid": "BV1gE411i7BK",
+                  "title": "经典DJ舞曲 冰河时代Various Artists 好听到爆",
+                  "play": 37672,
+                  "duration": "3:32",
+                  "author": "小龙女音乐"
                 }
               ],
-              "audio": "music/song_297-08 像晴天像雨天（電視劇《難哄》心動曲） - Various Artists.mp3"
+              "audio": "music/song_297-07 一念 (影视剧《逐玉》插曲) - Various Artists.mp3"
+            },
+            {
+              "rank": 8,
+              "last_rank": 2,
+              "song_name": "Jumping Machine (跳楼机)",
+              "artist": "LBI利比",
+              "album": "Jumping Machine (跳楼机)",
+              "cover": "https://i.kfs.io/album/global/277994877,0v2/fit/500x500.jpg",
+              "release_date": 1737561600,
+              "song_url": "https://www.kkbox.com/sg/en/song/9YnRorQutUrZ3I2Jpm",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/0ozm5tA6AZvsNywjDB",
+              "album_url": "https://www.kkbox.com/sg/en/album/8nSvm5bEHSCv12kazr",
+              "genres": [
+                "華語流行",
+                "嘻哈",
+                "節奏藍調"
+              ],
+              "profile": "中國創作男歌手",
+              "bili": [
+                {
+                  "bvid": "BV1h2gS6nELV",
+                  "title": "跳楼机",
+                  "play": 200,
+                  "duration": "0:33",
+                  "author": "KAMII卡米"
+                },
+                {
+                  "bvid": "BV1XvoeYKErq",
+                  "title": "利比《跳楼机》(官方歌词MV)｜LIBI - Jumping Machine(Official Lyric Video)",
+                  "play": 3352,
+                  "duration": "3:22",
+                  "author": "TerryTan粤嚟粤好"
+                },
+                {
+                  "bvid": "BV1kzRnYuEnH",
+                  "title": "【吉他指弹】跳楼机（LBI利比）",
+                  "play": 15852,
+                  "duration": "3:16",
+                  "author": "吉他老杨"
+                }
+              ],
+              "audio": "music/song_297-08 Jumping Machine (跳楼机) - LBI利比.mp3"
             },
             {
               "rank": 9,
-              "last_rank": 14,
-              "song_name": "离开我的依赖",
-              "artist": "en王翊恩",
-              "album": "离开我的依赖",
-              "cover": "https://i.kfs.io/album/global/283534025,0v1/fit/500x500.jpg",
-              "release_date": 1754064000,
-              "song_url": "https://www.kkbox.com/sg/en/song/CrhGqAExa7_3PVGhQ0",
-              "artist_url": "https://www.kkbox.com/sg/en/artist/4suobCdbYqFkBbckAc",
-              "album_url": "https://www.kkbox.com/sg/en/album/4qvWAOz1wYJTQ4hmPJ",
+              "last_rank": 47,
+              "song_name": "人的这一生",
+              "artist": "DIOR 大穎",
+              "album": "人的这一生",
+              "cover": "https://i.kfs.io/album/global/289616377,0v3/fit/500x500.jpg",
+              "release_date": 1771516800,
+              "song_url": "https://www.kkbox.com/sg/en/song/4rK6yMqQSSJLryVTmJ",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/LZxL8UVlw4lbg85FrC",
+              "album_url": "https://www.kkbox.com/sg/en/album/WswJTLeTjmG2C57LXY",
               "genres": [
-                "華語流行"
+                "華語流行",
+                "抒情"
               ],
-              "profile": "",
+              "profile": "馬來西亞創作女歌手",
               "bili": [
                 {
-                  "bvid": "BV1KQ4RznEBH",
-                  "title": "【𝐇𝐢-𝐑𝐞𝐬·无损】en (王翊恩)《离开我的依赖》歌词纯享版 - “我越来越爱  爱不爱  都成为我们的负担  我想要痛快的离开我的依赖”",
-                  "play": 49166,
-                  "duration": "3:0",
-                  "author": "听清工作室"
+                  "bvid": "BV1XjfGBKEhU",
+                  "title": "【4K】DIOR大颖 - 人的这一生 - (Official MV) 电影《老婆，我爱你！》插曲",
+                  "play": 3933,
+                  "duration": "4:46",
+                  "author": "驰放音乐分享"
                 },
                 {
-                  "bvid": "BV1RZFCzaEp3",
-                  "title": "这版《离开我的依赖》太虐了，男声深情翻唱",
-                  "play": 6159,
-                  "duration": "1:33",
-                  "author": "思绪夜_Fortune"
+                  "bvid": "BV1gsTr6XEDt",
+                  "title": "DIOR大颖 - 她已不再是那个女孩 - (荒唐random MV)",
+                  "play": 1159,
+                  "duration": "4:55",
+                  "author": "驰放音乐分享"
                 },
                 {
-                  "bvid": "BV1iRUDBtELP",
-                  "title": "离开我的依赖燃脂暴汗跟练版",
-                  "play": 431,
-                  "duration": "3:52",
-                  "author": "一枚小酒儿"
+                  "bvid": "BV1xZZFBdEkd",
+                  "title": "DIOR大穎 - 人的這一生[電影《老婆，我愛你！》插曲] (GaneBor製作) KTV",
+                  "play": 233,
+                  "duration": "9:32",
+                  "author": "叱咤903"
                 }
               ],
-              "audio": "music/song_297-09 离开我的依赖 - en王翊恩.mp3"
+              "audio": "music/song_297-09 人的这一生 - DIOR 大穎.mp3"
             },
             {
               "rank": 10,
-              "last_rank": 11,
-              "song_name": "我對緣分小心翼翼 (劇集《逐玉》主題曲)",
-              "artist": "林俊杰 (JJ Lin)",
-              "album": "我對緣分小心翼翼 (劇集《逐玉》主題曲)",
-              "cover": "https://i.kfs.io/album/global/290280666,0v1/fit/500x500.jpg",
-              "release_date": 1772121600,
-              "song_url": "https://www.kkbox.com/sg/en/song/DazF_RNpK9m6GJ8HGJ",
-              "artist_url": "https://www.kkbox.com/sg/en/artist/5YzuiRMRDF8kpOhd6t",
-              "album_url": "https://www.kkbox.com/sg/en/album/Kr_4QM20QPhDCC9wyU",
-              "genres": [
-                "華語流行"
-              ],
-              "profile": "",
-              "bili": [
-                {
-                  "bvid": "BV17TX8ByEM3",
-                  "title": "林俊杰《我对缘分小心翼翼》百万豪装录音棚大声听",
-                  "play": 491387,
-                  "duration": "4:38",
-                  "author": "JLRS-LeoFM"
-                },
-                {
-                  "bvid": "BV1LmA2zmE99",
-                  "title": "【8K120FPS修复】林俊杰《我对缘分小心翼翼》MV-《逐玉》影视剧主题曲",
-                  "play": 466860,
-                  "duration": "4:33",
-                  "author": "林俊杰音乐星球"
-                },
-                {
-                  "bvid": "BV1HGA1zXEzj",
-                  "title": "在百万录音棚听 林俊杰✖️方文山新歌《我对缘分小心翼翼》",
-                  "play": 368053,
-                  "duration": "4:36",
-                  "author": "Rhea_music"
-                }
-              ],
-              "audio": "music/song_297-10 我對緣分小心翼翼 (劇集《逐玉》主題曲) - 林俊杰 (JJ Lin).mp3"
-            }
-          ]
-        },
-        {
-          "key": "newrelease_297",
-          "type": "newrelease",
-          "title": "新歌榜·Mandarin",
-          "category": "Mandarin",
-          "songs": [
-            {
-              "rank": 1,
-              "last_rank": 2,
+              "last_rank": 21,
               "song_name": "你我他",
               "artist": "en王翊恩",
               "album": "你我他",
@@ -2114,32 +2070,120 @@
               "profile": "",
               "bili": [
                 {
-                  "bvid": "BV1U1u86xEtq",
-                  "title": "en（王翊恩） - 你我他『还没开始就结束了 只剩我自顾自拉扯』（动态歌词/Lyrics Video/Hi-Res无损音质）",
-                  "play": 458,
-                  "duration": "3:57",
-                  "author": "COYMusicChannel"
-                },
-                {
                   "bvid": "BV1fz3X61ED3",
                   "title": "【1080P】en王翊恩《你我他》官方MV",
-                  "play": 3928,
+                  "play": 4019,
                   "duration": "3:54",
                   "author": "华语新歌MV"
                 },
                 {
-                  "bvid": "BV1e2Mr6hEoV",
-                  "title": "【无损音质】en王翊恩《你我他》丨「她笑着对我说爱他，像傻瓜，眼睛离不开他，好尴尬，我像笑话，藏在身后的花，把它丢了吧，没有人希望它出现啊」",
-                  "play": 765,
+                  "bvid": "BV1HbSUBaE7k",
+                  "title": "“人和人的沟通，有时候没有用”#en #音乐分享#en想自由 #王翊恩",
+                  "play": 411,
+                  "duration": "1:12",
+                  "author": "了W8z"
+                },
+                {
+                  "bvid": "BV1U1u86xEtq",
+                  "title": "en（王翊恩） - 你我他『还没开始就结束了 只剩我自顾自拉扯』（动态歌词/Lyrics Video/Hi-Res无损音质）",
+                  "play": 536,
                   "duration": "3:57",
-                  "author": "鹤归朽鹭zmph"
+                  "author": "COYMusicChannel"
+                }
+              ],
+              "audio": "music/song_297-10 你我他 - en王翊恩.mp3"
+            }
+          ]
+        },
+        {
+          "key": "newrelease_297",
+          "type": "newrelease",
+          "title": "新歌榜·Mandarin",
+          "category": "Mandarin",
+          "songs": [
+            {
+              "rank": 1,
+              "last_rank": 1,
+              "song_name": "你我他",
+              "artist": "en王翊恩",
+              "album": "你我他",
+              "cover": "https://i.kfs.io/album/global/296449851,0v3/fit/500x500.jpg",
+              "release_date": 1785772800,
+              "song_url": "https://www.kkbox.com/sg/en/song/9akzl-Hd1jmuKYz03K",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/4suobCdbYqFkBbckAc",
+              "album_url": "https://www.kkbox.com/sg/en/album/Cnmj9VVF4d6Z1hzgxN",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1fz3X61ED3",
+                  "title": "【1080P】en王翊恩《你我他》官方MV",
+                  "play": 4019,
+                  "duration": "3:54",
+                  "author": "华语新歌MV"
+                },
+                {
+                  "bvid": "BV1HbSUBaE7k",
+                  "title": "“人和人的沟通，有时候没有用”#en #音乐分享#en想自由 #王翊恩",
+                  "play": 411,
+                  "duration": "1:12",
+                  "author": "了W8z"
+                },
+                {
+                  "bvid": "BV1U1u86xEtq",
+                  "title": "en（王翊恩） - 你我他『还没开始就结束了 只剩我自顾自拉扯』（动态歌词/Lyrics Video/Hi-Res无损音质）",
+                  "play": 536,
+                  "duration": "3:57",
+                  "author": "COYMusicChannel"
                 }
               ],
               "audio": "music/newrelease_297-01 你我他 - en王翊恩.mp3"
             },
             {
               "rank": 2,
-              "last_rank": 6,
+              "last_rank": 3,
+              "song_name": "打不通的電話",
+              "artist": "Sean Ko",
+              "album": "打不通的電話",
+              "cover": "https://i.kfs.io/album/sg/297186397,0v1/fit/500x500.jpg",
+              "release_date": 1786982400,
+              "song_url": "https://www.kkbox.com/sg/en/song/5Z8PdFOxsZjztUdXwN",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/KowAMs8BAz3AnK-HxX",
+              "album_url": "https://www.kkbox.com/sg/en/album/CkF5FphjW4Ta34rDnK",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV15r6WYeEWa",
+                  "title": "【中文】现在拨打的电话10-12",
+                  "play": 5716,
+                  "duration": "3:0",
+                  "author": "嘻嘻的独佳记忆"
+                },
+                {
+                  "bvid": "BV1Bj411y7Sy",
+                  "title": "oppo手机这是bug吗？报警电话都打不通",
+                  "play": 2729,
+                  "duration": "1:49",
+                  "author": "爱谁谁反不是我"
+                },
+                {
+                  "bvid": "BV1q8h36gEds",
+                  "title": "若是打不通，就去掉区号打。他们是工作日上班时间才接听电话。",
+                  "play": 9,
+                  "duration": "0:12",
+                  "author": "我们总是心太软"
+                }
+              ],
+              "audio": "music/newrelease_297-02 打不通的電話 - Sean Ko.mp3"
+            },
+            {
+              "rank": 3,
+              "last_rank": 2,
               "song_name": "舍不得又没资格 (男女合唱版)",
               "artist": "RG-老帅",
               "album": "舍不得又没资格 (男女合唱版)",
@@ -2155,71 +2199,271 @@
               "profile": "中國說唱歌手",
               "bili": [
                 {
-                  "bvid": "BV1hWmJBsEMW",
-                  "title": "音乐推荐——《爱不得舍不得》 |   我们的关系，进一步没资格，毕竟深爱过，退一步却又舍不得。",
-                  "play": 4373,
-                  "duration": "4:0",
-                  "author": "竹竹竹128"
+                  "bvid": "BV1p4411x7J4",
+                  "title": "【十一君啊】史上最稀有的RG！电镀海涅命运高达",
+                  "play": 106565,
+                  "duration": "8:0",
+                  "author": "muffin丨"
                 },
                 {
-                  "bvid": "BV1Kh4y1p7xC",
-                  "title": "【分享歌单】《其实你也没多不舍》对不起的事都做了 对不起的话也没必要讲了",
-                  "play": 6264,
-                  "duration": "3:39",
-                  "author": "小忧音乐铺_Music"
+                  "bvid": "BV1LAhK6WERk",
+                  "title": "HN海牛险些终结比赛？RG放大争霸竟被无名小厂抢占先机，高度内卷几乎不给友商活路！",
+                  "play": 1747,
+                  "duration": "3:44",
+                  "author": "小柒爸的模玩日常"
                 },
                 {
-                  "bvid": "BV1kgK86zEey",
-                  "title": "今日推荐《舍不得又没资格》",
-                  "play": 5959,
-                  "duration": "3:41",
-                  "author": "真妮玛--带劲"
+                  "bvid": "BV1UC8q6YE92",
+                  "title": "筑匠白色RG海牛高达联邦的白色恶魔回归",
+                  "play": 13386,
+                  "duration": "3:42",
+                  "author": "老何撸模型"
                 }
               ],
-              "audio": "music/newrelease_297-02 舍不得又没资格 (男女合唱版) - RG.mp3"
+              "audio": "music/newrelease_297-03 舍不得又没资格 (男女合唱版) - RG.mp3"
             },
             {
-              "rank": 3,
-              "last_rank": 1,
-              "song_name": "打不通的電話",
-              "artist": "Sean Ko",
-              "album": "打不通的電話",
-              "cover": "https://i.kfs.io/album/sg/297186397,0v1/fit/500x500.jpg",
-              "release_date": 1786982400,
-              "song_url": "https://www.kkbox.com/sg/en/song/5Z8PdFOxsZjztUdXwN",
-              "artist_url": "https://www.kkbox.com/sg/en/artist/KowAMs8BAz3AnK-HxX",
-              "album_url": "https://www.kkbox.com/sg/en/album/CkF5FphjW4Ta34rDnK",
+              "rank": 4,
+              "last_rank": 8,
+              "song_name": "平行宇宙",
+              "artist": "陈零九 (Nine Chen)",
+              "album": "平行宇宙",
+              "cover": "https://i.kfs.io/album/global/297291105,0v1/fit/500x500.jpg",
+              "release_date": 1787241600,
+              "song_url": "https://www.kkbox.com/sg/en/song/Cmyo_HgVtBWGodz3Nd",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/5Z7MEWda-SScenmtSO",
+              "album_url": "https://www.kkbox.com/sg/en/album/HaNA-Guf_dvJItnJzx",
               "genres": [
                 "華語流行"
               ],
               "profile": "",
               "bili": [
                 {
-                  "bvid": "BV16Ru26sEJd",
-                  "title": "永远打不通的电话……",
-                  "play": 315,
-                  "duration": "2:32",
-                  "author": "青縊"
+                  "bvid": "BV1vVWLeXECv",
+                  "title": "陈零九 Nine Chen - 你是我这辈子最想爱的呀",
+                  "play": 1120,
+                  "duration": "0:42",
+                  "author": "陈零九-NineChen"
                 },
                 {
-                  "bvid": "BV1Jaui68EhL",
-                  "title": "民警教你3秒识别诈骗电话！接到陌生电话先不要吭声 停3秒，对方不说话就挂断再回拨，如果打不通就是诈骗电话！",
-                  "play": 9310,
-                  "duration": "0:19",
-                  "author": "今视频长天新闻"
+                  "bvid": "BV1f68i61EjE",
+                  "title": "【4K】陈零九《平行宇宙》官方MV",
+                  "play": 91,
+                  "duration": "3:33",
+                  "author": "华语新歌MV"
                 },
                 {
-                  "bvid": "BV16M411t7XU",
-                  "title": "韩国品竹电话，打不通",
-                  "play": 441102,
-                  "duration": "0:26",
-                  "author": "小脚闯天下"
+                  "bvid": "BV1F94y1q7X5",
+                  "title": "陳零九 Nine Chen with Edan 呂爵安【我們都是別人口中的壞人 Others Said】MV",
+                  "play": 2152,
+                  "duration": "6:7",
+                  "author": "璇宸nacy"
                 }
               ],
-              "audio": "music/newrelease_297-03 打不通的電話 - Sean Ko.mp3"
+              "audio": "music/newrelease_297-04 平行宇宙 - 陈零九 (Nine Chen).mp3"
             },
             {
-              "rank": 4,
+              "rank": 5,
+              "last_rank": 9,
+              "song_name": "收场 (Ending)",
+              "artist": "罗志祥 (Show Lo)",
+              "album": "收场 (Ending)",
+              "cover": "https://i.kfs.io/album/global/296318058,0v1/fit/500x500.jpg",
+              "release_date": 1785254400,
+              "song_url": "https://www.kkbox.com/sg/en/song/DXEITgJSg_DL-TlNWW",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/4tvrYujJ8jt7Fpy1oq",
+              "album_url": "https://www.kkbox.com/sg/en/album/Sr4nQU2gz6vWlpTcAl",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1dW3B68EVb",
+                  "title": "【罗志祥】新歌《收场》",
+                  "play": 4395,
+                  "duration": "3:35",
+                  "author": "ShowGen-Z丨羅志祥"
+                },
+                {
+                  "bvid": "BV1P7uF6PEUv",
+                  "title": "[5.1声道] 收场 - 罗志祥 | DTS/Dolby Atmos杜比环绕全景声试音音频可视化",
+                  "play": 97,
+                  "duration": "3:35",
+                  "author": "dts51_com"
+                },
+                {
+                  "bvid": "BV1v14y1u73A",
+                  "title": "罗志祥《从爱发落》2014粉丝同乐会 娱乐百分百",
+                  "play": 1311,
+                  "duration": "2:57",
+                  "author": "SFC-一只猪"
+                }
+              ],
+              "audio": "music/newrelease_297-05 收场 (Ending) - 罗志祥 (Show Lo).mp3"
+            },
+            {
+              "rank": 6,
+              "last_rank": 11,
+              "song_name": "别恋 (Move On)",
+              "artist": "派伟俊 (Patrick Brasca)",
+              "album": "BAD IDEA",
+              "cover": "https://i.kfs.io/album/global/296288352,0v1/fit/500x500.jpg",
+              "release_date": 1785427200,
+              "song_url": "https://www.kkbox.com/sg/en/song/8l4SA9lnvIvommXXi2",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/8tdWqMpHItW_hZrG3I",
+              "album_url": "https://www.kkbox.com/sg/en/album/5a3Bpx0IczZYQRGEDc",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1Dq3M6uEuq",
+                  "title": "Dominic Fike｜Babydoll · I can’t move on, babydoll",
+                  "play": 520,
+                  "duration": "1:38",
+                  "author": "下雨_不_打伞"
+                },
+                {
+                  "bvid": "BV1J1gN6VEWd",
+                  "title": "[自制KTV] 派伟俊 - 别恋",
+                  "play": 194,
+                  "duration": "6:40",
+                  "author": "魚蛋小將"
+                },
+                {
+                  "bvid": "BV1hWbR6jEZ3",
+                  "title": "move on! - pnkdrco",
+                  "play": 12,
+                  "duration": "2:12",
+                  "author": "衰乐之都"
+                }
+              ],
+              "audio": "music/newrelease_297-06 别恋 (Move On) - 派伟俊 (Patrick Brasca).mp3"
+            },
+            {
+              "rank": 7,
+              "last_rank": 5,
+              "song_name": "一諾（《花開錦繡》電視劇主題曲/片尾曲）",
+              "artist": "刘宇宁",
+              "album": "一諾（《花開錦繡》電視劇主題曲/片尾曲）",
+              "cover": "https://i.kfs.io/album/sg/296817132,0v1/fit/500x500.jpg",
+              "release_date": 1785859200,
+              "song_url": "https://www.kkbox.com/sg/en/song/CkVWA66qnNz6-E913g",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/Oodnhq87hVggedPRco",
+              "album_url": "https://www.kkbox.com/sg/en/album/CrxvBo7JyWtogCyuKG",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1zpMy6yEnJ",
+                  "title": "电视剧《花开锦绣》主题曲／片尾曲《一诺》MV，刘宇宁倾情献唱",
+                  "play": 430,
+                  "duration": "3:36",
+                  "author": "冰天雪地happy"
+                },
+                {
+                  "bvid": "BV14AMy6tEf8",
+                  "title": "刘宇宁献唱《花开锦绣》主题曲（一诺）诉说男女主双向奔赴的宿命羁绊",
+                  "play": 1966,
+                  "duration": "3:38",
+                  "author": "兔小贝预告片"
+                },
+                {
+                  "bvid": "BV1fDuy6JEEY",
+                  "title": "刘宇宁演唱电视剧《花开锦绣》主题曲/片尾曲《一诺》MV",
+                  "play": 2446,
+                  "duration": "3:41",
+                  "author": "音悦小屋"
+                }
+              ],
+              "audio": "music/newrelease_297-07 一諾（《花開錦繡》電視劇主題曲片尾曲） - 刘宇宁.mp3"
+            },
+            {
+              "rank": 8,
+              "last_rank": 7,
+              "song_name": "底牌是愛",
+              "artist": "黃浩雯",
+              "album": "底牌是愛",
+              "cover": "https://i.kfs.io/album/sg/297140214,0v1/fit/500x500.jpg",
+              "release_date": 1786291200,
+              "song_url": "https://www.kkbox.com/sg/en/song/GkO5Bou-nSw3Rr-W_f",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/8rCtTrswsPZqrelujy",
+              "album_url": "https://www.kkbox.com/sg/en/album/CsCXC3yP0h_RmX8Xxx",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1cK8h6vEja",
+                  "title": "底牌是爱 - 黄浩雯 260822 专属约会 - 广州场",
+                  "play": 55,
+                  "duration": "4:55",
+                  "author": "_ChiYin"
+                },
+                {
+                  "bvid": "BV1yUQCBFEUc",
+                  "title": "【只喜欢黄浩雯的欣欣】最新视频已上线，快来围观！",
+                  "play": 37,
+                  "duration": "1:23",
+                  "author": "Cheese_foam小团子"
+                },
+                {
+                  "bvid": "BV1uyJE69EMC",
+                  "title": "黄浩雯的《对你说》",
+                  "play": 370,
+                  "duration": "3:51",
+                  "author": "曦宸柒"
+                }
+              ],
+              "audio": "music/newrelease_297-08 底牌是愛 - 黃浩雯.mp3"
+            },
+            {
+              "rank": 9,
+              "last_rank": 14,
+              "song_name": "給我一個理由忘記 - Live",
+              "artist": "天賜的聲音",
+              "album": "天賜的聲音第七季 第10期",
+              "cover": "https://i.kfs.io/album/sg/297473274,0v1/fit/500x500.jpg",
+              "release_date": 1786636800,
+              "song_url": "https://www.kkbox.com/sg/en/song/OmfXo6L9TsIBfAfb31",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/8tOmmdp3ItW_jYVQsd",
+              "album_url": "https://www.kkbox.com/sg/en/album/Kq72Eg3aOnJP602i2B",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1wrba6iEyV",
+                  "title": "【黄霄雲】清唱给我一个理由忘记",
+                  "play": 5249,
+                  "duration": "0:37",
+                  "author": "可盐可甜的面包"
+                },
+                {
+                  "bvid": "BV1bP411B7WT",
+                  "title": "在百万豪装录音棚大声听 A-Lin《给我一个理由忘记》【Hi-res】",
+                  "play": 2803882,
+                  "duration": "4:44",
+                  "author": "JLRS-LeoFM"
+                },
+                {
+                  "bvid": "BV1b3gK6xEE4",
+                  "title": "【4K/Hires】侯明昊x丁当《给我一个理由忘记》 天赐的声音7",
+                  "play": 10055,
+                  "duration": "4:33",
+                  "author": "抱抱面包芝士"
+                }
+              ],
+              "audio": "music/newrelease_297-09 給我一個理由忘記 - 天賜的聲音.mp3"
+            },
+            {
+              "rank": 10,
               "last_rank": 4,
               "song_name": "最完美的存在",
               "artist": "劉芯妤",
@@ -2237,266 +2481,26 @@
                 {
                   "bvid": "BV1XEu96wEJp",
                   "title": "【𝐇𝐢-𝐑𝐞𝐬·无损】刘芯妤Roselyn《最完美的存在》歌词纯享版 - “我就是最完美的存在  布满荆棘的玫瑰盛开”",
-                  "play": 5554,
+                  "play": 5902,
                   "duration": "3:44",
                   "author": "听清工作室"
                 },
                 {
                   "bvid": "BV1ae8A6rE5q",
                   "title": "刘芯妤Roselyn - 最完美的存在 「清晨微凉的风 唤醒久违的梦」【動態歌詞/Lyrics Video】 #刘芯妤Roselyn #最完美的存在 #動態歌詞",
-                  "play": 211,
+                  "play": 228,
                   "duration": "3:45",
                   "author": "WCYMusicStudio"
                 },
                 {
                   "bvid": "BV1jANm65Eo3",
                   "title": "超清官摄 | 小玫瑰首唱新歌《最完美的存在》",
-                  "play": 1922,
+                  "play": 1926,
                   "duration": "1:4",
                   "author": "北投cxh"
                 }
               ],
-              "audio": "music/newrelease_297-04 最完美的存在 - 劉芯妤.mp3"
-            },
-            {
-              "rank": 5,
-              "last_rank": 13,
-              "song_name": "一諾（《花開錦繡》電視劇主題曲/片尾曲）",
-              "artist": "刘宇宁",
-              "album": "一諾（《花開錦繡》電視劇主題曲/片尾曲）",
-              "cover": "https://i.kfs.io/album/sg/296817132,0v1/fit/500x500.jpg",
-              "release_date": 1785859200,
-              "song_url": "https://www.kkbox.com/sg/en/song/CkVWA66qnNz6-E913g",
-              "artist_url": "https://www.kkbox.com/sg/en/artist/Oodnhq87hVggedPRco",
-              "album_url": "https://www.kkbox.com/sg/en/album/CrxvBo7JyWtogCyuKG",
-              "genres": [
-                "華語流行"
-              ],
-              "profile": "",
-              "bili": [
-                {
-                  "bvid": "BV1zpMy6yEnJ",
-                  "title": "电视剧《花开锦绣》主题曲／片尾曲《一诺》MV，刘宇宁倾情献唱",
-                  "play": 390,
-                  "duration": "3:36",
-                  "author": "冰天雪地happy"
-                },
-                {
-                  "bvid": "BV1fDuy6JEEY",
-                  "title": "刘宇宁演唱电视剧《花开锦绣》主题曲/片尾曲《一诺》MV",
-                  "play": 2289,
-                  "duration": "3:41",
-                  "author": "音悦小屋"
-                },
-                {
-                  "bvid": "BV14AMy6tEf8",
-                  "title": "刘宇宁献唱《花开锦绣》主题曲（一诺）诉说男女主双向奔赴的宿命羁绊",
-                  "play": 1914,
-                  "duration": "3:38",
-                  "author": "兔小贝预告片"
-                }
-              ],
-              "audio": "music/newrelease_297-05 一諾（《花開錦繡》電視劇主題曲片尾曲） - 刘宇宁.mp3"
-            },
-            {
-              "rank": 6,
-              "last_rank": 3,
-              "song_name": "野心家 - Live",
-              "artist": "天賜的聲音",
-              "album": "天賜的聲音第七季 第7期",
-              "cover": "https://i.kfs.io/album/sg/296952137,0v1/fit/500x500.jpg",
-              "release_date": 1784822400,
-              "song_url": "https://www.kkbox.com/sg/en/song/SkAz8QfGFd6eCDwS8Z",
-              "artist_url": "https://www.kkbox.com/sg/en/artist/8tOmmdp3ItW_jYVQsd",
-              "album_url": "https://www.kkbox.com/sg/en/album/TXCON454Otk9239ZcL",
-              "genres": [
-                "華語流行"
-              ],
-              "profile": "",
-              "bili": [
-                {
-                  "bvid": "BV1rRge6fEGf",
-                  "title": "黄霄雲×杨丞琳｜《野心家》天赐S07E07",
-                  "play": 100811,
-                  "duration": "4:46",
-                  "author": "黄霄雲的魔星梦幻岛"
-                },
-                {
-                  "bvid": "BV12y3K6dEWp",
-                  "title": "【杨丞琳·黄霄雲】《野心家》（Live）全曲音高测量",
-                  "play": 12504,
-                  "duration": "4:41",
-                  "author": "白洛燊"
-                },
-                {
-                  "bvid": "BV1Kv4y1A7Ta",
-                  "title": "【天赐的声音】胡彦斌 朱星杰 谢可寅《Life》",
-                  "play": 108242,
-                  "duration": "4:11",
-                  "author": "浙江卫视"
-                }
-              ],
-              "audio": "music/newrelease_297-06 野心家 - 天賜的聲音.mp3"
-            },
-            {
-              "rank": 7,
-              "last_rank": 5,
-              "song_name": "底牌是愛",
-              "artist": "黃浩雯",
-              "album": "底牌是愛",
-              "cover": "https://i.kfs.io/album/sg/297140214,0v1/fit/500x500.jpg",
-              "release_date": 1786291200,
-              "song_url": "https://www.kkbox.com/sg/en/song/GkO5Bou-nSw3Rr-W_f",
-              "artist_url": "https://www.kkbox.com/sg/en/artist/8rCtTrswsPZqrelujy",
-              "album_url": "https://www.kkbox.com/sg/en/album/CsCXC3yP0h_RmX8Xxx",
-              "genres": [
-                "華語流行"
-              ],
-              "profile": "",
-              "bili": [
-                {
-                  "bvid": "BV1cK8h6vEja",
-                  "title": "底牌是爱 - 黄浩雯 260822 专属约会 - 广州场",
-                  "play": 18,
-                  "duration": "4:55",
-                  "author": "_ChiYin"
-                },
-                {
-                  "bvid": "BV1yUQCBFEUc",
-                  "title": "【只喜欢黄浩雯的欣欣】最新视频已上线，快来围观！",
-                  "play": 37,
-                  "duration": "1:23",
-                  "author": "Cheese_foam小团子"
-                },
-                {
-                  "bvid": "BV1PKNc6dETr",
-                  "title": "我爱一切有你的-黄浩雯",
-                  "play": 121,
-                  "duration": "3:31",
-                  "author": "莓萌子"
-                }
-              ],
-              "audio": "music/newrelease_297-07 底牌是愛 - 黃浩雯.mp3"
-            },
-            {
-              "rank": 8,
-              "last_rank": 16,
-              "song_name": "平行宇宙",
-              "artist": "陈零九 (Nine Chen)",
-              "album": "平行宇宙",
-              "cover": "https://i.kfs.io/album/global/297291105,0v1/fit/500x500.jpg",
-              "release_date": 1787241600,
-              "song_url": "https://www.kkbox.com/sg/en/song/Cmyo_HgVtBWGodz3Nd",
-              "artist_url": "https://www.kkbox.com/sg/en/artist/5Z7MEWda-SScenmtSO",
-              "album_url": "https://www.kkbox.com/sg/en/album/HaNA-Guf_dvJItnJzx",
-              "genres": [
-                "華語流行"
-              ],
-              "profile": "",
-              "bili": [
-                {
-                  "bvid": "BV1f68i61EjE",
-                  "title": "【4K】陈零九《平行宇宙》官方MV",
-                  "play": 87,
-                  "duration": "3:33",
-                  "author": "华语新歌MV"
-                },
-                {
-                  "bvid": "BV1F68i62ERd",
-                  "title": "【4K】陈零九《平行宇宙》Official MV",
-                  "play": 121,
-                  "duration": "3:33",
-                  "author": "驰放音乐分享"
-                },
-                {
-                  "bvid": "BV1RQ4y1N7db",
-                  "title": "【陈零九】很抱歉游戏结束了！我要带8号",
-                  "play": 8138,
-                  "duration": "0:31",
-                  "author": "今天喝珍奶了吗"
-                }
-              ],
-              "audio": "music/newrelease_297-08 平行宇宙 - 陈零九 (Nine Chen).mp3"
-            },
-            {
-              "rank": 9,
-              "last_rank": 12,
-              "song_name": "收场 (Ending)",
-              "artist": "罗志祥 (Show Lo)",
-              "album": "收场 (Ending)",
-              "cover": "https://i.kfs.io/album/global/296318058,0v1/fit/500x500.jpg",
-              "release_date": 1785254400,
-              "song_url": "https://www.kkbox.com/sg/en/song/DXEITgJSg_DL-TlNWW",
-              "artist_url": "https://www.kkbox.com/sg/en/artist/4tvrYujJ8jt7Fpy1oq",
-              "album_url": "https://www.kkbox.com/sg/en/album/Sr4nQU2gz6vWlpTcAl",
-              "genres": [
-                "華語流行"
-              ],
-              "profile": "",
-              "bili": [
-                {
-                  "bvid": "BV1ZT8S61E9H",
-                  "title": "260822罗志祥澳门·《收场》首唱",
-                  "play": 297,
-                  "duration": "1:54",
-                  "author": "YESFC_羅志祥"
-                },
-                {
-                  "bvid": "BV1v14y1u73A",
-                  "title": "罗志祥《从爱发落》2014粉丝同乐会 娱乐百分百",
-                  "play": 1309,
-                  "duration": "2:57",
-                  "author": "SFC-一只猪"
-                },
-                {
-                  "bvid": "BV1dW3B68EVb",
-                  "title": "【罗志祥】新歌《收场》",
-                  "play": 4340,
-                  "duration": "3:35",
-                  "author": "ShowGen-Z丨羅志祥"
-                }
-              ],
-              "audio": "music/newrelease_297-09 收场 (Ending) - 罗志祥 (Show Lo).mp3"
-            },
-            {
-              "rank": 10,
-              "last_rank": 30,
-              "song_name": "三秒一生 (3 secs life) - 国语版",
-              "artist": "陈慧琳 (Kelly Chen)",
-              "album": "三秒一生 (3 secs life)",
-              "cover": "https://i.kfs.io/album/global/296288351,0v1/fit/500x500.jpg",
-              "release_date": 1785427200,
-              "song_url": "https://www.kkbox.com/sg/en/song/L-d_AWuhXlYLvRwedC",
-              "artist_url": "https://www.kkbox.com/sg/en/artist/5aa37hCxN9BcJCVNrl",
-              "album_url": "https://www.kkbox.com/sg/en/album/5XzmK8-RTkffLy_t4I",
-              "genres": [
-                "華語流行"
-              ],
-              "profile": "",
-              "bili": [
-                {
-                  "bvid": "BV1F13168E6Y",
-                  "title": "陈慧琳新单《三秒一生（粤语版）》MV",
-                  "play": 1271,
-                  "duration": "4:0",
-                  "author": "环球音乐中国"
-                },
-                {
-                  "bvid": "BV1rLgs6vEhn",
-                  "title": "陳慧琳 Kelly Chen《三秒一生》3 secs life - MV幕後製作花絮",
-                  "play": 143,
-                  "duration": "3:16",
-                  "author": "好腰好腎好難忍"
-                },
-                {
-                  "bvid": "BV1qwGV6aEUS",
-                  "title": "陳慧琳 Kelly Chen《三秒一生》3 secs life (粵)",
-                  "play": 65,
-                  "duration": "4:0",
-                  "author": "嘉賀"
-                }
-              ],
-              "audio": "music/newrelease_297-10 三秒一生 (3 secs life) - 陈慧琳 (Kelly Chen).mp3"
+              "audio": "music/newrelease_297-10 最完美的存在 - 劉芯妤.mp3"
             }
           ]
         }
@@ -2513,7 +2517,7 @@
           "songs": [
             {
               "rank": 1,
-              "last_rank": 2,
+              "last_rank": 1,
               "song_name": "別戀",
               "artist": "派偉俊 (Patrick Brasca)",
               "album": "BAD IDEA",
@@ -2531,21 +2535,21 @@
                 {
                   "bvid": "BV1SYuZ6MEVJ",
                   "title": "【4K】派伟俊《别恋》官方MV",
-                  "play": 4078,
+                  "play": 4212,
                   "duration": "3:20",
                   "author": "华语新歌MV"
                 },
                 {
-                  "bvid": "BV1bi421C7RW",
-                  "title": "《横滨别恋》-李蕙敏-1995年-专辑:《横滨别恋》【无损】",
-                  "play": 11901,
-                  "duration": "5:10",
-                  "author": "静享粤乐"
+                  "bvid": "BV1W3826jESj",
+                  "title": "派伟俊-别恋 伴奏（降2调版）",
+                  "play": 19,
+                  "duration": "3:20",
+                  "author": "阿杰不是龟龟"
                 },
                 {
                   "bvid": "BV1J1gN6VEWd",
                   "title": "[自制KTV] 派伟俊 - 别恋",
-                  "play": 185,
+                  "play": 194,
                   "duration": "6:40",
                   "author": "魚蛋小將"
                 }
@@ -2554,7 +2558,7 @@
             },
             {
               "rank": 2,
-              "last_rank": 1,
+              "last_rank": 2,
               "song_name": "Romantoxic",
               "artist": "張與辰 (Vic Teo)",
               "album": "Romantoxic",
@@ -2569,25 +2573,25 @@
               "profile": "",
               "bili": [
                 {
-                  "bvid": "BV1LGba6xEme",
-                  "title": "精华入行40年纪念骚邀张与辰合作 陈松伶赞合拍",
-                  "play": 24,
-                  "duration": "3:53",
-                  "author": "安杰拉艾美"
-                },
-                {
-                  "bvid": "BV1Rj3w6bE5h",
-                  "title": "张与辰 - Romantoxic Official Music Video",
-                  "play": 592,
-                  "duration": "3:46",
+                  "bvid": "BV1yRKp6xEFo",
+                  "title": "张与辰 - 迷恋有害 Official Music Video",
+                  "play": 865,
+                  "duration": "3:45",
                   "author": "港乐新歌"
                 },
                 {
-                  "bvid": "BV1BE411M7BM",
-                  "title": "明星特别计划•全能音乐人张与辰带你轻松阅读",
-                  "play": 151,
-                  "duration": "3:10",
-                  "author": "铛铛时尚娱乐"
+                  "bvid": "BV1KwPretE2q",
+                  "title": "【通勤听什么】张与辰/张祖诚 《乞丐》（2007）",
+                  "play": 1050,
+                  "duration": "4:13",
+                  "author": "答合计能当选大队委"
+                },
+                {
+                  "bvid": "BV1WsgM6sEQJ",
+                  "title": "张与辰 - 迷恋有害_劲歌推介",
+                  "play": 28,
+                  "duration": "3:19",
+                  "author": "TS_TV"
                 }
               ],
               "audio": "music/newrelease_297-02 Romantoxic - 張與辰 (Vic Teo).mp3"
@@ -2611,30 +2615,70 @@
                 {
                   "bvid": "BV1HpjF6LEFF",
                   "title": "《我好想你》王菀之",
-                  "play": 106590,
+                  "play": 107224,
                   "duration": "5:6",
                   "author": "听歌记"
                 },
                 {
-                  "bvid": "BV1MF411p7PA",
-                  "title": "我好想见你 - 高鱼『我好想见你 想见你，森林沙漠地点都随你定』【动态歌词Pinyin Lyrics】",
-                  "play": 9669,
-                  "duration": "3:48",
-                  "author": "ST_Music_Video"
-                },
-                {
                   "bvid": "BV1fkJP6ZEKi",
                   "title": "王菀之 - 我好想你·一一",
-                  "play": 65317,
+                  "play": 65610,
                   "duration": "4:59",
                   "author": "Snnnotname"
+                },
+                {
+                  "bvid": "BV1mG7h6jEhD",
+                  "title": "一喝我便醉，一问便流泪 #戴上耳机［臻享版］ #王菀之 #我好想你 #音乐分享",
+                  "play": 2104,
+                  "duration": "4:56",
+                  "author": "汽油不喝水"
                 }
               ],
               "audio": "music/newrelease_297-03 我好想你 • 一 一 - 王菀之 (Ivana Wong).mp3"
             },
             {
               "rank": 4,
-              "last_rank": 5,
+              "last_rank": 6,
+              "song_name": "你我他",
+              "artist": "en王翊恩",
+              "album": "你我他",
+              "cover": "https://i.kfs.io/album/global/296449851,0v3/fit/500x500.jpg",
+              "release_date": 1785772800,
+              "song_url": "https://www.kkbox.com/hk/tc/song/9akzl-Hd1jmuKYz03K",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/4suobCdbYqFkBbckAc",
+              "album_url": "https://www.kkbox.com/hk/tc/album/Cnmj9VVF4d6Z1hzgxN",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1fz3X61ED3",
+                  "title": "【1080P】en王翊恩《你我他》官方MV",
+                  "play": 4019,
+                  "duration": "3:54",
+                  "author": "华语新歌MV"
+                },
+                {
+                  "bvid": "BV1HbSUBaE7k",
+                  "title": "“人和人的沟通，有时候没有用”#en #音乐分享#en想自由 #王翊恩",
+                  "play": 411,
+                  "duration": "1:12",
+                  "author": "了W8z"
+                },
+                {
+                  "bvid": "BV1U1u86xEtq",
+                  "title": "en（王翊恩） - 你我他『还没开始就结束了 只剩我自顾自拉扯』（动态歌词/Lyrics Video/Hi-Res无损音质）",
+                  "play": 536,
+                  "duration": "3:57",
+                  "author": "COYMusicChannel"
+                }
+              ],
+              "audio": "music/newrelease_297-04 你我他 - en王翊恩.mp3"
+            },
+            {
+              "rank": 5,
+              "last_rank": 4,
               "song_name": "舍不得又没资格 (男女合唱版)",
               "artist": "RG-老帅",
               "album": "舍不得又没资格 (男女合唱版)",
@@ -2650,32 +2694,72 @@
               "profile": "中國說唱歌手",
               "bili": [
                 {
-                  "bvid": "BV1hWmJBsEMW",
-                  "title": "音乐推荐——《爱不得舍不得》 |   我们的关系，进一步没资格，毕竟深爱过，退一步却又舍不得。",
-                  "play": 4373,
-                  "duration": "4:0",
-                  "author": "竹竹竹128"
-                },
-                {
-                  "bvid": "BV1Kh4y1p7xC",
-                  "title": "【分享歌单】《其实你也没多不舍》对不起的事都做了 对不起的话也没必要讲了",
-                  "play": 6264,
-                  "duration": "3:39",
-                  "author": "小忧音乐铺_Music"
+                  "bvid": "BV1tH4y1W7An",
+                  "title": "进一步没资格，退一步舍不得，我们总是以朋友的名义，偷偷地爱着她 ！",
+                  "play": 130,
+                  "duration": "3:36",
+                  "author": "康成少爷"
                 },
                 {
                   "bvid": "BV1kgK86zEey",
                   "title": "今日推荐《舍不得又没资格》",
-                  "play": 5959,
+                  "play": 6023,
                   "duration": "3:41",
                   "author": "真妮玛--带劲"
+                },
+                {
+                  "bvid": "BV1Kh4y1p7xC",
+                  "title": "【分享歌单】《其实你也没多不舍》对不起的事都做了 对不起的话也没必要讲了",
+                  "play": 6265,
+                  "duration": "3:39",
+                  "author": "小忧音乐铺_Music"
                 }
               ],
-              "audio": "music/newrelease_297-04 舍不得又没资格 (男女合唱版) - RG.mp3"
+              "audio": "music/newrelease_297-05 舍不得又没资格 (男女合唱版) - RG.mp3"
             },
             {
-              "rank": 5,
-              "last_rank": 6,
+              "rank": 6,
+              "last_rank": 8,
+              "song_name": "Insomnia",
+              "artist": "邱鋒澤 Feng Ze",
+              "album": "Insomnia",
+              "cover": "https://i.kfs.io/album/global/296683530,0v3/fit/500x500.jpg",
+              "release_date": 1786550400,
+              "song_url": "https://www.kkbox.com/hk/tc/song/8phqvCOb2c2el8DCMQ",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/KpJdhfhFg8xEt1xy9P",
+              "album_url": "https://www.kkbox.com/hk/tc/album/Go8DdEpdzZWl8Qa3sb",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1sQa6zQEKo",
+                  "title": "「infinity 永远永远 邱锋泽 X 黄伟晋」亚洲巡回音乐会 上海站《LALALA》",
+                  "play": 164,
+                  "duration": "4:26",
+                  "author": "飒飒今天抢到票了吗"
+                },
+                {
+                  "bvid": "BV18RgH63EVf",
+                  "title": "【1080P】邱锋泽《Insomnia》官方版动态歌词MV",
+                  "play": 376,
+                  "duration": "2:42",
+                  "author": "华语新歌MV"
+                },
+                {
+                  "bvid": "BV1vf8J6bELY",
+                  "title": "Feng Ze 邱鋒澤 - Insomnia【動態歌詞】Official Lyrics MV",
+                  "play": 1,
+                  "duration": "2:42",
+                  "author": "馬秋翔"
+                }
+              ],
+              "audio": "music/newrelease_297-06 Insomnia - 邱鋒澤 Feng Ze.mp3"
+            },
+            {
+              "rank": 7,
+              "last_rank": 5,
               "song_name": "123木頭人",
               "artist": "吳映潔 GEmma Wu",
               "album": "123木頭人",
@@ -2690,71 +2774,31 @@
               "profile": "",
               "bili": [
                 {
-                  "bvid": "BV1dm3X6gEiU",
-                  "title": "【吴映洁】《123木头人》（4K直拍 not full）2026.08.01 出道20周年 勇敢的光 上海粉丝见面会",
-                  "play": 8486,
-                  "duration": "1:41",
-                  "author": "叫我文家卫-备用小号5"
+                  "bvid": "BV1kr4y187V1",
+                  "title": "【吴映洁】首度吐露《来吧！营业中》的酸甜苦辣 |《123木头人》幕后直击",
+                  "play": 6979,
+                  "duration": "9:56",
+                  "author": "Mealonee"
                 },
                 {
-                  "bvid": "BV18mMq65Eqr",
-                  "title": "【20260801】鬼鬼吳映潔 上海勇敢的光見面會 123木頭人【直拍】",
-                  "play": 308,
-                  "duration": "1:55",
-                  "author": "tyylily"
+                  "bvid": "BV1C54y1r7Ww",
+                  "title": "【GEmma Wu吴映洁】 Gugoo Game 国民运动开跑咯！一起来学！",
+                  "play": 1855,
+                  "duration": "5:19",
+                  "author": "荷尔蒙玩家"
                 },
                 {
-                  "bvid": "BV1SFur6dEWu",
-                  "title": "【吴映洁】《123木头人》发行二十周年！鬼鬼独唱新版本！配上奇迹鬼鬼FM可爱时刻＋换装大放送！❤【宝贝生日快乐！】",
-                  "play": 678,
-                  "duration": "3:16",
-                  "author": "叫我文家卫-备用小号5"
+                  "bvid": "BV1Cr4y1c7eT",
+                  "title": "[avex官方HD] 吴映洁 GEmma Wu feat. PIKOTARO(ピコ太郎) - Gugoo Game 官方完整版MV",
+                  "play": 5920,
+                  "duration": "2:10",
+                  "author": "驰放音乐分享"
                 }
               ],
-              "audio": "music/newrelease_297-05 123木頭人 - 吳映潔 GEmma Wu.mp3"
+              "audio": "music/newrelease_297-07 123木頭人 - 吳映潔 GEmma Wu.mp3"
             },
             {
-              "rank": 6,
-              "last_rank": 4,
-              "song_name": "你我他",
-              "artist": "en王翊恩",
-              "album": "你我他",
-              "cover": "https://i.kfs.io/album/global/296449851,0v3/fit/500x500.jpg",
-              "release_date": 1785772800,
-              "song_url": "https://www.kkbox.com/hk/tc/song/9akzl-Hd1jmuKYz03K",
-              "artist_url": "https://www.kkbox.com/hk/tc/artist/4suobCdbYqFkBbckAc",
-              "album_url": "https://www.kkbox.com/hk/tc/album/Cnmj9VVF4d6Z1hzgxN",
-              "genres": [
-                "華語流行"
-              ],
-              "profile": "",
-              "bili": [
-                {
-                  "bvid": "BV1U1u86xEtq",
-                  "title": "en（王翊恩） - 你我他『还没开始就结束了 只剩我自顾自拉扯』（动态歌词/Lyrics Video/Hi-Res无损音质）",
-                  "play": 458,
-                  "duration": "3:57",
-                  "author": "COYMusicChannel"
-                },
-                {
-                  "bvid": "BV1fz3X61ED3",
-                  "title": "【1080P】en王翊恩《你我他》官方MV",
-                  "play": 3928,
-                  "duration": "3:54",
-                  "author": "华语新歌MV"
-                },
-                {
-                  "bvid": "BV1e2Mr6hEoV",
-                  "title": "【无损音质】en王翊恩《你我他》丨「她笑着对我说爱他，像傻瓜，眼睛离不开他，好尴尬，我像笑话，藏在身后的花，把它丢了吧，没有人希望它出现啊」",
-                  "play": 765,
-                  "duration": "3:57",
-                  "author": "鹤归朽鹭zmph"
-                }
-              ],
-              "audio": "music/newrelease_297-06 你我他 - en王翊恩.mp3"
-            },
-            {
-              "rank": 7,
+              "rank": 8,
               "last_rank": 7,
               "song_name": "遠距離",
               "artist": "梁詠琪 (Gigi Leung)",
@@ -2772,110 +2816,30 @@
                 {
                   "bvid": "BV1TdMD6jE4J",
                   "title": "【徐佳莹Ｘ葛大为Ｘ黄韵玲】梁咏琪新歌〈远距离〉电台首播字幕版：“就像在身边 忘了隔多远”",
-                  "play": 5655,
+                  "play": 5691,
                   "duration": "3:53",
                   "author": "-冬青木-"
                 },
                 {
                   "bvid": "BV1g6My6AEkn",
                   "title": "远距离 - 梁咏琪『Yuan ju li - GiGi Liang』",
-                  "play": 80,
+                  "play": 86,
                   "duration": "4:8",
                   "author": "Kpop大直拍"
                 },
                 {
                   "bvid": "BV15tuj6hEEL",
                   "title": "[Hi-Res + 5.1声道] 远距离 - 梁咏琪 | DTS/Dolby Atmos杜比环绕全景声试音音频可视化",
-                  "play": 73,
+                  "play": 74,
                   "duration": "3:58",
                   "author": "dts51_com"
                 }
               ],
-              "audio": "music/newrelease_297-07 遠距離 - 梁詠琪 (Gigi Leung).mp3"
-            },
-            {
-              "rank": 8,
-              "last_rank": 9,
-              "song_name": "Insomnia",
-              "artist": "邱鋒澤 Feng Ze",
-              "album": "Insomnia",
-              "cover": "https://i.kfs.io/album/global/296683530,0v3/fit/500x500.jpg",
-              "release_date": 1786550400,
-              "song_url": "https://www.kkbox.com/hk/tc/song/8phqvCOb2c2el8DCMQ",
-              "artist_url": "https://www.kkbox.com/hk/tc/artist/KpJdhfhFg8xEt1xy9P",
-              "album_url": "https://www.kkbox.com/hk/tc/album/Go8DdEpdzZWl8Qa3sb",
-              "genres": [
-                "華語流行"
-              ],
-              "profile": "",
-              "bili": [
-                {
-                  "bvid": "BV1vf8J6bELY",
-                  "title": "Feng Ze 邱鋒澤 - Insomnia【動態歌詞】Official Lyrics MV",
-                  "play": 1,
-                  "duration": "2:42",
-                  "author": "馬秋翔"
-                },
-                {
-                  "bvid": "BV18RgH63EVf",
-                  "title": "【1080P】邱锋泽《Insomnia》官方版动态歌词MV",
-                  "play": 373,
-                  "duration": "2:42",
-                  "author": "华语新歌MV"
-                },
-                {
-                  "bvid": "BV1shER6LE4U",
-                  "title": "Feng Ze 邱鋒澤 -i don’t wanna be friends (Official Music Video)",
-                  "play": 920,
-                  "duration": "3:42",
-                  "author": "Forqiu-邱锋泽个人站"
-                }
-              ],
-              "audio": "music/newrelease_297-08 Insomnia - 邱鋒澤 Feng Ze.mp3"
+              "audio": "music/newrelease_297-08 遠距離 - 梁詠琪 (Gigi Leung).mp3"
             },
             {
               "rank": 9,
-              "last_rank": 12,
-              "song_name": "整個世界，只有你連上了我（《整個世界，只有你連上了我》影集主題曲）",
-              "artist": "理想混蛋 (Bestards)",
-              "album": "整個世界，只有你連上了我（《整個世界，只有你連上了我》影集主題曲）",
-              "cover": "https://i.kfs.io/album/global/295972474,0v2/fit/500x500.jpg",
-              "release_date": 1785772800,
-              "song_url": "https://www.kkbox.com/hk/tc/song/5-rK8_V-i4L5ri9KDg",
-              "artist_url": "https://www.kkbox.com/hk/tc/artist/9a3hK2_q8L4InZ6yYs",
-              "album_url": "https://www.kkbox.com/hk/tc/album/DXcx8RIPYpMkgQWAIU",
-              "genres": [
-                "華語流行"
-              ],
-              "profile": "",
-              "bili": [
-                {
-                  "bvid": "BV1qXud62EoP",
-                  "title": "理想混蛋 Bestards【整個世界 只有你連上了我 Connecting to You】影集主題曲 Official Music Video202608004",
-                  "play": 151,
-                  "duration": "4:4",
-                  "author": "高雄阿克"
-                },
-                {
-                  "bvid": "BV17M8P6EENR",
-                  "title": "突然某一天，在整个世界只有你连上了我……",
-                  "play": 92,
-                  "duration": "0:26",
-                  "author": "顾事HHH"
-                },
-                {
-                  "bvid": "BV1LL8M6FE2b",
-                  "title": "煙灰主題曲《我願意》，兩位男主合唱 LeoKing 彭梓燁 億軒",
-                  "play": 1292,
-                  "duration": "1:36",
-                  "author": "Resonance_G"
-                }
-              ],
-              "audio": "music/newrelease_297-09 整個世界，只有你連上了我（《整個世界，只有你連上了我》影集主題曲） - 理想混蛋 (Bestards).mp3"
-            },
-            {
-              "rank": 10,
-              "last_rank": 8,
+              "last_rank": 10,
               "song_name": "去年下的那場雪",
               "artist": "派偉俊 (Patrick Brasca)",
               "album": "BAD IDEA",
@@ -2893,26 +2857,66 @@
                 {
                   "bvid": "BV1vSGP6BENz",
                   "title": "【4K】派伟俊《去年下的那场雪》官方MV",
-                  "play": 4292,
+                  "play": 4338,
                   "duration": "4:21",
                   "author": "华语新歌MV"
                 },
                 {
                   "bvid": "BV1yHuo6oEkM",
                   "title": "派伟俊 -《去年下的那场雪》Official 4K Music Video",
-                  "play": 1147,
+                  "play": 1152,
                   "duration": "4:21",
                   "author": "金曲奖吧官方频道"
                 },
                 {
-                  "bvid": "BV1UH4y1j7Dg",
-                  "title": "我等的不是雪网红情歌催泪版《我等的不是雪》王羽泽演唱，歌声动听伤感，让人陶醉",
-                  "play": 9502,
-                  "duration": "4:2",
-                  "author": "红豆音乐秀"
+                  "bvid": "BV1F5gn6DEFB",
+                  "title": "《去年下的那场雪》派伟俊",
+                  "play": 6,
+                  "duration": "4:21",
+                  "author": "桐悦TV"
                 }
               ],
-              "audio": "music/newrelease_297-10 去年下的那場雪 - 派偉俊 (Patrick Brasca).mp3"
+              "audio": "music/newrelease_297-09 去年下的那場雪 - 派偉俊 (Patrick Brasca).mp3"
+            },
+            {
+              "rank": 10,
+              "last_rank": 9,
+              "song_name": "整個世界，只有你連上了我（《整個世界，只有你連上了我》影集主題曲）",
+              "artist": "理想混蛋 (Bestards)",
+              "album": "整個世界，只有你連上了我（《整個世界，只有你連上了我》影集主題曲）",
+              "cover": "https://i.kfs.io/album/global/295972474,0v2/fit/500x500.jpg",
+              "release_date": 1785772800,
+              "song_url": "https://www.kkbox.com/hk/tc/song/5-rK8_V-i4L5ri9KDg",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/9a3hK2_q8L4InZ6yYs",
+              "album_url": "https://www.kkbox.com/hk/tc/album/DXcx8RIPYpMkgQWAIU",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1uj411b7fV",
+                  "title": "【日推歌单】《世界上有两个我》一个把灵魂挥霍，一个蜷缩在躯壳",
+                  "play": 22990,
+                  "duration": "3:36",
+                  "author": "小忧音乐铺_Music"
+                },
+                {
+                  "bvid": "BV1qXud62EoP",
+                  "title": "理想混蛋 Bestards【整個世界 只有你連上了我 Connecting to You】影集主題曲 Official Music Video202608004",
+                  "play": 153,
+                  "duration": "4:4",
+                  "author": "高雄阿克"
+                },
+                {
+                  "bvid": "BV1emg96KE8A",
+                  "title": "【𝐇𝐢-𝐑𝐞𝐬无损音质】｜《你在我喜欢的世界里》- 汪苏泷 -‘ 这世界突然好可爱 因为你明媚了起来’",
+                  "play": 6539,
+                  "duration": "3:45",
+                  "author": "VV音乐局"
+                }
+              ],
+              "audio": "music/newrelease_297-10 整個世界，只有你連上了我（《整個世界，只有你連上了我》影集主題曲） - 理想混蛋 (Bestards).mp3"
             }
           ]
         },
@@ -2924,47 +2928,7 @@
           "songs": [
             {
               "rank": 1,
-              "last_rank": 1,
-              "song_name": "至少相擁沒錯",
-              "artist": "MC 張天賦",
-              "album": "至少相擁沒錯",
-              "cover": "https://i.kfs.io/album/global/297240310,0v1/fit/500x500.jpg",
-              "release_date": 1787068800,
-              "song_url": "https://www.kkbox.com/hk/tc/song/4p0VWQSBiO7N5lrFcD",
-              "artist_url": "https://www.kkbox.com/hk/tc/artist/OrVm8v6GblPkb5mcw5",
-              "album_url": "https://www.kkbox.com/hk/tc/album/0qwgLIdwW0hFlh2Bp9",
-              "genres": [
-                "粵語流行"
-              ],
-              "profile": "",
-              "bili": [
-                {
-                  "bvid": "BV1nA8K6hEar",
-                  "title": "MC张天赋《至少相拥没错》钢琴版 附谱",
-                  "play": 217,
-                  "duration": "1:47",
-                  "author": "严一钢琴"
-                },
-                {
-                  "bvid": "BV12f8C62E7V",
-                  "title": "自制版伴奏-mc张天赋《至少相拥没错》",
-                  "play": 21,
-                  "duration": "3:36",
-                  "author": "PHINS888"
-                },
-                {
-                  "bvid": "BV1628J6qEUf",
-                  "title": "【4K】MC 张天赋《至少相拥没错》官方歌词版MV",
-                  "play": 436,
-                  "duration": "3:38",
-                  "author": "华语新歌MV"
-                }
-              ],
-              "audio": "music/newrelease_320-01 至少相擁沒錯 - MC 張天賦.mp3"
-            },
-            {
-              "rank": 2,
-              "last_rank": null,
+              "last_rank": 2,
               "song_name": "It’s Ū",
               "artist": "陳卓賢 (Ian Chan)",
               "album": "It’s Ū",
@@ -2980,32 +2944,71 @@
               "profile": "MIRROR成員，男歌手",
               "bili": [
                 {
-                  "bvid": "BV1VGg56oEBX",
-                  "title": "Ian Chan 陈卓贤《迟眠剂》（Insomax）Official Lyrics Video",
-                  "play": 926,
-                  "duration": "3:14",
-                  "author": "港乐新歌"
-                },
-                {
                   "bvid": "BV1a2DhY6ETG",
                   "title": "艺声《It’s Complicated》MV",
-                  "play": 64557,
+                  "play": 64568,
                   "duration": "3:49",
                   "author": "SMTOWN"
                 },
                 {
-                  "bvid": "BV1Ad4y1r73H",
-                  "title": "粤语歌单｜「在相识 头一秒 知道自己找到了」｜《正式开始》｜陈卓贤",
-                  "play": 9070,
-                  "duration": "3:28",
-                  "author": "人把烧鹅都还给了神"
+                  "bvid": "BV1zu8h6aEph",
+                  "title": "【 It‘s Jcnana 蒨蒨】A (productive) week in my life in office &amp; WFH  早七晚十二創業日記",
+                  "play": 1240,
+                  "duration": "17:44",
+                  "author": "adeeeLE"
+                },
+                {
+                  "bvid": "BV1VGg56oEBX",
+                  "title": "Ian Chan 陈卓贤《迟眠剂》（Insomax）Official Lyrics Video",
+                  "play": 947,
+                  "duration": "3:14",
+                  "author": "港乐新歌"
                 }
               ],
-              "audio": "music/newrelease_320-02 It’s Ū - 陳卓賢 (Ian Chan).mp3"
+              "audio": "music/newrelease_320-01 It’s Ū - 陳卓賢 (Ian Chan).mp3"
+            },
+            {
+              "rank": 2,
+              "last_rank": 1,
+              "song_name": "至少相擁沒錯",
+              "artist": "MC 張天賦",
+              "album": "至少相擁沒錯",
+              "cover": "https://i.kfs.io/album/global/297240310,0v1/fit/500x500.jpg",
+              "release_date": 1787068800,
+              "song_url": "https://www.kkbox.com/hk/tc/song/4p0VWQSBiO7N5lrFcD",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/OrVm8v6GblPkb5mcw5",
+              "album_url": "https://www.kkbox.com/hk/tc/album/0qwgLIdwW0hFlh2Bp9",
+              "genres": [
+                "粵語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1aUMT6wEME",
+                  "title": "MC 張天賦 E=MC² 演唱會 2026 預熱歌單【可選擇歌曲】",
+                  "play": 525,
+                  "duration": "121:59",
+                  "author": "M-G水滴菌"
+                },
+                {
+                  "bvid": "BV1nA8K6hEar",
+                  "title": "MC张天赋《至少相拥没错》钢琴版 附谱",
+                  "play": 226,
+                  "duration": "1:47",
+                  "author": "严一钢琴"
+                },
+                {
+                  "bvid": "BV1nw8K6cEQu",
+                  "title": "MC张天赋《至少相拥没错》钢琴版 简介附谱",
+                  "play": 156,
+                  "duration": "3:34",
+                  "author": "VI钢琴社"
+                }
+              ]
             },
             {
               "rank": 3,
-              "last_rank": 2,
+              "last_rank": 3,
               "song_name": "靈魂相願",
               "artist": "張敬軒 (Hins Cheung)",
               "album": "靈魂相願",
@@ -3023,21 +3026,21 @@
                 {
                   "bvid": "BV1uzGA64Eao",
                   "title": "张敬轩 Hins Cheung《灵魂相愿》(Spectral Entanglement) [Official MV]",
-                  "play": 23848,
+                  "play": 24155,
                   "duration": "5:38",
                   "author": "港乐新歌"
                 },
                 {
-                  "bvid": "BV1jE411H7pA",
-                  "title": "（深夜听）假使一生会没了没完——张敬轩【愿】（原唱：林忆莲）",
-                  "play": 4436,
-                  "duration": "3:54",
-                  "author": "天才潛水兒童"
+                  "bvid": "BV1RbGA6PEG7",
+                  "title": "《灵魂相愿 | 张敬轩 | 歌词版 (Hi-Res) |  一字之差，十二年成長》",
+                  "play": 3158,
+                  "duration": "4:57",
+                  "author": "港樂講乜"
                 },
                 {
                   "bvid": "BV1ZW8x62EMU",
                   "title": "張敬軒 - 靈魂相願Drum Cover",
-                  "play": 192,
+                  "play": 202,
                   "duration": "5:2",
                   "author": "Kyle_Yeung"
                 }
@@ -3046,7 +3049,7 @@
             },
             {
               "rank": 4,
-              "last_rank": 3,
+              "last_rank": 4,
               "song_name": "放棄的界限",
               "artist": "張敬軒 (Hins Cheung)",
               "album": "放棄的界限",
@@ -3064,21 +3067,21 @@
                 {
                   "bvid": "BV1i9GK6CELj",
                   "title": "【𝐇𝐢-𝐑𝐞𝐬无损音质】｜《放弃的界限》- 张敬轩  -‘ 偏执失控的错爱 就别要撑’",
-                  "play": 8727,
+                  "play": 8936,
                   "duration": "3:38",
                   "author": "VV音乐局"
                 },
                 {
-                  "bvid": "BV1cXMQ6MEc6",
-                  "title": "[官方摄录] 张敬轩 Hins Cheung《放弃的界限》(Eight Days of Silence) [Lyric Video]",
-                  "play": 3420,
-                  "duration": "3:42",
-                  "author": "张敬轩音乐站"
+                  "bvid": "BV1FoM96VEM1",
+                  "title": "（自制KTV）张敬轩 - 放弃的界限（EEG&amp;FITTO Records）",
+                  "play": 815,
+                  "duration": "10:57",
+                  "author": "JackoHW"
                 },
                 {
                   "bvid": "BV1z83G6hE2F",
                   "title": "未发行新歌《放弃的界限》张敬轩第二乐章｜“放弃是极其难 也要订下界限”",
-                  "play": 25226,
+                  "play": 25325,
                   "duration": "3:25",
                   "author": "达文西_D"
                 }
@@ -3102,25 +3105,25 @@
               "profile": "",
               "bili": [
                 {
+                  "bvid": "BV1tW8i6tEJU",
+                  "title": "电影《浪花男女》主题曲【浪花】主唱：Jeffrey Ngai 魏浚笙",
+                  "play": 919,
+                  "duration": "3:29",
+                  "author": "港乐新歌"
+                },
+                {
                   "bvid": "BV12guC6oE9m",
                   "title": "新歌派台 ｜ Jeffrey Ngai 魏浚笙 - 《已出之物》电台首播",
-                  "play": 3180,
+                  "play": 3207,
                   "duration": "7:19",
                   "author": "港乐新歌"
                 },
                 {
                   "bvid": "BV17e4y1m7kK",
                   "title": "【未日同學會｜足本版】MC張天賦 x Jeffrey魏浚笙 x Chloe蘇皓兒",
-                  "play": 3459,
+                  "play": 3460,
                   "duration": "7:31",
                   "author": "-豆腐火腩飯a"
-                },
-                {
-                  "bvid": "BV1T2gs65EZY",
-                  "title": "Jeffrey Ngai 魏浚笙 - 《已出之物》Our thing (Official Music Video)",
-                  "play": 195,
-                  "duration": "4:8",
-                  "author": "捌拾後聽歌指南"
                 }
               ],
               "audio": "music/newrelease_320-05 已出之物 - Jeffrey 魏浚笙.mp3"
@@ -3144,21 +3147,21 @@
                 {
                   "bvid": "BV1YJba6DENW",
                   "title": "【容祖儿】容祖兒 Joey Yung x Pandora 潘朵拉樂隊《等等等等》[Live Band Version]",
-                  "play": 3958,
+                  "play": 4172,
                   "duration": "3:13",
                   "author": "JoeyGalaxy"
                 },
                 {
                   "bvid": "BV12CGG6yEeY",
                   "title": "【容祖儿】新歌《等等等等》[Official Lyric Video]",
-                  "play": 12203,
+                  "play": 12304,
                   "duration": "3:15",
                   "author": "JoeyGalaxy"
                 },
                 {
                   "bvid": "BV1y7411E7ev",
                   "title": "（自制港版字幕）容祖儿 - 优秀（答案之书概念音乐会Live MV）（英皇娱乐）",
-                  "play": 1938,
+                  "play": 1941,
                   "duration": "7:16",
                   "author": "JackoHW"
                 }
@@ -3183,23 +3186,23 @@
               "profile": "香港華納女歌手",
               "bili": [
                 {
+                  "bvid": "BV1fz411e7pj",
+                  "title": "【BLACKPINK】新曲《How you like that》练习室舞蹈（阿棕老师示范版）",
+                  "play": 151477,
+                  "duration": "2:29",
+                  "author": "小羊老丝儿"
+                },
+                {
                   "bvid": "BV1Rj316EE54",
                   "title": "Nancy Kwai 归绰峣 - How could you? (Official Music Video)",
-                  "play": 7350,
+                  "play": 7413,
                   "duration": "3:56",
                   "author": "港乐新歌"
                 },
                 {
-                  "bvid": "BV1W7BQBjEaN",
-                  "title": "How Could You? -Saliva -Cinco Diablo",
-                  "play": 2145,
-                  "duration": "3:23",
-                  "author": "Trigger_Pequod"
-                },
-                {
                   "bvid": "BV1NbuQ6mEDo",
                   "title": "[自制KTV] Nancy Kwai 归绰峣 - How could you?",
-                  "play": 56,
+                  "play": 57,
                   "duration": "7:52",
                   "author": "魚蛋小將"
                 }
@@ -3209,46 +3212,6 @@
             {
               "rank": 8,
               "last_rank": 9,
-              "song_name": "Bye Bye Bye",
-              "artist": "Gigi 炎明熹",
-              "album": "Bye Bye Bye",
-              "cover": "https://i.kfs.io/album/global/296619856,0v6/fit/500x500.jpg",
-              "release_date": 1786032000,
-              "song_url": "https://www.kkbox.com/hk/tc/song/4r_WHqrgSSJLpVx0el",
-              "artist_url": "https://www.kkbox.com/hk/tc/artist/H-oKVN6kvbB0V8zhLk",
-              "album_url": "https://www.kkbox.com/hk/tc/album/KlwDaU8ZBqJm-kdZp3",
-              "genres": [
-                "粵語流行"
-              ],
-              "profile": "",
-              "bili": [
-                {
-                  "bvid": "BV1mTuC6fER6",
-                  "title": "炎明熹 Gigi Yim - Bye Bye Bye - Official Music Video",
-                  "play": 3175,
-                  "duration": "3:20",
-                  "author": "港乐新歌"
-                },
-                {
-                  "bvid": "BV1h64y1R7p9",
-                  "title": "应用八字班(三十五) – GiGi炎明熹",
-                  "play": 1847,
-                  "duration": "4:13",
-                  "author": "账号已注销"
-                },
-                {
-                  "bvid": "BV1bH8s6FETo",
-                  "title": "“再听一万遍也会为这首歌的温柔沉醉！” | 《Bye Bye》",
-                  "play": 3730,
-                  "duration": "4:27",
-                  "author": "Yuki_可依"
-                }
-              ],
-              "audio": "music/newrelease_320-08 Bye Bye Bye - Gigi 炎明熹.mp3"
-            },
-            {
-              "rank": 9,
-              "last_rank": 8,
               "song_name": "人類愛情學",
               "artist": "陳蕾 (Panther Chan)",
               "album": "人類愛情學",
@@ -3263,68 +3226,108 @@
               "profile": "",
               "bili": [
                 {
-                  "bvid": "BV1sN8G6pE8L",
-                  "title": "陈蕾 Panther Chan - 人类爱情学 The Science Of Love (Official Music Video)",
-                  "play": 2389,
-                  "duration": "3:41",
-                  "author": "港乐新歌"
+                  "bvid": "BV1Y7c4zSEFc",
+                  "title": "原中国国际电视台主持人陈蕾",
+                  "play": 297,
+                  "duration": "4:43",
+                  "author": "守我本心_"
                 },
                 {
-                  "bvid": "BV1fRbi6GEPR",
-                  "title": "港乐新歌 ｜ 陈蕾 - 《人类爱情学》",
-                  "play": 3225,
-                  "duration": "3:26",
+                  "bvid": "BV1sN8G6pE8L",
+                  "title": "陈蕾 Panther Chan - 人类爱情学 The Science Of Love (Official Music Video)",
+                  "play": 2501,
+                  "duration": "3:41",
                   "author": "港乐新歌"
                 },
                 {
                   "bvid": "BV12w8G6sExS",
                   "title": "【4K】陈蕾《人类爱情学》官方MV",
-                  "play": 456,
+                  "play": 473,
                   "duration": "3:41",
                   "author": "华语新歌MV"
                 }
               ],
-              "audio": "music/newrelease_320-09 人類愛情學 - 陳蕾 (Panther Chan).mp3"
+              "audio": "music/newrelease_320-08 人類愛情學 - 陳蕾 (Panther Chan).mp3"
             },
             {
-              "rank": 10,
+              "rank": 9,
               "last_rank": 11,
-              "song_name": "靈光一千閃",
-              "artist": "Pandora樂隊",
-              "album": "靈光一千閃",
-              "cover": "https://i.kfs.io/album/global/296817855,0v2/fit/500x500.jpg",
-              "release_date": 1787155200,
-              "song_url": "https://www.kkbox.com/hk/tc/song/4tKK9NLoLX0lHDIRpp",
-              "artist_url": "https://www.kkbox.com/hk/tc/artist/KmbY01GPD7TqX6t4Gk",
-              "album_url": "https://www.kkbox.com/hk/tc/album/LZsY29k-2Z7b07xqZi",
+              "song_name": "愛與(不)被愛",
+              "artist": "Arvin曾傲棐 (Arvin Tsang)",
+              "album": "愛與(不)被愛",
+              "cover": "https://i.kfs.io/album/global/297151299,0v1/fit/500x500.jpg",
+              "release_date": 1786464000,
+              "song_url": "https://www.kkbox.com/hk/tc/song/0tO_XCywKUfrD1BWqm",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/GmRNJY8X1D6m7wg1yI",
+              "album_url": "https://www.kkbox.com/hk/tc/album/PXdGg-LHQ7mryHU66u",
               "genres": [
                 "粵語流行"
               ],
               "profile": "",
               "bili": [
                 {
-                  "bvid": "BV1ZN8P6nEAZ",
-                  "title": "港乐新歌 ｜ Pandora - 《灵光一千闪》",
-                  "play": 1621,
-                  "duration": "3:24",
+                  "bvid": "BV1WHgM64EwP",
+                  "title": "[自制KTV] 曾傲棐 - 爱与(不)被爱",
+                  "play": 3,
+                  "duration": "7:44",
+                  "author": "魚蛋小將"
+                },
+                {
+                  "bvid": "BV16JgV6AEc5",
+                  "title": "Arvin 曾傲棐《爱与(不)被爱》 [Official MV]",
+                  "play": 1479,
+                  "duration": "3:52",
                   "author": "港乐新歌"
                 },
                 {
-                  "bvid": "BV1pE8U6JEMN",
-                  "title": "Pandora樂隊  靈光一千閃",
-                  "play": 23,
-                  "duration": "3:24",
-                  "author": "MrDOG阿柴"
-                },
-                {
-                  "bvid": "BV1sa8s6pExf",
-                  "title": "灵光一千闪",
-                  "play": 12,
-                  "duration": "3:21",
-                  "author": "Jerem_kong"
+                  "bvid": "BV1CjNU6WEHJ",
+                  "title": "【𝐇𝐢-𝐑𝐞𝐬无损音质】｜《不爱也是一种爱》- Hotcha -‘而我总算经历不爱 才学会在以后爱情看得开’",
+                  "play": 7378,
+                  "duration": "3:15",
+                  "author": "VV音乐局"
                 }
               ],
-              "audio": "music/newrelease_320-10 靈光一千閃 - Pandora樂隊.mp3"
+              "audio": "music/newrelease_320-09 愛與(不)被愛 - Arvin曾傲棐 (Arvin Tsang).mp3"
+            },
+            {
+              "rank": 10,
+              "last_rank": 8,
+              "song_name": "Bye Bye Bye",
+              "artist": "Gigi 炎明熹",
+              "album": "Bye Bye Bye",
+              "cover": "https://i.kfs.io/album/global/296619856,0v6/fit/500x500.jpg",
+              "release_date": 1786032000,
+              "song_url": "https://www.kkbox.com/hk/tc/song/4r_WHqrgSSJLpVx0el",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/H-oKVN6kvbB0V8zhLk",
+              "album_url": "https://www.kkbox.com/hk/tc/album/KlwDaU8ZBqJm-kdZp3",
+              "genres": [
+                "粵語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV14P4y13749",
+                  "title": "Gigi炎明熹 忍笑極難《青春本我》NG合輯 - See See TVB",
+                  "play": 3992,
+                  "duration": "3:15",
+                  "author": "账号已注销"
+                },
+                {
+                  "bvid": "BV1x3MNzfEYz",
+                  "title": "【王心凌4K】《Hi Hi Bye Bye】直拍 王心凌的这首歌 当年敲坏了多少键盘啊",
+                  "play": 11866,
+                  "duration": "0:51",
+                  "author": "王心凌草莓站"
+                },
+                {
+                  "bvid": "BV1UDhP6kEUe",
+                  "title": "哈基米界最爽的一声MONTAGEM BYE BYE人声？！",
+                  "play": 189,
+                  "duration": "1:49",
+                  "author": "量须"
+                }
+              ],
+              "audio": "music/newrelease_320-10 Bye Bye Bye - Gigi 炎明熹.mp3"
             }
           ]
         }
