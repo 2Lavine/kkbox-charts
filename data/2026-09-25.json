@@ -1,0 +1,3245 @@
+{
+  "date": "2026-09-25",
+  "regions": {
+    "tw": {
+      "name": "台灣",
+      "charts": [
+        {
+          "key": "song_297",
+          "type": "song",
+          "title": "單曲榜·華語",
+          "category": "華語",
+          "songs": [
+            {
+              "rank": 1,
+              "last_rank": 1,
+              "song_name": "甲乙丙丁Strangers - 你我怎麼兩清",
+              "artist": "李佳薇 (Jess Lee)",
+              "album": "甲乙丙丁Strangers",
+              "cover": "https://i.kfs.io/album/global/295320632,0v2/fit/500x500.jpg",
+              "release_date": 1783440000,
+              "song_url": "https://www.kkbox.com/tw/tc/song/GptIJ2y--IKc1ewMvC",
+              "artist_url": "https://www.kkbox.com/tw/tc/artist/Sr05tTDYLFcrm7ZrG5",
+              "album_url": "https://www.kkbox.com/tw/tc/album/9Y2ZAXwXpTG8JCn0J5",
+              "genres": [
+                "華語流行",
+                "抒情"
+              ],
+              "profile": "马来西亚华语流行女歌手",
+              "bili": [
+                {
+                  "bvid": "BV1VctP6TEE2",
+                  "title": "【贝斯附谱】李佳薇 - 甲乙丙丁 (Bass Cover)",
+                  "play": 681,
+                  "duration": "2:17",
+                  "author": "Excy_Sun"
+                },
+                {
+                  "bvid": "BV1xGGN69EKn",
+                  "title": "甲乙丙丁 (你我怎么两清)【李佳薇】动态鼓谱",
+                  "play": 22992,
+                  "duration": "3:31",
+                  "author": "看哦爱随风原创鼓谱"
+                },
+                {
+                  "bvid": "BV1aXYX6WEYK",
+                  "title": "【LeoKing】 甲乙丙丁翻唱 彭梓烨亿轩",
+                  "play": 10474,
+                  "duration": "0:35",
+                  "author": "Lee琪琪啊"
+                }
+              ],
+              "audio": "music/song_297-01 甲乙丙丁Strangers - 李佳薇 (Jess Lee).mp3"
+            },
+            {
+              "rank": 2,
+              "last_rank": null,
+              "song_name": "大船",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/tw/tc/song/SntEuq782cLmwLW9Kc",
+              "artist_url": "https://www.kkbox.com/tw/tc/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/tw/tc/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1CdaP6AETp",
+                  "title": "9.24田馥甄罕见直播。",
+                  "play": 43077,
+                  "duration": "6:10",
+                  "author": "两神人Play中的一环"
+                },
+                {
+                  "bvid": "BV1r8hb6PEfG",
+                  "title": "『田馥甄新专』《要去什么地方》全专音源 | 无损音质",
+                  "play": 27286,
+                  "duration": "36:56",
+                  "author": "者来女全球资讯"
+                },
+                {
+                  "bvid": "BV1gfaA6VEDr",
+                  "title": "没有白等！第一时间一起陪听田馥甄新专《要去什么地方》",
+                  "play": 14985,
+                  "duration": "53:46",
+                  "author": "一个小精宁"
+                }
+              ]
+            },
+            {
+              "rank": 3,
+              "last_rank": null,
+              "song_name": "要去什麼地方",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/tw/tc/song/4sLwx95jOGRFjAQ2iv",
+              "artist_url": "https://www.kkbox.com/tw/tc/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/tw/tc/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1r8hb6PEfG",
+                  "title": "『田馥甄新专』《要去什么地方》全专音源 | 无损音质",
+                  "play": 27286,
+                  "duration": "36:56",
+                  "author": "者来女全球资讯"
+                },
+                {
+                  "bvid": "BV1RuaN6WEHA",
+                  "title": "9月24日 田馥甄 《要去什么地方》 全长专辑",
+                  "play": 1322,
+                  "duration": "36:58",
+                  "author": "理性阿光"
+                },
+                {
+                  "bvid": "BV1sshb6qE7o",
+                  "title": "【专辑纯享】田馥甄《要去什么地方》全部10首曲目歌词完整版|时隔6年全新专辑",
+                  "play": 29261,
+                  "duration": "36:56",
+                  "author": "唯一音乐馆"
+                }
+              ]
+            },
+            {
+              "rank": 4,
+              "last_rank": 2,
+              "song_name": "她（《早春晴朗》電視劇欒念人物曲&片頭曲）",
+              "artist": "Various Artists",
+              "album": "早春晴朗 影視原聲帶",
+              "cover": "https://i.kfs.io/album/tw/298216296,0v1/fit/500x500.jpg",
+              "release_date": 1788192000,
+              "song_url": "https://www.kkbox.com/tw/tc/song/Ks8gDrl3fpSTTDFqi5",
+              "artist_url": "#",
+              "album_url": "https://www.kkbox.com/tw/tc/album/-o5uPyxc2jy1xvk-X9",
+              "genres": [
+                "合輯"
+              ],
+              "profile": "群星合輯",
+              "bili": [
+                {
+                  "bvid": "BV19beq6mEut",
+                  "title": "【Hi-Res无损音质】《她》- 刘宇宁 早春晴朗插曲OST 百万豪装录音棚试听",
+                  "play": 18721,
+                  "duration": "3:38",
+                  "author": "蒸汽和弦"
+                },
+                {
+                  "bvid": "BV19hej6RE59",
+                  "title": "刘宇宁 《她》电视剧『早春晴朗』「栾念人物曲」及片头曲 【神还原】扒谱 钢琴 独奏 琴谱",
+                  "play": 627,
+                  "duration": "4:3",
+                  "author": "Lionrock扒谱王子"
+                },
+                {
+                  "bvid": "BV1uBeq6rECE",
+                  "title": "她 - 刘宇宁",
+                  "play": 8042,
+                  "duration": "3:41",
+                  "author": "Galaxy你好"
+                }
+              ]
+            },
+            {
+              "rank": 5,
+              "last_rank": null,
+              "song_name": "雲",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/tw/tc/song/0pcTEYclMinpVtVw8i",
+              "artist_url": "https://www.kkbox.com/tw/tc/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/tw/tc/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV14Hhb6zE4P",
+                  "title": "【有时淡 有时浓】田馥甄《云》全曲试听，邹序作词作曲。#要去什么地方",
+                  "play": 858,
+                  "duration": "3:12",
+                  "author": "Hebe馥甄日记_"
+                },
+                {
+                  "bvid": "BV1PJ411U72D",
+                  "title": "田馥甄Hebe《旧梦》我超级喜欢这首歌",
+                  "play": 13479,
+                  "duration": "2:21",
+                  "author": "琅琊酒剑仙"
+                },
+                {
+                  "bvid": "BV1WWhf6SEVW",
+                  "title": "【无损和声伴奏】云 - 田馥甄  田馥甄云伴奏",
+                  "play": 11,
+                  "duration": "3:25",
+                  "author": "伴奏君s"
+                }
+              ]
+            },
+            {
+              "rank": 6,
+              "last_rank": null,
+              "song_name": "值得紀念的垃圾",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/tw/tc/song/1ZD3Y2v8mUN-62O288",
+              "artist_url": "https://www.kkbox.com/tw/tc/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/tw/tc/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1VSac66EAK",
+                  "title": "锐评田馥甄新专辑《要去什么地方》看得出来不是很在意市场了。",
+                  "play": 13441,
+                  "duration": "2:22",
+                  "author": "Z时代的天后"
+                },
+                {
+                  "bvid": "BV1CdaP6AETp",
+                  "title": "9.24田馥甄罕见直播。",
+                  "play": 43077,
+                  "duration": "6:10",
+                  "author": "两神人Play中的一环"
+                },
+                {
+                  "bvid": "BV1TLag6RE9G",
+                  "title": "【暗中观察】给田馥甄新专豆瓣打一星的人是什么群体，还讨厌哪些女歌手？#要去什么地方#蔡依林张韶涵王心凌",
+                  "play": 2120,
+                  "duration": "1:8",
+                  "author": "Hebe馥甄日记_"
+                }
+              ]
+            },
+            {
+              "rank": 7,
+              "last_rank": null,
+              "song_name": "乾淨的房間",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/tw/tc/song/CsmULVm93ZiY1Dkq1U",
+              "artist_url": "https://www.kkbox.com/tw/tc/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/tw/tc/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1xshb6qEBL",
+                  "title": "【姐在怀念谁？】田馥甄《干净的房间》全曲试听，苏研之作词，宋世尧作曲。#要去什么地方",
+                  "play": 1619,
+                  "duration": "3:47",
+                  "author": "Hebe馥甄日记_"
+                },
+                {
+                  "bvid": "BV1Wphf6nESg",
+                  "title": "【无损和声伴奏】干净的房间 - 田馥甄  田馥甄干净的房间伴奏",
+                  "play": 87,
+                  "duration": "4:0",
+                  "author": "伴奏君s"
+                },
+                {
+                  "bvid": "BV15DaA6mEwK",
+                  "title": "[高解析度无损] 全曲试听 &amp; 歌词预览 「干净的房间」 - 田馥甄 - 要去什么地方",
+                  "play": 98,
+                  "duration": "3:57",
+                  "author": "沉默的人1412"
+                }
+              ]
+            },
+            {
+              "rank": 8,
+              "last_rank": null,
+              "song_name": "烏鴉",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/tw/tc/song/Oo6olAoa32AqZ1gxaj",
+              "artist_url": "https://www.kkbox.com/tw/tc/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/tw/tc/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV14jhf6sEJE",
+                  "title": "【轻快小品歌】田馥甄《乌鸦》全曲试听，陈君豪，葛大为作词作曲。#要去什么地方",
+                  "play": 1014,
+                  "duration": "3:23",
+                  "author": "Hebe馥甄日记_"
+                },
+                {
+                  "bvid": "BV1KPaw6wE8d",
+                  "title": "【无损和声伴奏】乌鸦 - 田馥甄  田馥甄乌鸦伴奏",
+                  "play": 79,
+                  "duration": "3:47",
+                  "author": "伴奏君s"
+                },
+                {
+                  "bvid": "BV1tYau6WEyw",
+                  "title": "新歌｜乌鸦 田馥甄",
+                  "play": 34,
+                  "duration": "0:56",
+                  "author": "corona1012"
+                }
+              ]
+            },
+            {
+              "rank": 9,
+              "last_rank": null,
+              "song_name": "果",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/tw/tc/song/D-yGCqRGldMimozF06",
+              "artist_url": "https://www.kkbox.com/tw/tc/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/tw/tc/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1CdaP6AETp",
+                  "title": "9.24田馥甄罕见直播。",
+                  "play": 43077,
+                  "duration": "6:10",
+                  "author": "两神人Play中的一环"
+                },
+                {
+                  "bvid": "BV1r8hb6PEfG",
+                  "title": "『田馥甄新专』《要去什么地方》全专音源 | 无损音质",
+                  "play": 27291,
+                  "duration": "36:56",
+                  "author": "者来女全球资讯"
+                },
+                {
+                  "bvid": "BV1gfaA6VEDr",
+                  "title": "没有白等！第一时间一起陪听田馥甄新专《要去什么地方》",
+                  "play": 14985,
+                  "duration": "53:46",
+                  "author": "一个小精宁"
+                }
+              ]
+            },
+            {
+              "rank": 10,
+              "last_rank": 3,
+              "song_name": "沒有人像我一樣 - 影集《欠妳的那場婚禮》主題曲",
+              "artist": "宇宙人 (Cosmos People)",
+              "album": "沒有人像我一樣",
+              "cover": "https://i.kfs.io/album/global/294848912,0v1/fit/500x500.jpg",
+              "release_date": 1781712000,
+              "song_url": "https://www.kkbox.com/tw/tc/song/4njo1hg43TYurFIZjC",
+              "artist_url": "https://www.kkbox.com/tw/tc/artist/Lai8PoHfMgHOt_XWaz",
+              "album_url": "https://www.kkbox.com/tw/tc/album/9ayRooyTUhQp8_WVmy",
+              "genres": [
+                "獨立流行",
+                "搖滾"
+              ],
+              "profile": "台湾独立流行摇滚乐团",
+              "bili": [
+                {
+                  "bvid": "BV1UNuu6AEim",
+                  "title": "宇宙人 - 沒有人像我一樣Drum Cover[附鼓譜]",
+                  "play": 293,
+                  "duration": "4:6",
+                  "author": "Kyle_Yeung"
+                },
+                {
+                  "bvid": "BV1XXjQ61EEG",
+                  "title": "4599 没有人像我一样-宇宙人",
+                  "play": 3615,
+                  "duration": "4:7",
+                  "author": "jay的实验室"
+                },
+                {
+                  "bvid": "BV15quC6gETo",
+                  "title": "[Hi-Res + 5.1声道] 没有人像我一样 - 宇宙人 | DTS/Dolby Atmos杜比环绕全景声试音音频可视化",
+                  "play": 380,
+                  "duration": "4:7",
+                  "author": "dts51_com"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "newrelease_297",
+          "type": "newrelease",
+          "title": "新歌榜·華語",
+          "category": "華語",
+          "songs": [
+            {
+              "rank": 1,
+              "last_rank": null,
+              "song_name": "大船",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/tw/tc/song/SntEuq782cLmwLW9Kc",
+              "artist_url": "https://www.kkbox.com/tw/tc/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/tw/tc/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1s4hb6KEkH",
+                  "title": "【轻摇滚风】田馥甄《大船》全曲试听，杨世暄作词作曲。#要去什么地方",
+                  "play": 1917,
+                  "duration": "2:35",
+                  "author": "Hebe馥甄日记_"
+                },
+                {
+                  "bvid": "BV1RuaN6WEHA",
+                  "title": "9月24日 田馥甄 《要去什么地方》 全长专辑",
+                  "play": 1322,
+                  "duration": "36:58",
+                  "author": "理性阿光"
+                },
+                {
+                  "bvid": "BV1EYhf6CE4c",
+                  "title": "【无损和声伴奏】大船 -  田馥甄  田馥甄大船伴奏",
+                  "play": 31,
+                  "duration": "3:15",
+                  "author": "伴奏君s"
+                }
+              ]
+            },
+            {
+              "rank": 2,
+              "last_rank": null,
+              "song_name": "要去什麼地方",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/tw/tc/song/4sLwx95jOGRFjAQ2iv",
+              "artist_url": "https://www.kkbox.com/tw/tc/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/tw/tc/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1r8hb6PEfG",
+                  "title": "『田馥甄新专』《要去什么地方》全专音源 | 无损音质",
+                  "play": 27291,
+                  "duration": "36:56",
+                  "author": "者来女全球资讯"
+                },
+                {
+                  "bvid": "BV1sshb6qE7o",
+                  "title": "【专辑纯享】田馥甄《要去什么地方》全部10首曲目歌词完整版|时隔6年全新专辑",
+                  "play": 29267,
+                  "duration": "36:56",
+                  "author": "唯一音乐馆"
+                },
+                {
+                  "bvid": "BV1gfaA6VEDr",
+                  "title": "没有白等！第一时间一起陪听田馥甄新专《要去什么地方》",
+                  "play": 14985,
+                  "duration": "53:46",
+                  "author": "一个小精宁"
+                }
+              ]
+            },
+            {
+              "rank": 3,
+              "last_rank": 1,
+              "song_name": "她（《早春晴朗》電視劇欒念人物曲&片頭曲）",
+              "artist": "Various Artists",
+              "album": "早春晴朗 影視原聲帶",
+              "cover": "https://i.kfs.io/album/tw/298216296,0v1/fit/500x500.jpg",
+              "release_date": 1788192000,
+              "song_url": "https://www.kkbox.com/tw/tc/song/Ks8gDrl3fpSTTDFqi5",
+              "artist_url": "#",
+              "album_url": "https://www.kkbox.com/tw/tc/album/-o5uPyxc2jy1xvk-X9",
+              "genres": [
+                "合輯"
+              ],
+              "profile": "群星合輯",
+              "bili": [
+                {
+                  "bvid": "BV19beq6mEut",
+                  "title": "【Hi-Res无损音质】《她》- 刘宇宁 早春晴朗插曲OST 百万豪装录音棚试听",
+                  "play": 18721,
+                  "duration": "3:38",
+                  "author": "蒸汽和弦"
+                },
+                {
+                  "bvid": "BV19hej6RE59",
+                  "title": "刘宇宁 《她》电视剧『早春晴朗』「栾念人物曲」及片头曲 【神还原】扒谱 钢琴 独奏 琴谱",
+                  "play": 627,
+                  "duration": "4:3",
+                  "author": "Lionrock扒谱王子"
+                },
+                {
+                  "bvid": "BV1uBeq6rECE",
+                  "title": "她 - 刘宇宁",
+                  "play": 8042,
+                  "duration": "3:41",
+                  "author": "Galaxy你好"
+                }
+              ]
+            },
+            {
+              "rank": 4,
+              "last_rank": null,
+              "song_name": "雲",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/tw/tc/song/0pcTEYclMinpVtVw8i",
+              "artist_url": "https://www.kkbox.com/tw/tc/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/tw/tc/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV14Hhb6zE4P",
+                  "title": "【有时淡 有时浓】田馥甄《云》全曲试听，邹序作词作曲。#要去什么地方",
+                  "play": 858,
+                  "duration": "3:12",
+                  "author": "Hebe馥甄日记_"
+                },
+                {
+                  "bvid": "BV1PJ411U72D",
+                  "title": "田馥甄Hebe《旧梦》我超级喜欢这首歌",
+                  "play": 13479,
+                  "duration": "2:21",
+                  "author": "琅琊酒剑仙"
+                },
+                {
+                  "bvid": "BV1WWhf6SEVW",
+                  "title": "【无损和声伴奏】云 - 田馥甄  田馥甄云伴奏",
+                  "play": 11,
+                  "duration": "3:25",
+                  "author": "伴奏君s"
+                }
+              ]
+            },
+            {
+              "rank": 5,
+              "last_rank": null,
+              "song_name": "值得紀念的垃圾",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/tw/tc/song/1ZD3Y2v8mUN-62O288",
+              "artist_url": "https://www.kkbox.com/tw/tc/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/tw/tc/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1x7hf69Ebq",
+                  "title": "【人生歌曲】田馥甄《值得纪念的垃圾》，米其林MCKY，鹤The Crane作词作曲。#要去什么地方",
+                  "play": 1326,
+                  "duration": "4:0",
+                  "author": "Hebe馥甄日记_"
+                },
+                {
+                  "bvid": "BV1VSac66EAK",
+                  "title": "锐评田馥甄新专辑《要去什么地方》看得出来不是很在意市场了。",
+                  "play": 13441,
+                  "duration": "2:22",
+                  "author": "Z时代的天后"
+                },
+                {
+                  "bvid": "BV1CdaP6AETp",
+                  "title": "9.24田馥甄罕见直播。",
+                  "play": 43077,
+                  "duration": "6:10",
+                  "author": "两神人Play中的一环"
+                }
+              ]
+            },
+            {
+              "rank": 6,
+              "last_rank": null,
+              "song_name": "乾淨的房間",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/tw/tc/song/CsmULVm93ZiY1Dkq1U",
+              "artist_url": "https://www.kkbox.com/tw/tc/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/tw/tc/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1xshb6qEBL",
+                  "title": "【姐在怀念谁？】田馥甄《干净的房间》全曲试听，苏研之作词，宋世尧作曲。#要去什么地方",
+                  "play": 1619,
+                  "duration": "3:47",
+                  "author": "Hebe馥甄日记_"
+                },
+                {
+                  "bvid": "BV1Wphf6nESg",
+                  "title": "【无损和声伴奏】干净的房间 - 田馥甄  田馥甄干净的房间伴奏",
+                  "play": 87,
+                  "duration": "4:0",
+                  "author": "伴奏君s"
+                },
+                {
+                  "bvid": "BV1Wshb6qERY",
+                  "title": "田馥甄你要去什么地方 能不能把我带到你那干净的房间 好想好想好想你 回来还是那个你",
+                  "play": 68,
+                  "duration": "3:56",
+                  "author": "我们去看晚霞吧"
+                }
+              ]
+            },
+            {
+              "rank": 7,
+              "last_rank": null,
+              "song_name": "烏鴉",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/tw/tc/song/Oo6olAoa32AqZ1gxaj",
+              "artist_url": "https://www.kkbox.com/tw/tc/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/tw/tc/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV14jhf6sEJE",
+                  "title": "【轻快小品歌】田馥甄《乌鸦》全曲试听，陈君豪，葛大为作词作曲。#要去什么地方",
+                  "play": 1014,
+                  "duration": "3:23",
+                  "author": "Hebe馥甄日记_"
+                },
+                {
+                  "bvid": "BV1KPaw6wE8d",
+                  "title": "【无损和声伴奏】乌鸦 - 田馥甄  田馥甄乌鸦伴奏",
+                  "play": 79,
+                  "duration": "3:47",
+                  "author": "伴奏君s"
+                },
+                {
+                  "bvid": "BV1sshb6qE7o",
+                  "title": "【专辑纯享】田馥甄《要去什么地方》全部10首曲目歌词完整版|时隔6年全新专辑",
+                  "play": 29267,
+                  "duration": "36:56",
+                  "author": "唯一音乐馆"
+                }
+              ]
+            },
+            {
+              "rank": 8,
+              "last_rank": null,
+              "song_name": "果",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/tw/tc/song/D-yGCqRGldMimozF06",
+              "artist_url": "https://www.kkbox.com/tw/tc/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/tw/tc/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1sshb6qEHc",
+                  "title": "【𝐇𝐢-𝐑𝐞𝐬无损臻享】田馥甄《果》|吴青峰作词|新专辑收尾曲",
+                  "play": 3857,
+                  "duration": "3:55",
+                  "author": "狡兔音乐"
+                },
+                {
+                  "bvid": "BV1sshb6qE7o",
+                  "title": "【专辑纯享】田馥甄《要去什么地方》全部10首曲目歌词完整版|时隔6年全新专辑",
+                  "play": 29267,
+                  "duration": "36:56",
+                  "author": "唯一音乐馆"
+                },
+                {
+                  "bvid": "BV1tnhb6gEu4",
+                  "title": "田馥甄六专最佳单曲《果》导致加拿大意面缺货",
+                  "play": 6333,
+                  "duration": "3:55",
+                  "author": "WLAN图雅日记"
+                }
+              ]
+            },
+            {
+              "rank": 9,
+              "last_rank": null,
+              "song_name": "靜脈",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/tw/tc/song/Lab7p355zEPThxgZbr",
+              "artist_url": "https://www.kkbox.com/tw/tc/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/tw/tc/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1m5hf6dEyb",
+                  "title": "【很仙的语感/全专最佳】田馥甄《静脉》全曲试听，葛大为作词，杨格作曲。#要去什么地方",
+                  "play": 3916,
+                  "duration": "3:37",
+                  "author": "Hebe馥甄日记_"
+                },
+                {
+                  "bvid": "BV1GTag6cEjz",
+                  "title": "【新专首翻唱】蔡旻佑cover田馥甄《静脉》#要去什么地方",
+                  "play": 1649,
+                  "duration": "2:36",
+                  "author": "Hebe馥甄日记_"
+                },
+                {
+                  "bvid": "BV168hf61EUQ",
+                  "title": "【无损和声伴奏】静脉 - 田馥甄  田馥甄静脉伴奏",
+                  "play": 44,
+                  "duration": "3:54",
+                  "author": "伴奏君s"
+                }
+              ]
+            },
+            {
+              "rank": 10,
+              "last_rank": null,
+              "song_name": "蹉跎",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/tw/tc/song/8pGSkfOb2c2emzjJVW",
+              "artist_url": "https://www.kkbox.com/tw/tc/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/tw/tc/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1CdaP6AETp",
+                  "title": "9.24田馥甄罕见直播。",
+                  "play": 43077,
+                  "duration": "6:10",
+                  "author": "两神人Play中的一环"
+                },
+                {
+                  "bvid": "BV1r8hb6PEfG",
+                  "title": "『田馥甄新专』《要去什么地方》全专音源 | 无损音质",
+                  "play": 27291,
+                  "duration": "36:56",
+                  "author": "者来女全球资讯"
+                },
+                {
+                  "bvid": "BV1gfaA6VEDr",
+                  "title": "没有白等！第一时间一起陪听田馥甄新专《要去什么地方》",
+                  "play": 14985,
+                  "duration": "53:46",
+                  "author": "一个小精宁"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "jp": {
+      "name": "日本",
+      "charts": [
+        {
+          "key": "song_733",
+          "type": "song",
+          "title": "單曲榜·邦楽",
+          "category": "邦楽",
+          "songs": [
+            {
+              "rank": 1,
+              "last_rank": 1,
+              "song_name": "ありふれた世界の果てに (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
+              "artist": "yao",
+              "album": "ありふれた世界の果てに (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
+              "cover": "https://i.kfs.io/album/global/298015820,0v3/fit/500x500.jpg",
+              "release_date": 1788451200,
+              "song_url": "https://www.kkbox.com/jp/tc/song/XZRrlwqZIDECrNlLZB",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/SpSy-tY4Ht6I8bBMXb",
+              "album_url": "https://www.kkbox.com/jp/tc/album/KsG0YEJOdkIB9aDSGM",
+              "genres": [
+                "嘻哈",
+                "搖滾"
+              ],
+              "profile": "日嘻哈搖滾超級組合",
+              "bili": [
+                {
+                  "bvid": "BV1enhq6GETR",
+                  "title": "【中字】YAO - ありふれた世界の果てに(FOR OKINAWA) BEHIND THE SCENES 幕后花絮",
+                  "play": 842,
+                  "duration": "5:17",
+                  "author": "Zuledh"
+                },
+                {
+                  "bvid": "BV1ohtf6PEKV",
+                  "title": "YAO - ありふれた世界の果てに (feat. Awich, CHICO CARLITO, ONE OK ROCK &amp; Paledusk) 音源版",
+                  "play": 4024,
+                  "duration": "3:55",
+                  "author": "Zuledh"
+                },
+                {
+                  "bvid": "BV1TPtw64Erd",
+                  "title": "YAO new song ありふれた世界の果てに",
+                  "play": 1072,
+                  "duration": "4:53",
+                  "author": "干し魚は眠いです"
+                }
+              ]
+            },
+            {
+              "rank": 2,
+              "last_rank": 3,
+              "song_name": "IRIS OUT",
+              "artist": "米津玄師",
+              "album": "IRIS OUT",
+              "cover": "https://i.kfs.io/album/global/284683632,0v3/fit/500x500.jpg",
+              "release_date": 1757865600,
+              "song_url": "https://www.kkbox.com/jp/tc/song/X-rukn0L-uxSg85u8t",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/8oRs6ttmEEYzg2nyTU",
+              "album_url": "https://www.kkbox.com/jp/tc/album/L-w2z01VKwYNoeBb-J",
+              "genres": [
+                "日系流行",
+                "日系搖滾",
+                "電子"
+              ],
+              "profile": "創作型音樂人",
+              "bili": [
+                {
+                  "bvid": "BV1m4qgBNESe",
+                  "title": "【太鼓達人虹色版】IRIS OUT【内录全良】",
+                  "play": 607,
+                  "duration": "1:49",
+                  "author": "零风花見"
+                },
+                {
+                  "bvid": "BV117iTBDE9X",
+                  "title": "【乐队总谱】 IRIS OUT - Chainsaw Man- Theme Song ( Kenshi Yonezu )",
+                  "play": 703,
+                  "duration": "2:36",
+                  "author": "elmakaze"
+                },
+                {
+                  "bvid": "BV1XVCiBaEdU",
+                  "title": "【梅·泠】IRIS OUT/米津玄师【原创编舞】",
+                  "play": 135141,
+                  "duration": "2:34",
+                  "author": "黑糖梅"
+                }
+              ],
+              "audio": "music/song_733-02 IRIS OUT - 米津玄師.mp3"
+            },
+            {
+              "rank": 3,
+              "last_rank": 2,
+              "song_name": "Brand New",
+              "artist": "Mrs. GREEN APPLE",
+              "album": "Brand New",
+              "cover": "https://i.kfs.io/album/global/295577824,0v2/fit/500x500.jpg",
+              "release_date": 1783872000,
+              "song_url": "https://www.kkbox.com/jp/tc/song/Gn0mzcyGJNIVJ-AtYX",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/4naOIR-K2KLL59lD-Q",
+              "album_url": "https://www.kkbox.com/jp/tc/album/1-tP8yfHCvM0eFkfAB",
+              "genres": [
+                "日系搖滾",
+                "日系流行"
+              ],
+              "profile": "日本流行搖滾樂團",
+              "bili": [
+                {
+                  "bvid": "BV1qy4y1k7G2",
+                  "title": "Mrs. GREEN APPLE - インフェルノ（TV动画《炎炎消防队》OP）",
+                  "play": 478887,
+                  "duration": "3:34",
+                  "author": "环球音乐中国"
+                },
+                {
+                  "bvid": "BV1CuNd6GESH",
+                  "title": "【Mrs. GREEN APPLE】Brand New 20260717（『蜘蛛侠：崭新之日』日语版主题曲）",
+                  "play": 12902,
+                  "duration": "3:35",
+                  "author": "不要不急チャンネル"
+                },
+                {
+                  "bvid": "BV1BoNy66ESH",
+                  "title": "【鼓谱】Brand New  -  Mrs. GREEN APPLE　ドラム譜面",
+                  "play": 549,
+                  "duration": "3:32",
+                  "author": "jinzotab"
+                }
+              ],
+              "audio": "music/song_733-03 Brand New - Mrs. GREEN APPLE.mp3"
+            },
+            {
+              "rank": 4,
+              "last_rank": 6,
+              "song_name": "爆裂愛してる",
+              "artist": "M!LK",
+              "album": "爆裂愛してる",
+              "cover": "https://i.kfs.io/album/global/288842832,0v2/fit/500x500.jpg",
+              "release_date": 1770566400,
+              "song_url": "https://www.kkbox.com/jp/tc/song/TZedHQowH5GcMEgRUu",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/HalbtV0Ll3jmo-J6HX",
+              "album_url": "https://www.kkbox.com/jp/tc/album/KtCVpeQdUD8fXZLTSM",
+              "genres": [
+                "偶像團體",
+                "日系流行"
+              ],
+              "profile": "EBiDAN五人男團",
+              "bili": [
+                {
+                  "bvid": "BV1BgZ9BtE8T",
+                  "title": "20260218 【宇宙级爆裂】【4K中日歌词】M!LK - 「爆裂愛してる」(Official Music Video)",
+                  "play": 46730,
+                  "duration": "3:27",
+                  "author": "乐二灰"
+                },
+                {
+                  "bvid": "BV1zowjzKEpr",
+                  "title": "爆裂爱してる——m!lk",
+                  "play": 612,
+                  "duration": "3:22",
+                  "author": "菲宝的肥宝"
+                },
+                {
+                  "bvid": "BV1saeh6HEoX",
+                  "title": "长沙Jpop随舞爆裂愛してる",
+                  "play": 962,
+                  "duration": "3:23",
+                  "author": "YY-两个Y"
+                }
+              ],
+              "audio": "music/song_733-04 爆裂愛してる - M!LK.mp3"
+            },
+            {
+              "rank": 5,
+              "last_rank": 5,
+              "song_name": "Yes! 東京",
+              "artist": "EBiDAN (恵比寿学園男子部)",
+              "album": "Yes! 東京",
+              "cover": "https://i.kfs.io/album/global/294984379,0v2/fit/500x500.jpg",
+              "release_date": 1782921600,
+              "song_url": "https://www.kkbox.com/jp/tc/song/HYAZCdcIzKb7fMwCLl",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/HYfxSB2Ia-MNUQ_Y-y",
+              "album_url": "https://www.kkbox.com/jp/tc/album/9--k1blymwqbJVd9sB",
+              "genres": [
+                "偶像團體",
+                "日系流行"
+              ],
+              "profile": "星塵男子偶像企劃",
+              "bili": [
+                {
+                  "bvid": "BV1kdTL6vEou",
+                  "title": "【中日双语】 EBiDAN（惠比寿学院男子部）全员曲《Yes!东京》 MV /是艾比蛋还是偶像梦幻祭我自有分辨",
+                  "play": 45576,
+                  "duration": "5:30",
+                  "author": "咸鱼婶晴"
+                },
+                {
+                  "bvid": "BV1t8aT6mEY7",
+                  "title": "【虹色侍 ずま】Yes! 東京/EBiDAN",
+                  "play": 72,
+                  "duration": "3:25",
+                  "author": "百合咲奈奈"
+                },
+                {
+                  "bvid": "BV1bsMf6zE9E",
+                  "title": "【修复4K中字】EBiDAN｜「Yes!東京」260718",
+                  "play": 5547,
+                  "duration": "3:43",
+                  "author": "MapleSANA"
+                }
+              ],
+              "audio": "music/song_733-05 Yes! 東京 - EBiDAN (恵比寿学園男子部).mp3"
+            },
+            {
+              "rank": 6,
+              "last_rank": 12,
+              "song_name": "革命道中 - On The Way",
+              "artist": "アイナ・ジ・エンド",
+              "album": "革命道中 - On The Way",
+              "cover": "https://i.kfs.io/album/global/281547257,0v3/fit/500x500.jpg",
+              "release_date": 1751385600,
+              "song_url": "https://www.kkbox.com/jp/tc/song/HXFLeyP4aXJ8bY5QMq",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/XaQLYxZXejH-nUU4bJ",
+              "album_url": "https://www.kkbox.com/jp/tc/album/Sn6dz6-u_eOqOeQyv9",
+              "genres": [
+                "日系流行",
+                "日系搖滾",
+                "抒情"
+              ],
+              "profile": "前BiSH成員歌手",
+              "bili": [
+                {
+                  "bvid": "BV1Poi5BMEFN",
+                  "title": "【カラオケ】革命道中   アイナ・ジ・エンド",
+                  "play": 309,
+                  "duration": "3:24",
+                  "author": "电锯的边缘"
+                },
+                {
+                  "bvid": "BV1pzJkzxE4v",
+                  "title": "翻唱《革命道中》アイナ·ジ·エンド",
+                  "play": 221,
+                  "duration": "3:20",
+                  "author": "藤Fuji1"
+                },
+                {
+                  "bvid": "BV1Y7p7z5EkU",
+                  "title": "【中文版】全网最适配「革命道中」填翻🔥胆大党2 OP（还参了闽南语！？）",
+                  "play": 9871,
+                  "duration": "1:32",
+                  "author": "薄荷Miint"
+                }
+              ]
+            },
+            {
+              "rank": 7,
+              "last_rank": 4,
+              "song_name": "好きすぎて滅！",
+              "artist": "M!LK",
+              "album": "好きすぎて滅！",
+              "cover": "https://i.kfs.io/album/global/285875262,0v3/fit/500x500.jpg",
+              "release_date": 1761494400,
+              "song_url": "https://www.kkbox.com/jp/tc/song/KlRxzTWIBZNAB_lSqm",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/HalbtV0Ll3jmo-J6HX",
+              "album_url": "https://www.kkbox.com/jp/tc/album/KmiskF96mUrTnGgv0B",
+              "genres": [
+                "偶像團體",
+                "日系流行"
+              ],
+              "profile": "EBiDAN五人男團",
+              "bili": [
+                {
+                  "bvid": "BV14XEy6nEVx",
+                  "title": "【4K镜面】M!LK - 好きすぎて滅！分段慢速 调色加亮画放大 画质修复 替音轨 扒舞自用",
+                  "play": 2073,
+                  "duration": "8:30",
+                  "author": "水里的鱼0925"
+                },
+                {
+                  "bvid": "BV1ntKP6wE82",
+                  "title": "【PLAVE】260718 翻唱《好きすぎて滅！(Sukisugite METSU!)》(原唱 : M!LK)",
+                  "play": 189495,
+                  "duration": "7:6",
+                  "author": "冰菠萝棒菠萝_"
+                },
+                {
+                  "bvid": "BV1ieby6fETG",
+                  "title": "【M!LK｜4K】「好きすぎて滅！/爆裂愛してる」うたであえたら",
+                  "play": 9304,
+                  "duration": "3:53",
+                  "author": "你们五个请永远在一起"
+                }
+              ],
+              "audio": "music/song_733-07 好きすぎて滅！ - M!LK.mp3"
+            },
+            {
+              "rank": 8,
+              "last_rank": 24,
+              "song_name": "時空超えてユニバース",
+              "artist": "M!LK",
+              "album": "時空超えてユニバース",
+              "cover": "https://i.kfs.io/album/global/297578522,0v2/fit/500x500.jpg",
+              "release_date": 1788710400,
+              "song_url": "https://www.kkbox.com/jp/tc/song/1_tiqs7k_TKl5k3NnY",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/HalbtV0Ll3jmo-J6HX",
+              "album_url": "https://www.kkbox.com/jp/tc/album/Oo0nXoeIhoFhHuMoWq",
+              "genres": [
+                "偶像團體",
+                "日系流行"
+              ],
+              "profile": "EBiDAN五人男團",
+              "bili": [
+                {
+                  "bvid": "BV15cag6NEoi",
+                  "title": "金秋探宝，中秋节超时空福利解说，中规中矩的一期",
+                  "play": 68,
+                  "duration": "2:34",
+                  "author": "最终时刻超时空"
+                },
+                {
+                  "bvid": "BV1vmbN62Ep4",
+                  "title": "【M！LK】時空超えてユニバース【速扒佐帝位】",
+                  "play": 346,
+                  "duration": "0:30",
+                  "author": "千玖不是1900"
+                },
+                {
+                  "bvid": "BV1huem63E2f",
+                  "title": "【M!LK】時空超えてユニバース",
+                  "play": 7532,
+                  "duration": "3:32",
+                  "author": "三日月ユーリ"
+                }
+              ]
+            },
+            {
+              "rank": 9,
+              "last_rank": 10,
+              "song_name": "ライラック",
+              "artist": "Mrs. GREEN APPLE",
+              "album": "ライラック",
+              "cover": "https://i.kfs.io/album/global/268460495,0v1/fit/500x500.jpg",
+              "release_date": 1712851200,
+              "song_url": "https://www.kkbox.com/jp/tc/song/GlxyoUAZylVNGaitsZ",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/4naOIR-K2KLL59lD-Q",
+              "album_url": "https://www.kkbox.com/jp/tc/album/DZDF0ps_1aDjET16O9",
+              "genres": [
+                "日系搖滾",
+                "日系流行"
+              ],
+              "profile": "日本流行搖滾樂團",
+              "bili": [
+                {
+                  "bvid": "BV1guHAz8EbC",
+                  "title": "【中字】Mrs. GREEN APPLE 音乐纯享合集",
+                  "play": 82199,
+                  "duration": "235:59",
+                  "author": "Mrs小果农"
+                },
+                {
+                  "bvid": "BV1zGQ6YmEo3",
+                  "title": "【Mrs.Green apple】LIVE from “ゼンジン未到とヴェルトラウム〜銘銘編〜”全场",
+                  "play": 170200,
+                  "duration": "144:8",
+                  "author": "一小龍猫一"
+                },
+                {
+                  "bvid": "BV1Xte26uEg4",
+                  "title": "【补】ライラック—Mrs.GREEN APPLE",
+                  "play": 1593,
+                  "duration": "4:52",
+                  "author": "单推轻咖柠檬"
+                }
+              ],
+              "audio": "music/song_733-09 ライラック - Mrs. GREEN APPLE.mp3"
+            },
+            {
+              "rank": 10,
+              "last_rank": 9,
+              "song_name": "灰色",
+              "artist": "大森元貴",
+              "album": "灰色",
+              "cover": "https://i.kfs.io/album/global/297539389,0v2/fit/500x500.jpg",
+              "release_date": 1787673600,
+              "song_url": "https://www.kkbox.com/jp/tc/song/X_wjFmg-xGbE5UFGay",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/8sVt-3lszbMOkFGMgz",
+              "album_url": "https://www.kkbox.com/jp/tc/album/-n34W9AYNWEdYX_o_0",
+              "genres": [
+                "日系流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1dH8d68ETT",
+                  "title": "【中日字幕/新曲】大森元貴「灰色」官方MV（东野圭吾 小说改电影《白鸟与蝙蝠》主题曲）",
+                  "play": 8717,
+                  "duration": "4:27",
+                  "author": "小千代字幕组"
+                },
+                {
+                  "bvid": "BV1kD8d66EEK",
+                  "title": "【大森元貴】「灰色」Official MV",
+                  "play": 1256,
+                  "duration": "4:36",
+                  "author": "不要不急サブチャン"
+                },
+                {
+                  "bvid": "BV1jdtU6TEGC",
+                  "title": "【中字MV】大森元贵-「灰色」(电影《天鹅与蝙蝠》主题曲)",
+                  "play": 2411,
+                  "duration": "4:36",
+                  "author": "Mrs小果农"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "newrelease_733",
+          "type": "newrelease",
+          "title": "新歌榜·邦楽",
+          "category": "邦楽",
+          "songs": [
+            {
+              "rank": 1,
+              "last_rank": 1,
+              "song_name": "ありふれた世界の果てに (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
+              "artist": "yao",
+              "album": "ありふれた世界の果てに (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
+              "cover": "https://i.kfs.io/album/global/298015820,0v3/fit/500x500.jpg",
+              "release_date": 1788451200,
+              "song_url": "https://www.kkbox.com/jp/tc/song/XZRrlwqZIDECrNlLZB",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/SpSy-tY4Ht6I8bBMXb",
+              "album_url": "https://www.kkbox.com/jp/tc/album/KsG0YEJOdkIB9aDSGM",
+              "genres": [
+                "嘻哈",
+                "搖滾"
+              ],
+              "profile": "日嘻哈搖滾超級組合",
+              "bili": [
+                {
+                  "bvid": "BV1enhq6GETR",
+                  "title": "【中字】YAO - ありふれた世界の果てに(FOR OKINAWA) BEHIND THE SCENES 幕后花絮",
+                  "play": 842,
+                  "duration": "5:17",
+                  "author": "Zuledh"
+                },
+                {
+                  "bvid": "BV1ohtf6PEKV",
+                  "title": "YAO - ありふれた世界の果てに (feat. Awich, CHICO CARLITO, ONE OK ROCK &amp; Paledusk) 音源版",
+                  "play": 4024,
+                  "duration": "3:55",
+                  "author": "Zuledh"
+                },
+                {
+                  "bvid": "BV1TPtw64Erd",
+                  "title": "YAO new song ありふれた世界の果てに",
+                  "play": 1072,
+                  "duration": "4:53",
+                  "author": "干し魚は眠いです"
+                }
+              ]
+            },
+            {
+              "rank": 2,
+              "last_rank": 3,
+              "song_name": "時空超えてユニバース",
+              "artist": "M!LK",
+              "album": "時空超えてユニバース",
+              "cover": "https://i.kfs.io/album/global/297578522,0v2/fit/500x500.jpg",
+              "release_date": 1788710400,
+              "song_url": "https://www.kkbox.com/jp/tc/song/1_tiqs7k_TKl5k3NnY",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/HalbtV0Ll3jmo-J6HX",
+              "album_url": "https://www.kkbox.com/jp/tc/album/Oo0nXoeIhoFhHuMoWq",
+              "genres": [
+                "偶像團體",
+                "日系流行"
+              ],
+              "profile": "EBiDAN五人男團",
+              "bili": [
+                {
+                  "bvid": "BV1fnYy6GEyD",
+                  "title": "【4K自制双语字幕】M!LK-時空超えてユニバース(Official Music Video)",
+                  "play": 444,
+                  "duration": "3:39",
+                  "author": "yovishneioko"
+                },
+                {
+                  "bvid": "BV1huem63E2f",
+                  "title": "【M!LK】時空超えてユニバース",
+                  "play": 7532,
+                  "duration": "3:32",
+                  "author": "三日月ユーリ"
+                },
+                {
+                  "bvid": "BV15cag6NEoi",
+                  "title": "金秋探宝，中秋节超时空福利解说，中规中矩的一期",
+                  "play": 68,
+                  "duration": "2:34",
+                  "author": "最终时刻超时空"
+                }
+              ]
+            },
+            {
+              "rank": 3,
+              "last_rank": 2,
+              "song_name": "灰色",
+              "artist": "大森元貴",
+              "album": "灰色",
+              "cover": "https://i.kfs.io/album/global/297539389,0v2/fit/500x500.jpg",
+              "release_date": 1787673600,
+              "song_url": "https://www.kkbox.com/jp/tc/song/X_wjFmg-xGbE5UFGay",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/8sVt-3lszbMOkFGMgz",
+              "album_url": "https://www.kkbox.com/jp/tc/album/-n34W9AYNWEdYX_o_0",
+              "genres": [
+                "日系流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1TPt367EWB",
+                  "title": "【Movie Ver.】大森元贵-灰色【天鹅与蝙蝠】",
+                  "play": 314,
+                  "duration": "4:5",
+                  "author": "xbbostrich"
+                },
+                {
+                  "bvid": "BV1kD8d66EEK",
+                  "title": "【大森元貴】「灰色」Official MV",
+                  "play": 1256,
+                  "duration": "4:36",
+                  "author": "不要不急サブチャン"
+                },
+                {
+                  "bvid": "BV1PbP9etEWE",
+                  "title": "【小果农】大森元贵×宫胁咲良 合作舞台花絮 20250125",
+                  "play": 1661,
+                  "duration": "1:55",
+                  "author": "Mrs小果农"
+                }
+              ]
+            },
+            {
+              "rank": 4,
+              "last_rank": 7,
+              "song_name": "Body & Soul - Badly in Love Remix by TeddyLoid",
+              "artist": "SPEED",
+              "album": "Body & Soul - Badly in Love Remix by TeddyLoid",
+              "cover": "https://i.kfs.io/album/global/296779995,0v1/fit/500x500.jpg",
+              "release_date": 1787673600,
+              "song_url": "https://www.kkbox.com/jp/tc/song/PXborBCL8IwsAYwB1s",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/LZgm43V1w4lbi-q48g",
+              "album_url": "https://www.kkbox.com/jp/tc/album/ClP0yfzRhWIkA06JU7",
+              "genres": [
+                "日系流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV16D4y1w7CY",
+                  "title": "【中日字幕】speed---body&amp;soul",
+                  "play": 561,
+                  "duration": "3:25",
+                  "author": "乔姆斯基的得意大弟子"
+                },
+                {
+                  "bvid": "BV1ho8o6xEW2",
+                  "title": "【含周边介绍】260826 SPEED「Body &amp; Soul」(Badly in Love Remix ) 官方MV",
+                  "play": 411,
+                  "duration": "5:35",
+                  "author": "sarsumy"
+                },
+                {
+                  "bvid": "BV1zdeU6ZEaa",
+                  "title": "Body &amp; Soul - SPEED",
+                  "play": 200,
+                  "duration": "5:45",
+                  "author": "SPEEDLAND"
+                }
+              ]
+            },
+            {
+              "rank": 5,
+              "last_rank": 4,
+              "song_name": "好きでいて",
+              "artist": "Ado",
+              "album": "好きでいて",
+              "cover": "https://i.kfs.io/album/global/298045777,0v2/fit/500x500.jpg",
+              "release_date": 1788710400,
+              "song_url": "https://www.kkbox.com/jp/tc/song/SsBz7qPvDXYxbmvhSz",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/8pAtcVODL2RadSu8CT",
+              "album_url": "https://www.kkbox.com/jp/tc/album/Csrl7ByP0h_Rk-li6y",
+              "genres": [
+                "日系流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1C8bN6FENQ",
+                  "title": "【Ado】好きでいて / Suki de Ite",
+                  "play": 73131,
+                  "duration": "4:7",
+                  "author": "Ado_jp"
+                },
+                {
+                  "bvid": "BV1JZb46JENx",
+                  "title": "【中日歌詞】Ado 新曲《好きでいて》2026.09.07",
+                  "play": 4339,
+                  "duration": "8:12",
+                  "author": "緋_Ake"
+                },
+                {
+                  "bvid": "BV1PGaK63EDE",
+                  "title": "[Hi-Res + 5.1声道] 好きでいて - Ado | DTS/Dolby Atmos杜比环绕全景声试音音频可视化",
+                  "play": 5,
+                  "duration": "4:6",
+                  "author": "dts51_com"
+                }
+              ]
+            },
+            {
+              "rank": 6,
+              "last_rank": 5,
+              "song_name": "WATCH ME feat. BIA",
+              "artist": "BE:FIRST",
+              "album": "WATCH ME",
+              "cover": "https://i.kfs.io/album/global/296489574,0v4/fit/500x500.jpg",
+              "release_date": 1789660800,
+              "song_url": "https://www.kkbox.com/jp/tc/song/5ZbicgOxsZjzsoOdI4",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/XXa9_Ho6vXP53Ojmw3",
+              "album_url": "https://www.kkbox.com/jp/tc/album/Gs0jC7_jG1L3FWdMWG",
+              "genres": [
+                "日系流行",
+                "舞曲",
+                "嘻哈"
+              ],
+              "profile": "BMSG七人男團",
+              "bili": [
+                {
+                  "bvid": "BV1nmhq69Eob",
+                  "title": "BE:FIRST   WATCH ME feat. BIA -Dance Practice-",
+                  "play": 170,
+                  "duration": "2:46",
+                  "author": "mo-nroe"
+                },
+                {
+                  "bvid": "BV1DqoMBEEww",
+                  "title": "&quot;绝美前奏&quot; | You And Me - YaKio/Wehti/BLACKEGG/Trispect",
+                  "play": 1420,
+                  "duration": "3:10",
+                  "author": "寂月LxnarHush"
+                },
+                {
+                  "bvid": "BV1y54y1M7HM",
+                  "title": "BE ME [左耳英文 右耳中文]",
+                  "play": 9383,
+                  "duration": "3:35",
+                  "author": "朝颜花绘"
+                }
+              ]
+            },
+            {
+              "rank": 7,
+              "last_rank": 11,
+              "song_name": "CAGLIOSTRO",
+              "artist": "BE:FIRST",
+              "album": "WATCH ME",
+              "cover": "https://i.kfs.io/album/global/296489574,0v4/fit/500x500.jpg",
+              "release_date": 1789660800,
+              "song_url": "https://www.kkbox.com/jp/tc/song/StGGkBni4xyDLkMwEZ",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/XXa9_Ho6vXP53Ojmw3",
+              "album_url": "https://www.kkbox.com/jp/tc/album/Gs0jC7_jG1L3FWdMWG",
+              "genres": [
+                "日系流行",
+                "舞曲",
+                "嘻哈"
+              ],
+              "profile": "BMSG七人男團",
+              "bili": [
+                {
+                  "bvid": "BV1KCh865E48",
+                  "title": "BE:FIRST | 2026东京人气歌谣",
+                  "play": 905,
+                  "duration": "10:16",
+                  "author": "mo-nroe"
+                },
+                {
+                  "bvid": "BV1KCh865E8e",
+                  "title": "BE.FIRST CUT 260923 2026 INKIGAYO Live in Tokyo - Day 2",
+                  "play": 651,
+                  "duration": "10:17",
+                  "author": "彼岸的PLAYROOM"
+                },
+                {
+                  "bvid": "BV17ATt68Epk",
+                  "title": "〖中字〗夢中 / BE:FIRST",
+                  "play": 221,
+                  "duration": "3:36",
+                  "author": "K2の花火"
+                }
+              ]
+            },
+            {
+              "rank": 8,
+              "last_rank": 6,
+              "song_name": "ONE",
+              "artist": "MAN WITH A MISSION",
+              "album": "ONE",
+              "cover": "https://i.kfs.io/album/global/297342109,0v3/fit/500x500.jpg",
+              "release_date": 1787932800,
+              "song_url": "https://www.kkbox.com/jp/tc/song/5av1LufjyKyO6-FpG9",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/4s4S_odLYqFkAkA4SI",
+              "album_url": "https://www.kkbox.com/jp/tc/album/GoZytSpdzZWl_IOHXF",
+              "genres": [
+                "日系流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV12i4y1W7Vm",
+                  "title": "「重任在肩」Man on a Mission - Oh The Larceny 百万级装备试听【Hi-Res】",
+                  "play": 299570,
+                  "duration": "3:33",
+                  "author": "JLRS日落fm"
+                },
+                {
+                  "bvid": "BV1Gy4C6jEuG",
+                  "title": "【MAN WITH A MISSION/MV】ONE",
+                  "play": 403,
+                  "duration": "4:15",
+                  "author": "默默想要变得Lucky"
+                },
+                {
+                  "bvid": "BV11J4m1M7DE",
+                  "title": "（HI-Res）Man With A Mission – Break And Cross The Walls Tour 2022 -（蓝光）",
+                  "play": 2313,
+                  "duration": "195:12",
+                  "author": "三步一颠"
+                }
+              ]
+            },
+            {
+              "rank": 9,
+              "last_rank": 15,
+              "song_name": "PAPER SCARS",
+              "artist": "BE:FIRST",
+              "album": "WATCH ME",
+              "cover": "https://i.kfs.io/album/global/296489574,0v4/fit/500x500.jpg",
+              "release_date": 1789660800,
+              "song_url": "https://www.kkbox.com/jp/tc/song/OoPRbloa32AqZ_p4WO",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/XXa9_Ho6vXP53Ojmw3",
+              "album_url": "https://www.kkbox.com/jp/tc/album/Gs0jC7_jG1L3FWdMWG",
+              "genres": [
+                "日系流行",
+                "舞曲",
+                "嘻哈"
+              ],
+              "profile": "BMSG七人男團",
+              "bili": [
+                {
+                  "bvid": "BV1zz4y1j7gp",
+                  "title": "Crispy脆乐团 [ 一丝不挂的忧伤 Invisible Scars ] Lyrics Video",
+                  "play": 1349,
+                  "duration": "3:41",
+                  "author": "big大蓝"
+                },
+                {
+                  "bvid": "BV1Xcee6uEdy",
+                  "title": "［飯拍］BE:FIRST PAPER SCARS",
+                  "play": 35,
+                  "duration": "3:21",
+                  "author": "shirlchua_"
+                },
+                {
+                  "bvid": "BV1BTRnYcE3j",
+                  "title": "【官方MV】丹麦流行王子Christopher - Permanent Scars",
+                  "play": 1684,
+                  "duration": "3:50",
+                  "author": "华纳音乐国际"
+                }
+              ]
+            },
+            {
+              "rank": 10,
+              "last_rank": 8,
+              "song_name": "運命さがし",
+              "artist": "マカロニえんぴつ",
+              "album": "運命さがし EP",
+              "cover": "https://i.kfs.io/album/global/297232935,0v4/fit/500x500.jpg",
+              "release_date": 1789488000,
+              "song_url": "https://www.kkbox.com/jp/tc/song/Om3HIDL9TsIBcCSfFd",
+              "artist_url": "https://www.kkbox.com/jp/tc/artist/0kJCuSrRCS2AoMih72",
+              "album_url": "https://www.kkbox.com/jp/tc/album/KokxBDsa1IXU981_Bo",
+              "genres": [
+                "日系流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1byrsB9EEu",
+                  "title": "OKKAKE / [マカロニえんぴつ]",
+                  "play": 308,
+                  "duration": "3:18",
+                  "author": "NEIRO_akane"
+                },
+                {
+                  "bvid": "BV1u2421T7we",
+                  "title": "【Live】マカロニえんぴつ「月へ行こう」",
+                  "play": 1190,
+                  "duration": "3:54",
+                  "author": "Tifosi16"
+                },
+                {
+                  "bvid": "BV1Jp576HEu8",
+                  "title": "マカロニえんぴつ「ワンドリンク別」ライブ映像",
+                  "play": 106,
+                  "duration": "2:4",
+                  "author": "VanillaaL"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "sg": {
+      "name": "新加坡",
+      "charts": [
+        {
+          "key": "song_297",
+          "type": "song",
+          "title": "單曲榜·Mandarin",
+          "category": "Mandarin",
+          "songs": [
+            {
+              "rank": 1,
+              "last_rank": 1,
+              "song_name": "甲乙丙丁Strangers - 你我怎么两清",
+              "artist": "李佳薇 (Jess Lee)",
+              "album": "甲乙丙丁Strangers",
+              "cover": "https://i.kfs.io/album/global/295320632,0v2/fit/500x500.jpg",
+              "release_date": 1783440000,
+              "song_url": "https://www.kkbox.com/sg/en/song/GptIJ2y--IKc1ewMvC",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/Sr05tTDYLFcrm7ZrG5",
+              "album_url": "https://www.kkbox.com/sg/en/album/9Y2ZAXwXpTG8JCn0J5",
+              "genres": [
+                "華語流行",
+                "抒情"
+              ],
+              "profile": "马来西亚华语流行女歌手",
+              "bili": [
+                {
+                  "bvid": "BV1VctP6TEE2",
+                  "title": "【贝斯附谱】李佳薇 - 甲乙丙丁 (Bass Cover)",
+                  "play": 681,
+                  "duration": "2:17",
+                  "author": "Excy_Sun"
+                },
+                {
+                  "bvid": "BV1Srte6nEon",
+                  "title": "甲乙丙丁（粤语）-吴业坤演唱 辣笔小欣填词",
+                  "play": 5654,
+                  "duration": "0:36",
+                  "author": "啊蛙啊蛙-"
+                },
+                {
+                  "bvid": "BV1xGGN69EKn",
+                  "title": "甲乙丙丁 (你我怎么两清)【李佳薇】动态鼓谱",
+                  "play": 22993,
+                  "duration": "3:31",
+                  "author": "看哦爱随风原创鼓谱"
+                }
+              ],
+              "audio": "music/song_297-01 甲乙丙丁Strangers - 李佳薇 (Jess Lee).mp3"
+            },
+            {
+              "rank": 2,
+              "last_rank": 56,
+              "song_name": "甲乙丙丁 (你我怎麼兩清) - Live",
+              "artist": "天賜的聲音",
+              "album": "天賜的聲音第七季 第11期",
+              "cover": "https://i.kfs.io/album/sg/297790258,0v1/fit/500x500.jpg",
+              "release_date": 1787241600,
+              "song_url": "https://www.kkbox.com/sg/en/song/0pxSrvclMinpWDhA_n",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/8tOmmdp3ItW_jYVQsd",
+              "album_url": "https://www.kkbox.com/sg/en/album/KsZfF4JOdkIB_bbc8s",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1ciTZ6JEc5",
+                  "title": "【𝐇𝐢-𝐑𝐞𝐬无损音质】｜《甲乙丙丁 (你我怎么两清)》- 李佳薇-‘若我落下泪滴 能否换来 一点同情’",
+                  "play": 2268780,
+                  "duration": "3:31",
+                  "author": "VV音乐局"
+                },
+                {
+                  "bvid": "BV1xGGN69EKn",
+                  "title": "甲乙丙丁 (你我怎么两清)【李佳薇】动态鼓谱",
+                  "play": 22993,
+                  "duration": "3:31",
+                  "author": "看哦爱随风原创鼓谱"
+                },
+                {
+                  "bvid": "BV1frgv6tENd",
+                  "title": "循环歌单|   “你我 怎么两清 怎么忍心 怎么做回甲乙丙丁”｜《甲乙丙丁》",
+                  "play": 354773,
+                  "duration": "42:6",
+                  "author": "猫猫次方-"
+                }
+              ]
+            },
+            {
+              "rank": 3,
+              "last_rank": null,
+              "song_name": "要去什麼地方",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/sg/en/song/4sLwx95jOGRFjAQ2iv",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/sg/en/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1r8hb6PEfG",
+                  "title": "『田馥甄新专』《要去什么地方》全专音源 | 无损音质",
+                  "play": 27291,
+                  "duration": "36:56",
+                  "author": "者来女全球资讯"
+                },
+                {
+                  "bvid": "BV1sshb6qE7o",
+                  "title": "【专辑纯享】田馥甄《要去什么地方》全部10首曲目歌词完整版|时隔6年全新专辑",
+                  "play": 29267,
+                  "duration": "36:56",
+                  "author": "唯一音乐馆"
+                },
+                {
+                  "bvid": "BV1xshb6qEBL",
+                  "title": "【姐在怀念谁？】田馥甄《干净的房间》全曲试听，苏研之作词，宋世尧作曲。#要去什么地方",
+                  "play": 1619,
+                  "duration": "3:47",
+                  "author": "Hebe馥甄日记_"
+                }
+              ]
+            },
+            {
+              "rank": 4,
+              "last_rank": null,
+              "song_name": "值得紀念的垃圾",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/sg/en/song/1ZD3Y2v8mUN-62O288",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/sg/en/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1VSac66EAK",
+                  "title": "锐评田馥甄新专辑《要去什么地方》看得出来不是很在意市场了。",
+                  "play": 13448,
+                  "duration": "2:22",
+                  "author": "Z时代的天后"
+                },
+                {
+                  "bvid": "BV1TLag6RE9G",
+                  "title": "【暗中观察】给田馥甄新专豆瓣打一星的人是什么群体，还讨厌哪些女歌手？#要去什么地方#蔡依林张韶涵王心凌",
+                  "play": 2124,
+                  "duration": "1:8",
+                  "author": "Hebe馥甄日记_"
+                },
+                {
+                  "bvid": "BV1m5hf6dEyb",
+                  "title": "【很仙的语感/全专最佳】田馥甄《静脉》全曲试听，葛大为作词，杨格作曲。#要去什么地方",
+                  "play": 3919,
+                  "duration": "3:37",
+                  "author": "Hebe馥甄日记_"
+                }
+              ]
+            },
+            {
+              "rank": 5,
+              "last_rank": null,
+              "song_name": "大船",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/sg/en/song/SntEuq782cLmwLW9Kc",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/sg/en/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1s4hb6KEkH",
+                  "title": "【轻摇滚风】田馥甄《大船》全曲试听，杨世暄作词作曲。#要去什么地方",
+                  "play": 1917,
+                  "duration": "2:35",
+                  "author": "Hebe馥甄日记_"
+                },
+                {
+                  "bvid": "BV1RuaN6WEHA",
+                  "title": "9月24日 田馥甄 《要去什么地方》 全长专辑",
+                  "play": 1322,
+                  "duration": "36:58",
+                  "author": "理性阿光"
+                },
+                {
+                  "bvid": "BV1sshb6qE7o",
+                  "title": "【专辑纯享】田馥甄《要去什么地方》全部10首曲目歌词完整版|时隔6年全新专辑",
+                  "play": 29267,
+                  "duration": "36:56",
+                  "author": "唯一音乐馆"
+                }
+              ]
+            },
+            {
+              "rank": 6,
+              "last_rank": null,
+              "song_name": "果",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/sg/en/song/D-yGCqRGldMimozF06",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/sg/en/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1sshb6qEHc",
+                  "title": "【𝐇𝐢-𝐑𝐞𝐬无损臻享】田馥甄《果》|吴青峰作词|新专辑收尾曲",
+                  "play": 3857,
+                  "duration": "3:55",
+                  "author": "狡兔音乐"
+                },
+                {
+                  "bvid": "BV1sshb6qE7o",
+                  "title": "【专辑纯享】田馥甄《要去什么地方》全部10首曲目歌词完整版|时隔6年全新专辑",
+                  "play": 29267,
+                  "duration": "36:56",
+                  "author": "唯一音乐馆"
+                },
+                {
+                  "bvid": "BV1tnhb6gEu4",
+                  "title": "田馥甄六专最佳单曲《果》导致加拿大意面缺货",
+                  "play": 6334,
+                  "duration": "3:55",
+                  "author": "WLAN图雅日记"
+                }
+              ]
+            },
+            {
+              "rank": 7,
+              "last_rank": null,
+              "song_name": "雲",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/sg/en/song/0pcTEYclMinpVtVw8i",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/sg/en/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1CdaP6AETp",
+                  "title": "9.24田馥甄罕见直播。",
+                  "play": 43104,
+                  "duration": "6:10",
+                  "author": "两神人Play中的一环"
+                },
+                {
+                  "bvid": "BV1r8hb6PEfG",
+                  "title": "『田馥甄新专』《要去什么地方》全专音源 | 无损音质",
+                  "play": 27298,
+                  "duration": "36:56",
+                  "author": "者来女全球资讯"
+                },
+                {
+                  "bvid": "BV1gfaA6VEDr",
+                  "title": "没有白等！第一时间一起陪听田馥甄新专《要去什么地方》",
+                  "play": 14994,
+                  "duration": "53:46",
+                  "author": "一个小精宁"
+                }
+              ]
+            },
+            {
+              "rank": 8,
+              "last_rank": 4,
+              "song_name": "海嶼你",
+              "artist": "马也Crabbit, Cole先生",
+              "album": "海嶼你",
+              "cover": "https://i.kfs.io/album/global/223493591,0v1/fit/500x500.jpg",
+              "release_date": 1660924800,
+              "song_url": "https://www.kkbox.com/sg/en/song/9XjRo9xi3wYrBpOzqC",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/8t3CAdpnItW_gz8DsB",
+              "album_url": "https://www.kkbox.com/sg/en/album/Kr8u0Tx0QPhDA_o7ga",
+              "genres": [
+                "華語流行",
+                "抒情"
+              ],
+              "profile": "中國流行歌手",
+              "bili": [
+                {
+                  "bvid": "BV1Hz6MBFEvB",
+                  "title": "马也_Crabbit Fanko冯思源 - 海屿你2.0『2.0哈哈，期待3.0』",
+                  "play": 5098,
+                  "duration": "2:59",
+                  "author": "音乐晚听"
+                },
+                {
+                  "bvid": "BV14nrkBPEBE",
+                  "title": "【𝐇𝐢-𝐑𝐞𝐬无损音质】｜《海屿你》- 马_Crabbit -‘即便是青春的懵懂 但是我们渐行渐远’",
+                  "play": 6525356,
+                  "duration": "4:56",
+                  "author": "VV音乐局"
+                },
+                {
+                  "bvid": "BV1T6vwz4E1s",
+                  "title": "马也_Crabbit xxxmiracle Cole先生 - 再会 高音质 和声伴奏",
+                  "play": 84,
+                  "duration": "3:47",
+                  "author": "至臻音乐伴奏"
+                }
+              ],
+              "audio": "music/song_297-08 海嶼你 - 马也Crabbit, Cole先生.mp3"
+            },
+            {
+              "rank": 9,
+              "last_rank": null,
+              "song_name": "乾淨的房間",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/sg/en/song/CsmULVm93ZiY1Dkq1U",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/sg/en/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1xshb6qEBL",
+                  "title": "【姐在怀念谁？】田馥甄《干净的房间》全曲试听，苏研之作词，宋世尧作曲。#要去什么地方",
+                  "play": 1619,
+                  "duration": "3:47",
+                  "author": "Hebe馥甄日记_"
+                },
+                {
+                  "bvid": "BV1Wphf6nESg",
+                  "title": "【无损和声伴奏】干净的房间 - 田馥甄  田馥甄干净的房间伴奏",
+                  "play": 87,
+                  "duration": "4:0",
+                  "author": "伴奏君s"
+                },
+                {
+                  "bvid": "BV1Wshb6qERY",
+                  "title": "田馥甄你要去什么地方 能不能把我带到你那干净的房间 好想好想好想你 回来还是那个你",
+                  "play": 68,
+                  "duration": "3:56",
+                  "author": "我们去看晚霞吧"
+                }
+              ]
+            },
+            {
+              "rank": 10,
+              "last_rank": null,
+              "song_name": "烏鴉",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/sg/en/song/Oo6olAoa32AqZ1gxaj",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/sg/en/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV14jhf6sEJE",
+                  "title": "【轻快小品歌】田馥甄《乌鸦》全曲试听，陈君豪，葛大为作词作曲。#要去什么地方",
+                  "play": 1015,
+                  "duration": "3:23",
+                  "author": "Hebe馥甄日记_"
+                },
+                {
+                  "bvid": "BV1sshb6qE7o",
+                  "title": "【专辑纯享】田馥甄《要去什么地方》全部10首曲目歌词完整版|时隔6年全新专辑",
+                  "play": 29267,
+                  "duration": "36:56",
+                  "author": "唯一音乐馆"
+                },
+                {
+                  "bvid": "BV1vFhf6KECx",
+                  "title": "田馥甄新歌藏着晴天demo的旋律？",
+                  "play": 27583,
+                  "duration": "0:51",
+                  "author": "-_-鱼条"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "newrelease_297",
+          "type": "newrelease",
+          "title": "新歌榜·Mandarin",
+          "category": "Mandarin",
+          "songs": [
+            {
+              "rank": 1,
+              "last_rank": null,
+              "song_name": "要去什麼地方",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/sg/en/song/4sLwx95jOGRFjAQ2iv",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/sg/en/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1r8hb6PEfG",
+                  "title": "『田馥甄新专』《要去什么地方》全专音源 | 无损音质",
+                  "play": 27298,
+                  "duration": "36:56",
+                  "author": "者来女全球资讯"
+                },
+                {
+                  "bvid": "BV1RuaN6WEHA",
+                  "title": "9月24日 田馥甄 《要去什么地方》 全长专辑",
+                  "play": 1322,
+                  "duration": "36:58",
+                  "author": "理性阿光"
+                },
+                {
+                  "bvid": "BV1sshb6qE7o",
+                  "title": "【专辑纯享】田馥甄《要去什么地方》全部10首曲目歌词完整版|时隔6年全新专辑",
+                  "play": 29275,
+                  "duration": "36:56",
+                  "author": "唯一音乐馆"
+                }
+              ]
+            },
+            {
+              "rank": 2,
+              "last_rank": null,
+              "song_name": "值得紀念的垃圾",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/sg/en/song/1ZD3Y2v8mUN-62O288",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/sg/en/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1A3BfBeEa7",
+                  "title": "娱乐圈的BE天花板，爆肝万字全网最细 33分钟解析周杰伦与田馥甄横跨20年不能说的秘密！",
+                  "play": 3895372,
+                  "duration": "32:58",
+                  "author": "给我一首歌的时间time"
+                },
+                {
+                  "bvid": "BV1EKZMBeEv9",
+                  "title": "JH越锤越实越扒越有，原来在周杰伦和田馥甄的作品中还藏着这么多细节和彩蛋！难怪说是&quot;圈内公开的秘密&quot;",
+                  "play": 4072210,
+                  "duration": "36:24",
+                  "author": "给我一首歌的时间time"
+                },
+                {
+                  "bvid": "BV1hXh76UEhJ",
+                  "title": "【2009.12.14】考古周杰伦抱怨自己是摇钱树，田馥甄力挺回应",
+                  "play": 2496,
+                  "duration": "0:34",
+                  "author": "hebe龙之子"
+                }
+              ]
+            },
+            {
+              "rank": 3,
+              "last_rank": null,
+              "song_name": "大船",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/sg/en/song/SntEuq782cLmwLW9Kc",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/sg/en/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1s4hb6KEkH",
+                  "title": "【轻摇滚风】田馥甄《大船》全曲试听，杨世暄作词作曲。#要去什么地方",
+                  "play": 1917,
+                  "duration": "2:35",
+                  "author": "Hebe馥甄日记_"
+                },
+                {
+                  "bvid": "BV1RuaN6WEHA",
+                  "title": "9月24日 田馥甄 《要去什么地方》 全长专辑",
+                  "play": 1322,
+                  "duration": "36:58",
+                  "author": "理性阿光"
+                },
+                {
+                  "bvid": "BV1sshb6qE7o",
+                  "title": "【专辑纯享】田馥甄《要去什么地方》全部10首曲目歌词完整版|时隔6年全新专辑",
+                  "play": 29275,
+                  "duration": "36:56",
+                  "author": "唯一音乐馆"
+                }
+              ]
+            },
+            {
+              "rank": 4,
+              "last_rank": null,
+              "song_name": "果",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/sg/en/song/D-yGCqRGldMimozF06",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/sg/en/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1sshb6qEHc",
+                  "title": "【𝐇𝐢-𝐑𝐞𝐬无损臻享】田馥甄《果》|吴青峰作词|新专辑收尾曲",
+                  "play": 3860,
+                  "duration": "3:55",
+                  "author": "狡兔音乐"
+                },
+                {
+                  "bvid": "BV1sshb6qE7o",
+                  "title": "【专辑纯享】田馥甄《要去什么地方》全部10首曲目歌词完整版|时隔6年全新专辑",
+                  "play": 29275,
+                  "duration": "36:56",
+                  "author": "唯一音乐馆"
+                },
+                {
+                  "bvid": "BV1tnhb6gEu4",
+                  "title": "田馥甄六专最佳单曲《果》导致加拿大意面缺货",
+                  "play": 6334,
+                  "duration": "3:55",
+                  "author": "WLAN图雅日记"
+                }
+              ]
+            },
+            {
+              "rank": 5,
+              "last_rank": null,
+              "song_name": "雲",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/sg/en/song/0pcTEYclMinpVtVw8i",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/sg/en/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV14Hhb6zE4P",
+                  "title": "【有时淡 有时浓】田馥甄《云》全曲试听，邹序作词作曲。#要去什么地方",
+                  "play": 858,
+                  "duration": "3:12",
+                  "author": "Hebe馥甄日记_"
+                },
+                {
+                  "bvid": "BV1PJ411U72D",
+                  "title": "田馥甄Hebe《旧梦》我超级喜欢这首歌",
+                  "play": 13479,
+                  "duration": "2:21",
+                  "author": "琅琊酒剑仙"
+                },
+                {
+                  "bvid": "BV1WWhf6SEVW",
+                  "title": "【无损和声伴奏】云 - 田馥甄  田馥甄云伴奏",
+                  "play": 11,
+                  "duration": "3:25",
+                  "author": "伴奏君s"
+                }
+              ]
+            },
+            {
+              "rank": 6,
+              "last_rank": null,
+              "song_name": "乾淨的房間",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/sg/en/song/CsmULVm93ZiY1Dkq1U",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/sg/en/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1xshb6qEBL",
+                  "title": "【姐在怀念谁？】田馥甄《干净的房间》全曲试听，苏研之作词，宋世尧作曲。#要去什么地方",
+                  "play": 1619,
+                  "duration": "3:47",
+                  "author": "Hebe馥甄日记_"
+                },
+                {
+                  "bvid": "BV1Wphf6nESg",
+                  "title": "【无损和声伴奏】干净的房间 - 田馥甄  田馥甄干净的房间伴奏",
+                  "play": 87,
+                  "duration": "4:0",
+                  "author": "伴奏君s"
+                },
+                {
+                  "bvid": "BV1Wshb6qERY",
+                  "title": "田馥甄你要去什么地方 能不能把我带到你那干净的房间 好想好想好想你 回来还是那个你",
+                  "play": 68,
+                  "duration": "3:56",
+                  "author": "我们去看晚霞吧"
+                }
+              ]
+            },
+            {
+              "rank": 7,
+              "last_rank": null,
+              "song_name": "烏鴉",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/sg/en/song/Oo6olAoa32AqZ1gxaj",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/sg/en/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV14jhf6sEJE",
+                  "title": "【轻快小品歌】田馥甄《乌鸦》全曲试听，陈君豪，葛大为作词作曲。#要去什么地方",
+                  "play": 1015,
+                  "duration": "3:23",
+                  "author": "Hebe馥甄日记_"
+                },
+                {
+                  "bvid": "BV1sshb6qE7o",
+                  "title": "【专辑纯享】田馥甄《要去什么地方》全部10首曲目歌词完整版|时隔6年全新专辑",
+                  "play": 29275,
+                  "duration": "36:56",
+                  "author": "唯一音乐馆"
+                },
+                {
+                  "bvid": "BV1KPaw6wE8d",
+                  "title": "【无损和声伴奏】乌鸦 - 田馥甄  田馥甄乌鸦伴奏",
+                  "play": 79,
+                  "duration": "3:47",
+                  "author": "伴奏君s"
+                }
+              ]
+            },
+            {
+              "rank": 8,
+              "last_rank": 2,
+              "song_name": "笨蛋",
+              "artist": "汪苏泷 (Silence Wang)",
+              "album": "笨蛋",
+              "cover": "https://i.kfs.io/album/global/298355302,0v1/fit/500x500.jpg",
+              "release_date": 1788883200,
+              "song_url": "https://www.kkbox.com/sg/en/song/0mPjskR8-zGvNXdbtX",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/StHZ948RxUXeR4lox6",
+              "album_url": "https://www.kkbox.com/sg/en/album/5_dyVoxKO3eqIbBgdW",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1aJYs6GEFh",
+                  "title": "汪苏泷 x 五月天 阿信 特别合作单曲《笨蛋》上线",
+                  "play": 174626,
+                  "duration": "4:7",
+                  "author": "汪苏泷"
+                },
+                {
+                  "bvid": "BV1uxYs6ME57",
+                  "title": "【𝐇𝐢-𝐑𝐞𝐬无损臻享】汪苏泷&amp;五月天阿信《笨蛋》|全新合作单曲",
+                  "play": 4114,
+                  "duration": "4:11",
+                  "author": "狡兔音乐"
+                },
+                {
+                  "bvid": "BV18mea6FEmP",
+                  "title": "笨蛋-阿信&amp;汪苏泷｜笨蛋是你我 笑得多热烈｜尤克里里弹唱",
+                  "play": 531,
+                  "duration": "1:1",
+                  "author": "砂糖在吃一颗苹果"
+                }
+              ]
+            },
+            {
+              "rank": 9,
+              "last_rank": null,
+              "song_name": "坍塌",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/sg/en/song/__Y65bzJVATFekpRDj",
+              "artist_url": "https://www.kkbox.com/sg/en/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/sg/en/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1b3hf6ZEqM",
+                  "title": "【无所谓喜悲】田馥甄《坍塌》全曲试听，郑敬儒作词作曲。#要去什么地方",
+                  "play": 679,
+                  "duration": "3:32",
+                  "author": "Hebe馥甄日记_"
+                },
+                {
+                  "bvid": "BV1CdaP6AETp",
+                  "title": "9.24田馥甄罕见直播。",
+                  "play": 43104,
+                  "duration": "6:10",
+                  "author": "两神人Play中的一环"
+                },
+                {
+                  "bvid": "BV1s4hb6KEkH",
+                  "title": "【轻摇滚风】田馥甄《大船》全曲试听，杨世暄作词作曲。#要去什么地方",
+                  "play": 1917,
+                  "duration": "2:35",
+                  "author": "Hebe馥甄日记_"
+                }
+              ]
+            },
+            {
+              "rank": 10,
+              "last_rank": 3,
+              "song_name": "路過晴朗（《早春晴朗》電視劇主題曲）",
+              "artist": "Various Artists",
+              "album": "早春晴朗 影視原聲帶",
+              "cover": "https://i.kfs.io/album/sg/298216296,0v1/fit/500x500.jpg",
+              "release_date": 1788192000,
+              "song_url": "https://www.kkbox.com/sg/en/song/PXZ9EJCL8IwsA0QK19",
+              "artist_url": "#",
+              "album_url": "https://www.kkbox.com/sg/en/album/-o5uPyxc2jy1xvk-X9",
+              "genres": [
+                "合輯"
+              ],
+              "profile": "群星合輯",
+              "bili": [
+                {
+                  "bvid": "BV1PMh86ME93",
+                  "title": "电视剧《早春晴朗》拉扯曲《落空》MV上线",
+                  "play": 199,
+                  "duration": "3:20",
+                  "author": "冰天雪地happy"
+                },
+                {
+                  "bvid": "BV1p18Y61EZS",
+                  "title": "【1080P】汪苏泷《路过晴朗》官方MV（电视剧《早春晴朗》主题曲）",
+                  "play": 31492,
+                  "duration": "2:22",
+                  "author": "华语新歌MV"
+                },
+                {
+                  "bvid": "BV1KdbG6sEe6",
+                  "title": "You Should Know《早春晴朗》氛圍曲 The Early Spring OST",
+                  "play": 8604,
+                  "duration": "3:44",
+                  "author": "我是熊来你是猫"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "hk": {
+      "name": "香港",
+      "charts": [
+        {
+          "key": "newrelease_297",
+          "type": "newrelease",
+          "title": "新歌榜·華語",
+          "category": "華語",
+          "songs": [
+            {
+              "rank": 1,
+              "last_rank": 1,
+              "song_name": "半糖去冰",
+              "artist": "Tr33",
+              "album": "半糖去冰",
+              "cover": "https://i.kfs.io/album/global/297476339,0v3/fit/500x500.jpg",
+              "release_date": 1787673600,
+              "song_url": "https://www.kkbox.com/hk/tc/song/1_OVeo7k_TKl57_5YM",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/KoDxQE8hAz3Akqoju1",
+              "album_url": "https://www.kkbox.com/hk/tc/album/4lCbtKVh6lesePaSqt",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1Jchc6EE9D",
+                  "title": "Tr33 &amp; Edan 呂爵安 - 半糖去冰",
+                  "play": 116,
+                  "duration": "3:59",
+                  "author": "Mak21"
+                },
+                {
+                  "bvid": "BV1f5b46UE46",
+                  "title": "[自制KTV] Tr33 &amp; Edan 吕爵安 - 半糖去冰",
+                  "play": 110,
+                  "duration": "7:58",
+                  "author": "魚蛋小將"
+                },
+                {
+                  "bvid": "BV1n6SHYfEFf",
+                  "title": "GooChan, Tr33, Fylo - Say No 2024",
+                  "play": 8369,
+                  "duration": "3:56",
+                  "author": "港乐新歌"
+                }
+              ],
+              "audio": "music/newrelease_297-01 半糖去冰 - Tr33.mp3"
+            },
+            {
+              "rank": 2,
+              "last_rank": 2,
+              "song_name": "她（《早春晴朗》電視劇欒念人物曲&片頭曲）",
+              "artist": "Various Artists",
+              "album": "早春晴朗 影視原聲帶",
+              "cover": "https://i.kfs.io/album/hk/298216296,0v1/fit/500x500.jpg",
+              "release_date": 1788192000,
+              "song_url": "https://www.kkbox.com/hk/tc/song/Ks8gDrl3fpSTTDFqi5",
+              "artist_url": "#",
+              "album_url": "https://www.kkbox.com/hk/tc/album/-o5uPyxc2jy1xvk-X9",
+              "genres": [
+                "合輯"
+              ],
+              "profile": "群星合輯",
+              "bili": [
+                {
+                  "bvid": "BV19beq6mEut",
+                  "title": "【Hi-Res无损音质】《她》- 刘宇宁 早春晴朗插曲OST 百万豪装录音棚试听",
+                  "play": 18728,
+                  "duration": "3:38",
+                  "author": "蒸汽和弦"
+                },
+                {
+                  "bvid": "BV19hej6RE59",
+                  "title": "刘宇宁 《她》电视剧『早春晴朗』「栾念人物曲」及片头曲 【神还原】扒谱 钢琴 独奏 琴谱",
+                  "play": 627,
+                  "duration": "4:3",
+                  "author": "Lionrock扒谱王子"
+                },
+                {
+                  "bvid": "BV1uBeq6rECE",
+                  "title": "她 - 刘宇宁",
+                  "play": 8044,
+                  "duration": "3:41",
+                  "author": "Galaxy你好"
+                }
+              ]
+            },
+            {
+              "rank": 3,
+              "last_rank": null,
+              "song_name": "大船",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/hk/tc/song/SntEuq782cLmwLW9Kc",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/hk/tc/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1s4hb6KEkH",
+                  "title": "【轻摇滚风】田馥甄《大船》全曲试听，杨世暄作词作曲。#要去什么地方",
+                  "play": 1917,
+                  "duration": "2:35",
+                  "author": "Hebe馥甄日记_"
+                },
+                {
+                  "bvid": "BV1n8hf61EMP",
+                  "title": "[高解析度无损] 全曲试听 &amp; 歌词预览 「大船」 - 田馥甄 - 要去什么地方",
+                  "play": 431,
+                  "duration": "3:13",
+                  "author": "沉默的人1412"
+                },
+                {
+                  "bvid": "BV1RuaN6WEHA",
+                  "title": "9月24日 田馥甄 《要去什么地方》 全长专辑",
+                  "play": 1322,
+                  "duration": "36:58",
+                  "author": "理性阿光"
+                }
+              ]
+            },
+            {
+              "rank": 4,
+              "last_rank": null,
+              "song_name": "要去什麼地方",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/hk/tc/song/4sLwx95jOGRFjAQ2iv",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/hk/tc/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1r8hb6PEfG",
+                  "title": "『田馥甄新专』《要去什么地方》全专音源 | 无损音质",
+                  "play": 27298,
+                  "duration": "36:56",
+                  "author": "者来女全球资讯"
+                },
+                {
+                  "bvid": "BV1sshb6qE7o",
+                  "title": "【专辑纯享】田馥甄《要去什么地方》全部10首曲目歌词完整版|时隔6年全新专辑",
+                  "play": 29275,
+                  "duration": "36:56",
+                  "author": "唯一音乐馆"
+                },
+                {
+                  "bvid": "BV1gfaA6VEDr",
+                  "title": "没有白等！第一时间一起陪听田馥甄新专《要去什么地方》",
+                  "play": 15009,
+                  "duration": "53:46",
+                  "author": "一个小精宁"
+                }
+              ]
+            },
+            {
+              "rank": 5,
+              "last_rank": 3,
+              "song_name": "路過晴朗（《早春晴朗》電視劇主題曲）",
+              "artist": "Various Artists",
+              "album": "早春晴朗 影視原聲帶",
+              "cover": "https://i.kfs.io/album/hk/298216296,0v1/fit/500x500.jpg",
+              "release_date": 1788192000,
+              "song_url": "https://www.kkbox.com/hk/tc/song/PXZ9EJCL8IwsA0QK19",
+              "artist_url": "#",
+              "album_url": "https://www.kkbox.com/hk/tc/album/-o5uPyxc2jy1xvk-X9",
+              "genres": [
+                "合輯"
+              ],
+              "profile": "群星合輯",
+              "bili": [
+                {
+                  "bvid": "BV17Chb6sEw6",
+                  "title": "【早春  ||  reaction   01 】我来看啦！",
+                  "play": 2389,
+                  "duration": "52:18",
+                  "author": "吃烤包子吗"
+                },
+                {
+                  "bvid": "BV1WGez6TETn",
+                  "title": "【中字】帽子哥【早春晴///】01Reaction",
+                  "play": 9602,
+                  "duration": "46:32",
+                  "author": "碧海的蓝"
+                },
+                {
+                  "bvid": "BV1kFtU6yEvL",
+                  "title": "【早春晴朗】井柏然×孙千×酷陪看（上）完整版：磕到了！一念难桃合体看名场面",
+                  "play": 96637,
+                  "duration": "40:53",
+                  "author": "陽羊yuong"
+                }
+              ]
+            },
+            {
+              "rank": 6,
+              "last_rank": null,
+              "song_name": "值得紀念的垃圾",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/hk/tc/song/1ZD3Y2v8mUN-62O288",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/hk/tc/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1A3BfBeEa7",
+                  "title": "娱乐圈的BE天花板，爆肝万字全网最细 33分钟解析周杰伦与田馥甄横跨20年不能说的秘密！",
+                  "play": 3895372,
+                  "duration": "32:58",
+                  "author": "给我一首歌的时间time"
+                },
+                {
+                  "bvid": "BV1EKZMBeEv9",
+                  "title": "JH越锤越实越扒越有，原来在周杰伦和田馥甄的作品中还藏着这么多细节和彩蛋！难怪说是&quot;圈内公开的秘密&quot;",
+                  "play": 4072210,
+                  "duration": "36:24",
+                  "author": "给我一首歌的时间time"
+                },
+                {
+                  "bvid": "BV1hXh76UEhJ",
+                  "title": "【2009.12.14】考古周杰伦抱怨自己是摇钱树，田馥甄力挺回应",
+                  "play": 2496,
+                  "duration": "0:34",
+                  "author": "hebe龙之子"
+                }
+              ],
+              "audio": "music/newrelease_297-06 值得紀念的垃圾 - 田馥甄 (Hebe).mp3"
+            },
+            {
+              "rank": 7,
+              "last_rank": null,
+              "song_name": "雲",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/hk/tc/song/0pcTEYclMinpVtVw8i",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/hk/tc/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV14Hhb6zE4P",
+                  "title": "【有时淡 有时浓】田馥甄《云》全曲试听，邹序作词作曲。#要去什么地方",
+                  "play": 858,
+                  "duration": "3:12",
+                  "author": "Hebe馥甄日记_"
+                },
+                {
+                  "bvid": "BV1PJ411U72D",
+                  "title": "田馥甄Hebe《旧梦》我超级喜欢这首歌",
+                  "play": 13479,
+                  "duration": "2:21",
+                  "author": "琅琊酒剑仙"
+                },
+                {
+                  "bvid": "BV1WWhf6SEVW",
+                  "title": "【无损和声伴奏】云 - 田馥甄  田馥甄云伴奏",
+                  "play": 11,
+                  "duration": "3:25",
+                  "author": "伴奏君s"
+                }
+              ]
+            },
+            {
+              "rank": 8,
+              "last_rank": null,
+              "song_name": "乾淨的房間",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/hk/tc/song/CsmULVm93ZiY1Dkq1U",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/hk/tc/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1xshb6qEBL",
+                  "title": "【姐在怀念谁？】田馥甄《干净的房间》全曲试听，苏研之作词，宋世尧作曲。#要去什么地方",
+                  "play": 1619,
+                  "duration": "3:47",
+                  "author": "Hebe馥甄日记_"
+                },
+                {
+                  "bvid": "BV1Wphf6nESg",
+                  "title": "【无损和声伴奏】干净的房间 - 田馥甄  田馥甄干净的房间伴奏",
+                  "play": 87,
+                  "duration": "4:0",
+                  "author": "伴奏君s"
+                },
+                {
+                  "bvid": "BV1Wshb6qERY",
+                  "title": "田馥甄你要去什么地方 能不能把我带到你那干净的房间 好想好想好想你 回来还是那个你",
+                  "play": 68,
+                  "duration": "3:56",
+                  "author": "我们去看晚霞吧"
+                }
+              ]
+            },
+            {
+              "rank": 9,
+              "last_rank": null,
+              "song_name": "果",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/hk/tc/song/D-yGCqRGldMimozF06",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/hk/tc/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1sshb6qEHc",
+                  "title": "【𝐇𝐢-𝐑𝐞𝐬无损臻享】田馥甄《果》|吴青峰作词|新专辑收尾曲",
+                  "play": 3860,
+                  "duration": "3:55",
+                  "author": "狡兔音乐"
+                },
+                {
+                  "bvid": "BV1sshb6qE7o",
+                  "title": "【专辑纯享】田馥甄《要去什么地方》全部10首曲目歌词完整版|时隔6年全新专辑",
+                  "play": 29275,
+                  "duration": "36:56",
+                  "author": "唯一音乐馆"
+                },
+                {
+                  "bvid": "BV1tnhb6gEu4",
+                  "title": "田馥甄六专最佳单曲《果》导致加拿大意面缺货",
+                  "play": 6334,
+                  "duration": "3:55",
+                  "author": "WLAN图雅日记"
+                }
+              ]
+            },
+            {
+              "rank": 10,
+              "last_rank": null,
+              "song_name": "靜脈",
+              "artist": "田馥甄 (Hebe)",
+              "album": "要去什麼地方",
+              "cover": "https://i.kfs.io/album/global/298755321,0v5/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/hk/tc/song/Lab7p355zEPThxgZbr",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/Xa_WYdZHejH-lBzV-F",
+              "album_url": "https://www.kkbox.com/hk/tc/album/CnWOwwVF4d6Z28KAWv",
+              "genres": [
+                "華語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1m5hf6dEyb",
+                  "title": "【很仙的语感/全专最佳】田馥甄《静脉》全曲试听，葛大为作词，杨格作曲。#要去什么地方",
+                  "play": 3919,
+                  "duration": "3:37",
+                  "author": "Hebe馥甄日记_"
+                },
+                {
+                  "bvid": "BV168hf61EUQ",
+                  "title": "【无损和声伴奏】静脉 - 田馥甄  田馥甄静脉伴奏",
+                  "play": 44,
+                  "duration": "3:54",
+                  "author": "伴奏君s"
+                },
+                {
+                  "bvid": "BV1GTag6cEjz",
+                  "title": "【新专首翻唱】蔡旻佑cover田馥甄《静脉》#要去什么地方",
+                  "play": 1655,
+                  "duration": "2:36",
+                  "author": "Hebe馥甄日记_"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "newrelease_320",
+          "type": "newrelease",
+          "title": "新歌榜·本地",
+          "category": "本地",
+          "songs": [
+            {
+              "rank": 1,
+              "last_rank": 2,
+              "song_name": "四",
+              "artist": "陳卓賢 (Ian Chan)",
+              "album": "四",
+              "cover": "https://i.kfs.io/album/global/298887838,0v3/fit/500x500.jpg",
+              "release_date": 1790092800,
+              "song_url": "https://www.kkbox.com/hk/tc/song/8r9nsNM059bDQN2ySC",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/0nelaXeN5hLUIxaHvs",
+              "album_url": "https://www.kkbox.com/hk/tc/album/0rA6kQltHaJ6l-SEs3",
+              "genres": [
+                "粵語流行",
+                "抒情"
+              ],
+              "profile": "MIRROR成員，男歌手",
+              "bili": [
+                {
+                  "bvid": "BV1TQhs6YEmC",
+                  "title": "港乐新歌 ｜ Ian 陈卓贤 - 《四》",
+                  "play": 1273,
+                  "duration": "4:1",
+                  "author": "港乐新歌"
+                },
+                {
+                  "bvid": "BV1Uqh867E9K",
+                  "title": "Ian Chan 陈卓贤《四》Official Music Video",
+                  "play": 454,
+                  "duration": "4:1",
+                  "author": "港乐新歌"
+                },
+                {
+                  "bvid": "BV1Mohb61EDc",
+                  "title": "《四 | 原声 | 纯人声》— Ian 陈卓贤 [ 全字幕 (Hi-Res) MV  縱歷千百輪迴，亦願跨越光陰，與你再渡一生  ]",
+                  "play": 619,
+                  "duration": "6:29",
+                  "author": "港樂講乜"
+                }
+              ]
+            },
+            {
+              "rank": 2,
+              "last_rank": 1,
+              "song_name": "陽光普照",
+              "artist": "容祖兒 (Joey Yung)",
+              "album": "陽光普照",
+              "cover": "https://i.kfs.io/album/global/298793948,0v1/fit/500x500.jpg",
+              "release_date": 1789920000,
+              "song_url": "https://www.kkbox.com/hk/tc/song/DXGwVNJSg_DL9C4rwa",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/CkUufnD9LnwAcywq5t",
+              "album_url": "https://www.kkbox.com/hk/tc/album/0pyzY0mq88Op5ZXlUv",
+              "genres": [
+                "粵語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1egaN6XEqW",
+                  "title": "[Hi-Res + 5.1声道] 阳光普照 - 容祖儿 | DTS/Dolby Atmos杜比环绕全景声试音音频可视化",
+                  "play": 12,
+                  "duration": "3:16",
+                  "author": "dts51_com"
+                },
+                {
+                  "bvid": "BV19QYp6rEnQ",
+                  "title": "【治愈温柔】《啾啾咩咩》-邓典|明天也 阳光 普照",
+                  "play": 106,
+                  "duration": "3:6",
+                  "author": "jay的实验室"
+                },
+                {
+                  "bvid": "BV1eShb6nEYv",
+                  "title": "【容祖儿】《阳光普照》要去拥抱漆黑中的日照",
+                  "play": 6456,
+                  "duration": "3:31",
+                  "author": "容祖儿"
+                }
+              ]
+            },
+            {
+              "rank": 3,
+              "last_rank": 3,
+              "song_name": "傷心萬里通",
+              "artist": "江𤒹生 (Anson Kong)",
+              "album": "傷心萬里通",
+              "cover": "https://i.kfs.io/album/global/298380602,0v1/fit/500x500.jpg",
+              "release_date": 1788969600,
+              "song_url": "https://www.kkbox.com/hk/tc/song/WsvMu-tWZsiE9GFcSJ",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/LaXZnEHPMgHOsQ41qD",
+              "album_url": "https://www.kkbox.com/hk/tc/album/0naMeG2ntCwosppFrb",
+              "genres": [
+                "粵語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1ssYu6XE6d",
+                  "title": "AK 江𤒹生《伤心万里通》（ Loser Miles ）Official Music Video",
+                  "play": 1425,
+                  "duration": "4:9",
+                  "author": "港乐新歌"
+                },
+                {
+                  "bvid": "BV1ibjpzSEPo",
+                  "title": "粤语歌单｜「为何自作孽 遗憾这一辈子」｜《心死了几百次》｜江𤒹生",
+                  "play": 2776,
+                  "duration": "4:12",
+                  "author": "人把烧鹅都还给了神"
+                },
+                {
+                  "bvid": "BV17yY36mE95",
+                  "title": "【4K MV】傷心萬里通 江𤒹生 2026",
+                  "play": 22,
+                  "duration": "4:9",
+                  "author": "肥臏"
+                }
+              ]
+            },
+            {
+              "rank": 4,
+              "last_rank": 4,
+              "song_name": "I Played Me Like A Fool",
+              "artist": "李駿傑 (Jeremy Lee)",
+              "album": "I Played Me Like A Fool",
+              "cover": "https://i.kfs.io/album/global/298883722,0v2/fit/500x500.jpg",
+              "release_date": 1790006400,
+              "song_url": "https://www.kkbox.com/hk/tc/song/HaaH3fQVE8K3ZbLH8k",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/WmD4jdUEUtj1Jr6IY8",
+              "album_url": "https://www.kkbox.com/hk/tc/album/HYgVx6iwU1EtVzPc6c",
+              "genres": [
+                "粵語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1XEhH6tE7M",
+                  "title": "Jeremy 李駿傑《I Played Me Like A Fool》Official Music Video",
+                  "play": 371,
+                  "duration": "3:18",
+                  "author": "衝出了宇宙"
+                },
+                {
+                  "bvid": "BV18ihE6JEeR",
+                  "title": "Jeremy 李骏杰《I Played Me Like A Fool》Official Music Video",
+                  "play": 408,
+                  "duration": "3:18",
+                  "author": "港乐新歌"
+                },
+                {
+                  "bvid": "BV19jhH6fEFQ",
+                  "title": "Jeremy 李駿傑《I Played Me Like A Fool》MV",
+                  "play": 66,
+                  "duration": "3:32",
+                  "author": "钮钴禄猫"
+                }
+              ]
+            },
+            {
+              "rank": 5,
+              "last_rank": 5,
+              "song_name": "BRO!",
+              "artist": "MIRROR",
+              "album": "BRO!",
+              "cover": "https://i.kfs.io/album/global/297986592,0v1/fit/500x500.jpg",
+              "release_date": 1788105600,
+              "song_url": "https://www.kkbox.com/hk/tc/song/1_sIWz7k_TKl4ZkD-Z",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/9ZSaf_i6Jj_jLxloxo",
+              "album_url": "https://www.kkbox.com/hk/tc/album/WsGU9KeTjmG2Bt4gJS",
+              "genres": [
+                "粵語流行",
+                "偶像團體"
+              ],
+              "profile": "香港男子偶像團體",
+              "bili": [
+                {
+                  "bvid": "BV1BNmbBbEcN",
+                  "title": "【UNBEATABLE】MIRROR (kamome sano Remix)",
+                  "play": 5097,
+                  "duration": "3:36",
+                  "author": "废材一支"
+                },
+                {
+                  "bvid": "BV1TLCdYpEDG",
+                  "title": "RWBY│《Mirror Mirror (White Trailer) 》四色战记 第一季 小白角色曲",
+                  "play": 12968,
+                  "duration": "2:56",
+                  "author": "柴特Chite"
+                },
+                {
+                  "bvid": "BV1H142127f5",
+                  "title": "MIRROR-Ado 4弦贝斯谱",
+                  "play": 8368,
+                  "duration": "3:0",
+                  "author": "半截馒头-BASS"
+                }
+              ]
+            },
+            {
+              "rank": 6,
+              "last_rank": 6,
+              "song_name": "成日受傷的女人",
+              "artist": "Serrini",
+              "album": "成日受傷的女人",
+              "cover": "https://i.kfs.io/album/global/298620375,0v1/fit/500x500.jpg",
+              "release_date": 1789660800,
+              "song_url": "https://www.kkbox.com/hk/tc/song/KnffyQh8KmKv6P6zhC",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/CnoLm-i5Ft4y7FSh2-",
+              "album_url": "https://www.kkbox.com/hk/tc/album/Wn_KETHnUikGi1u1kK",
+              "genres": [
+                "粵語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1HKe26sEYd",
+                  "title": "港乐新歌 ｜ SERRINI - 《成日受伤的女人》",
+                  "play": 3137,
+                  "duration": "4:37",
+                  "author": "港乐新歌"
+                },
+                {
+                  "bvid": "BV1Uehq6YEcV",
+                  "title": "SERRINI 树莉² 《成日受伤的女人》“She, Who Gathers Heartbreaks Like Flowers” Official Video",
+                  "play": 2167,
+                  "duration": "5:30",
+                  "author": "港乐新歌"
+                },
+                {
+                  "bvid": "BV1Tqev6eEGE",
+                  "title": "树莉莉 Serrini - 成日受伤的女人 「行为情侣 行前如倒退」【動態歌詞/Lyrics Video】 #树莉莉 Serrini #成日受伤的女人 #動態歌",
+                  "play": 344,
+                  "duration": "4:38",
+                  "author": "WCYMusicStudio"
+                }
+              ]
+            },
+            {
+              "rank": 7,
+              "last_rank": 8,
+              "song_name": "尚有愛的資格",
+              "artist": "陳柏宇 (Jason Chan)",
+              "album": "尚有愛的資格",
+              "cover": "https://i.kfs.io/album/global/298672165,0v3/fit/500x500.jpg",
+              "release_date": 1789920000,
+              "song_url": "https://www.kkbox.com/hk/tc/song/D_4XSn_KOtw-YHxkRv",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/PX9wYRGILmWjh69GOR",
+              "album_url": "https://www.kkbox.com/hk/tc/album/PYO0lcuGqns_RpaOQR",
+              "genres": [
+                "粵語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1uqh86EEe4",
+                  "title": "陈柏宇 Jason Chan - 尚有爱的资格 Worthy to love | Official Music Video",
+                  "play": 985,
+                  "duration": "3:49",
+                  "author": "港乐新歌"
+                },
+                {
+                  "bvid": "BV17Le26EEhL",
+                  "title": "新歌派台 ｜ 陈柏宇 - 《尚有爱的资格》电台首播",
+                  "play": 2816,
+                  "duration": "3:47",
+                  "author": "港乐新歌"
+                },
+                {
+                  "bvid": "BV1sGha6VEus",
+                  "title": "【新歌音频】陈柏宇《尚有爱的资格》",
+                  "play": 57,
+                  "duration": "3:30",
+                  "author": "mihotang喵喵"
+                }
+              ]
+            },
+            {
+              "rank": 8,
+              "last_rank": 7,
+              "song_name": "你離開我的時候 神奇的事發生了",
+              "artist": "Day 許軼",
+              "album": "你離開我的時候 神奇的事發生了",
+              "cover": "https://i.kfs.io/album/global/298615984,0v1/fit/500x500.jpg",
+              "release_date": 1789574400,
+              "song_url": "https://www.kkbox.com/hk/tc/song/OmvhPLL9TsIBfB2FPA",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/OpzU8KRiE_QnHfdEbP",
+              "album_url": "https://www.kkbox.com/hk/tc/album/TYKEyk0fOR7Qigu2Qy",
+              "genres": [
+                "粵語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1Q7eM6aEmc",
+                  "title": "港乐新歌 ｜ DAY 许轶 - 《你离开我的时候 神奇的事发生了》",
+                  "play": 2195,
+                  "duration": "3:37",
+                  "author": "港乐新歌"
+                },
+                {
+                  "bvid": "BV1WJe36ZEqU",
+                  "title": "Day 许轶《你离开我的时候 神奇的事发生了》（Thank You For Leaving Me）Official Music Video",
+                  "play": 1771,
+                  "duration": "3:46",
+                  "author": "港乐新歌"
+                },
+                {
+                  "bvid": "BV1nner6zEgS",
+                  "title": "Day 許軼 - 你離開我的時候  神奇的事發生了",
+                  "play": 15,
+                  "duration": "3:46",
+                  "author": "Mak21"
+                }
+              ]
+            },
+            {
+              "rank": 9,
+              "last_rank": null,
+              "song_name": "淺粉紅 pale pink",
+              "artist": "Gareth.T",
+              "album": "淺粉紅",
+              "cover": "https://i.kfs.io/album/global/298894430,0v1/fit/500x500.jpg",
+              "release_date": 1790179200,
+              "song_url": "https://www.kkbox.com/hk/tc/song/Gt8IOaZu-2a5_lya0H",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/OnoJMa4Ue0DkOzBVkj",
+              "album_url": "https://www.kkbox.com/hk/tc/album/Om7sg4koP4HnDzfKOh",
+              "genres": [
+                "粵語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1D6aP65Evb",
+                  "title": "Gareth.T 汤令山 -《浅粉红 pale pink》Official 4K Music Video",
+                  "play": 862,
+                  "duration": "3:29",
+                  "author": "金曲奖吧官方频道"
+                },
+                {
+                  "bvid": "BV11taN63EmR",
+                  "title": "gareth.t - 浅粉红 baby pink (official video)",
+                  "play": 2634,
+                  "duration": "4:4",
+                  "author": "港乐新歌"
+                },
+                {
+                  "bvid": "BV1sbaN66EBk",
+                  "title": "gareth.t - 浅粉红 pale pink (official video)",
+                  "play": 1108,
+                  "duration": "3:29",
+                  "author": "港乐新歌"
+                }
+              ]
+            },
+            {
+              "rank": 10,
+              "last_rank": 10,
+              "song_name": "仙女座事故 (個人觀察紀錄)",
+              "artist": "陳健安 (On Chan)",
+              "album": "仙女座事故 (個人觀察紀錄)",
+              "cover": "https://i.kfs.io/album/global/298617484,0v1/fit/500x500.jpg",
+              "release_date": 1789660800,
+              "song_url": "https://www.kkbox.com/hk/tc/song/KsF5D5l3fpSTTRT_-6",
+              "artist_url": "https://www.kkbox.com/hk/tc/artist/4mPQBc6fNyolbol3OK",
+              "album_url": "https://www.kkbox.com/hk/tc/album/CrpmsV7JyWtog6bovg",
+              "genres": [
+                "粵語流行"
+              ],
+              "profile": "",
+              "bili": [
+                {
+                  "bvid": "BV1oVYK6YERU",
+                  "title": "陈健安 良少《仙女座事故》Andromeda Crush (Official MV)",
+                  "play": 1467,
+                  "duration": "3:57",
+                  "author": "港乐新歌"
+                },
+                {
+                  "bvid": "BV1njN262Eu2",
+                  "title": "良少, 陈健安 On Chan - 仙女座事故 (Lyric Video)",
+                  "play": 1771,
+                  "duration": "2:57",
+                  "author": "港乐新歌"
+                },
+                {
+                  "bvid": "BV14Hbj6PE71",
+                  "title": "[Hi-Res + 5.1声道] 仙女座事故 - 良少 / 陈健安 | DTS/Dolby Atmos杜比环绕全景声试音音频可视化",
+                  "play": 209,
+                  "duration": "2:57",
+                  "author": "dts51_com"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
